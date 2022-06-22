@@ -6,3 +6,9 @@
 
 - Data -> Group
 
+## Bath create folders
+
+- Format in excel
+    - `md folder\folder`
+- Copy and paste to `.txt`
+- Rename `.txt` to `.bat`
