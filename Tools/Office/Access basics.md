@@ -18,19 +18,41 @@ excersize files to be downloaded
 
 ## Basics
 
-- Table
-	- Store data
-- Query
-	- Record for analysis such as calculation and filter
-- Form
-	- Interact with user to allow data entry
-- Report
-	- Output table and query
-- Macro
-	- Autpmate process
+- Object
+	- Table
+		- Store data
+	- Query
+		- Record for analysis such as calculation and filter
+	- Form
+		- Interact with user to allow data entry
+	- Report
+		- Output table and query
+	- Macro
+		- Autpmate process
 - Key
 	- Connect tables
-	- Primary key: identification
-- Database 
+	- Primary key: 1st col for identification
+	- Foreign key: 2nd or 3rd col
+- Data type
+	- Short text
+	- Long text
+	- Number
+	- Date/Time
+	- Currency
+	- AutoNumber
+	- Boolean
+	- Attachment: hyperlink is better
+	- Calculated filed and lookup wizard
+- Database normalization
+	- First Normal Form
+		- Each cell of a tbale contains only a single value
+	- Second Normal Form
+		- Data not dependent on the primary key moved to a separate table
+	- Third Normal Form
+		- Data that can be derived from other fields should not be stored
+- Import external data
 
-https://www.bilibili.com/video/BV1oW411e7du?p=15&spm_id_from=pageDriver
+
+
+
+https://www.bilibili.com/video/BV1oW411e7du?p=20&vd_source=b5d7c4596d85c4178f7e5a439f1eba44
