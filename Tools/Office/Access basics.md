@@ -52,6 +52,43 @@ excersize files to be downloaded
 		- Data that can be derived from other fields should not be stored
 - Import external data
 
+## Table
+
+ - Relationship
+	- Database tool - relationship
+	- Enforce referential intergrity
+		- Disable orphan record with no parent relationship
+	- Cascade update/delete
+		- Change realted table when parent table change
+	- Type
+		- One to many
+		- Many to many
+			- By creating a junction table
+		- One to one
+			- If btoh are primary keys
+			- Not common
+- View
+	- Datasheet view
+	- Design view
+- Control input data with mask
+	- Design view - General - Input mask
+	- Mask format
+	
+      <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220623093648.png" width="600" height="">
+
+- Set defualt value
+	- 
+
+## Query
+
+
+## Form
+
+
+## Rerport 
+
+
+## Maintain datebase
 
 
 

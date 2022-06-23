@@ -180,7 +180,7 @@ https://www.bilibili.com/video/BV16x411B7zB/?spm_id_from=333.788.recommend_more_
 		-	Hide in model view
 		-	Hide in print
 
-	<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220618000456.png" width="200" height="">
+	        <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220618000456.png" width="100" height="">
 
 - View
 	- `MV`: model view in layout

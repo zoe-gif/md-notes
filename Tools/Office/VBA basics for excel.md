@@ -53,7 +53,7 @@
 
 - Data type
 
-<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220610103358.png" width="800" height="">
+  <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220610103358.png" width="600" height="">
 
 - `Option Explicit`: must declare all variables to run module
 - `Ctrl + space` to ambiguous search variable names
@@ -70,11 +70,11 @@
 		- `Const Noon = #12:00:00#`
 - Arthmetic operator:
 
-<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220613103007.png" width="600" height="">
+  <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220613103007.png" width="500" height="">
 
 - Logical operator:
 
-<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220613103147.png" width="600" height="">
+  <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220613103147.png" width="500" height="">
 
 - Array
 	- One-dimensional array
@@ -183,11 +183,11 @@
 
 - Built-in VBA funtion
 
-	<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220616184017.png" width="800" height="">
-	<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220616184053.png" width="800" height="">
-	<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220616184232.png" width="800" height="">
-	<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220616184135.png" width="800" height="">
-	<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220616184153.png" width="800" height="">
+	<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220616184017.png" width="600" height="">
+	<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220616184053.png" width="600" height="">
+	<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220616184232.png" width="600" height="">
+	<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220616184135.png" width="600" height="">
+	<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220616184153.png" width="600" height="">
 
 - Use worksheet function in VBA
 	- WorksheetFunction (object under Application)

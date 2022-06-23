@@ -8,7 +8,9 @@
 	- Deep foundation
 	- Driven to stable strata
 	- Linked by pile cap
-<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220609110246.png" width="300" height="">
+
+      <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220609110246.png" width="300" height="">
+
 - Material: steel, reinforced concrete, sometimes timber
 - Classification
 	- End-bearing piles
@@ -51,7 +53,9 @@
 			- Secant pile wall
 				- Interlocking pile walls
 				- Application: cost effective for shor-term water retention
-<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220608171709.png" width="300" height="">
+
+                 <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220608171709.png" width="300" height="">
+
 			-	Tangent pile wall
 				-	Similar to secant pile wall, but no pile overlap
 			- Sheet pile wall
@@ -67,7 +71,9 @@
 		- Construction practice
 			- Pre-fabricated loops filled with heat transfer fluid
 		- Not widely used
-<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220609105152.png" width="300" height="">
+
+        <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220609105152.png" width="300" height="">.
+
 - Construction practice
 	- Pile equipment
 		- Percussion dirver: driven by stram, compressed air ot diesel
@@ -87,26 +93,38 @@
 	- Driven into the ground 
 	- To provide earth retention and excavation support
 	- Material: steel (mostly), timber, reinforced concrete
-<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220607145449.png" width="300" height="">
-<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220607150555.png" width="300" height="">
-<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220607150640.png" width="300" height="">
+
+   <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220607145449.png" width="200" height="">
+   <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220607150555.png" width="200" height="">
+   <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220607150640.png" width="200" height="">
+
 - Application
 	- Retaining walls, land reclamation, underground structures
 	- e.g. carpark, basement, riverbank protection, seawall
 - Forms of steel sheet piles
 	- Normal section - Larssen and Frodingham sheet piles
-<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220607155356.png" width="300" height="">
+
+    	 <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220607155356.png" width="300" height="">
+
 	- Straight web sections
-<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220607155506.png" width="300" height="">
+
+		<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220607155506.png" width="300" height="">
+
 	- Box sections
-<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220607160948.png" width="300" height="">
+
+		<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220607160948.png" width="300" height="">
+
 	- Composite sections
-<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220607161048.png" width="300" height="">
+
+		<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220607161048.png" width="300" height="">
+
 - Construction practice
 	- Method
 		- Panel driving
 			- Erect a panel inside a stiff template before driving the pipes
-	<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220607161829.png" width="300" height="">
+	
+			<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220607161829.png" width="300" height="">
+
 			- Application
 				- For permanent walls
 				- In soils where leaning is predicted
