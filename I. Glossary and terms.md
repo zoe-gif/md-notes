@@ -60,6 +60,7 @@
 - inverter - convrt direct current into alternating current
 - tinned - 镀锡的
 - miniature - 微型
+- diode - 二极管
 
 ## Other
 
@@ -122,3 +123,5 @@
 - impair - 妨碍，削弱
 - batten - 板条
 - prismatic - 棱柱形
+- surpersede - 取代
+- rotary - 旋转
