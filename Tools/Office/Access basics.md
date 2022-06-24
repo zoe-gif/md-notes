@@ -70,7 +70,7 @@ excersize files to be downloaded
 - View
 	- Datasheet view
 	- Design view
-- Control input data with mask
+- Control input format with mask
 	- Design view - General - Input mask
 	- Mask format
 	
