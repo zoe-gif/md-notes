@@ -72,15 +72,34 @@ excersize files to be downloaded
 	- Design view
 - Control input format with mask
 	- Design view - General - Input mask
-	- Mask format
-	
-      <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220623093648.png" width="600" height="">
-
+	- <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220623093648.png" width="600" height="">
 - Set defualt value
-	- 
+	- Design view - Default value
+	- Field - Default value
+- Validation rule
+	- Design view - Validation rule & text
+	- <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220625000151.png" width="650" height="">
+- Create lookup field
+	- Design view - Date type - Lookup wizard
+	- Show list of value choices when inputting data in field
+	- Limit to list: cannot enter value other than listed
+- Properties of field
+	- Field size
+	- Required
+	- Indexed: accelerate searching and sorting, more time for update
+- Text formating
+	- Change color of alternative rows
+	- Design view - Long text - Text format - Rich text
+		- Can change format of partial characters in a field
+- Sort & Filter
+- Search & Replace `Ctrl + F`
 
 ## Query
-
+- Function
+	- Ask quetions about data
+	- Not store data, but reassemble data fields in tables
+	- Update every time of run
+	- Look and function like a data table
 
 ## Form
 
@@ -92,4 +111,4 @@ excersize files to be downloaded
 
 
 
-https://www.bilibili.com/video/BV1oW411e7du?p=20&vd_source=b5d7c4596d85c4178f7e5a439f1eba44
+https://www.bilibili.com/video/BV1oW411e7du?p=34&vd_source=b5d7c4596d85c4178f7e5a439f1eba44
