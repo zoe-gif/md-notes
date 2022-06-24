@@ -120,3 +120,5 @@ ancillary - 补充的，辅助的
 segregation - 隔离
 vicinity - 附近
 intruder - 入侵者
+deterrent - 威慑
+monochrome - 单色
