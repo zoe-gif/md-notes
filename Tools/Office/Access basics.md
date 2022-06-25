@@ -79,6 +79,8 @@ excersize files to be downloaded
 - Validation rule
 	- Design view - Validation rule & text
 	- <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220625000151.png" width="650" height="">
+	- Wildcard
+	- <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220625224739.png" width="650" height="">
 - Create lookup field
 	- Design view - Date type - Lookup wizard
 	- Show list of value choices when inputting data in field
@@ -100,6 +102,19 @@ excersize files to be downloaded
 	- Not store data, but reassemble data fields in tables
 	- Update every time of run
 	- Look and function like a data table
+- Design view
+	- Sort: Ascending, Descending
+	- Show
+	- Criteria: similar to validating data
+		- Flexible query with parameter requests
+			- Like [which starting letter] & "*"
+	- Expression Builder
+		- Build query field using table field
+		- Formulas and calculation available
+		- [new_query_field_name]: [table_name]![field_name] * 5
+- Totals: summary calculations
+	- Design view: summary in col
+	- Datasheet view: summmary at the lowest row
 
 ## Form
 
@@ -111,4 +126,4 @@ excersize files to be downloaded
 
 
 
-https://www.bilibili.com/video/BV1oW411e7du?p=34&vd_source=b5d7c4596d85c4178f7e5a439f1eba44
+https://www.bilibili.com/video/BV1oW411e7du?p=45&vd_source=b5d7c4596d85c4178f7e5a439f1eba44
