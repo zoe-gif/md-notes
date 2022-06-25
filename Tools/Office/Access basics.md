@@ -108,6 +108,7 @@ excersize files to be downloaded
 	- Criteria: similar to validating data
 		- Flexible query with parameter requests
 			- Like [which starting letter] & "*"
+		- Is Null
 	- Expression Builder
 		- Build query field using table field
 		- Formulas and calculation available
