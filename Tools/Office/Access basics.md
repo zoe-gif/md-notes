@@ -108,7 +108,9 @@ excersize files to be downloaded
 	- Criteria: similar to validating data
 		- Flexible query with parameter requests
 			- Like [which starting letter] & "*"
-		- Is Null
+		- Find unmatched records
+		- Double click relationship link to change join property
+		- Criteria: Is Null
 	- Expression Builder
 		- Build query field using table field
 		- Formulas and calculation available
@@ -116,6 +118,14 @@ excersize files to be downloaded
 - Totals: summary calculations
 	- Design view: summary in col
 	- Datasheet view: summmary at the lowest row
+- Update query
+	- Bulk update value after criteria data
+- Make table out of query
+- Delete query
+	- Porperty sheet- unique records
+- Append query
+	- 
+
 
 ## Form
 
@@ -127,4 +137,4 @@ excersize files to be downloaded
 
 
 
-https://www.bilibili.com/video/BV1oW411e7du?p=45&vd_source=b5d7c4596d85c4178f7e5a439f1eba44
+https://www.bilibili.com/video/BV1oW411e7du?p=49&vd_source=b5d7c4596d85c4178f7e5a439f1eba44&t=34.5
