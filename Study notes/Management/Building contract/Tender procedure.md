@@ -10,7 +10,3 @@ Types of Contract:
 - Lump sum contract with firm Bills of Quantities
 - Cost reimbursement contract
 - Design and build contract (normally priced as lump sum)
-
-## Tender documentation
-
-
