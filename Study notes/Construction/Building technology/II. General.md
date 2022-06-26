@@ -1,6 +1,5 @@
 ﻿20220415
-https://www.designingbuildings.co.uk/
-https://constructionor.com/
+
 
 ---
 

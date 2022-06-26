@@ -1,5 +1,11 @@
-﻿20220415
-
+﻿---
+title: Glossary and terms
+date: 2022-06-10
+update: 2022-06-20
+categories:
+    - Study notes
+tags: - Glossary
+description: 
 ---
 
 ## Building
@@ -61,6 +67,31 @@
 - tinned - 镀锡的
 - miniature - 微型
 - diode - 二极管
+
+## Math
+
+- exponent - 指数
+- fraction - 分数
+- circumference - 圆周
+- quotient - 商
+- product - 乘积
+- factor - 因数
+- intercept - 截距
+- parentheses - 括号
+- quadratic - 二次方
+- polynomial - 多项式
+- monomial - 单项式
+- Pythagorean theorem - 勾股定理
+- numerator - 分子
+- denominator - 分母
+- root index - 根指数
+- squared - 被开方数
+- ellipsis - 省略号
+- vector - 向量
+- integral - 积分
+- integrand - 被积表达式
+- product - 累乘
+- union - 并集
 
 ## Other
 

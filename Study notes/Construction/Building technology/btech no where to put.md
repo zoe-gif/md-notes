@@ -1,5 +1,7 @@
 ﻿20220608
 https://www.bd.gov.hk/en/resources/codes-and-references/codes-and-design-manuals/index.html
+https://www.designingbuildings.co.uk/
+https://constructionor.com/
 
 ---
 from the handbook 

@@ -1,7 +1,12 @@
-﻿tbc
-
-https://www.bilibili.com/video/BV1DB4y1F7mL?spm_id_from=333.337.search-card.all.click&vd_source=b5d7c4596d85c4178f7e5a439f1eba44
-
+﻿---
+title: 3DSMAX Basics
+date: 2022-06-10
+update: 2022-06-15
+categories: 
+    - Tools
+    - 3D
+tags: - 3DSMAX
+description: 
 ---
 
 ## Operations

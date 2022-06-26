@@ -1,7 +1,12 @@
-﻿20220621 
-tbc https://www.bilibili.com/video/BV1F54y1j7wb?p=75&vd_source=b5d7c4596d85c4178f7e5a439f1eba44
-https://www.bilibili.com/video/BV16x411B7zB/?spm_id_from=333.788.recommend_more_video.0&vd_source=b5d7c4596d85c4178f7e5a439f1eba44
-
+﻿---
+title: AutoCAD Basics
+date: 2022-06-10
+update: 2022-06-15
+categories: 
+    - Tools
+    - 2D
+tags: - AutoCAD
+description: 
 ---
 
 ## Settings

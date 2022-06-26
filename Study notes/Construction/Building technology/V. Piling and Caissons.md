@@ -1,5 +1,13 @@
-﻿20220417
-
+﻿---
+title: Piling and Caissons
+date: 2022-06-10
+update: 2022-06-20
+categories:
+    - Study notes
+	- Construction
+	- Building technology
+tags: - Foundation
+description: 
 ---
 
 ## Piling General
@@ -8,8 +16,7 @@
 	- Deep foundation
 	- Driven to stable strata
 	- Linked by pile cap
-
-      <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220609110246.png" width="300" height="">
+	- <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220609110246.png" width="300" height="">
 
 - Material: steel, reinforced concrete, sometimes timber
 - Classification
@@ -53,8 +60,7 @@
 			- Secant pile wall
 				- Interlocking pile walls
 				- Application: cost effective for shor-term water retention
-
-                 <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220608171709.png" width="300" height="">
+				- <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220608171709.png" width="300" height="">
 
 			-	Tangent pile wall
 				-	Similar to secant pile wall, but no pile overlap
@@ -71,8 +77,7 @@
 		- Construction practice
 			- Pre-fabricated loops filled with heat transfer fluid
 		- Not widely used
-
-        <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220609105152.png" width="300" height="">.
+		 -<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220609105152.png" width="300" height="">.
 
 - Construction practice
 	- Pile equipment
@@ -81,9 +86,9 @@
 		- Vibratory driver: vibrate piles into the ground
 		- Rotary auger: screw replacement piles
 	- Strutting and shoring
-		- 1111111111
+		- 11111111111111111111111111 TBC
 	- Preboring
-		- 111111111
+		- 11111111111111111111111111 TBC
 
 
 ## Steel Sheet Piling

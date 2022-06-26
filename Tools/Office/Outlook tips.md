@@ -1,4 +1,15 @@
-﻿## Overquota warning
+﻿---
+title: Excel Application
+date: 2022-05-10
+update: 2022-05-10
+categories: 
+    - Tools
+    - Office
+tags: - Outlook
+description: 
+---
+
+## Overquota warning
 
 - File - Tools - Clean Up Old Items
 - Name Archive file with period or date

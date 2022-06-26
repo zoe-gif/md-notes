@@ -1,5 +1,12 @@
-﻿20220621
-
+﻿---
+title: AutoCAD Architecture (ACA) Basics
+date: 2022-06-10
+update: 2022-06-15
+categories: 
+    - Tools
+    - 3D
+tags: - ACA
+description: 
 ---
 
 ## Why AutoCAD Architecture
@@ -43,8 +50,6 @@
 	- Document
 	- Visualization
 
-????????????
-
 ## Grid lines
 
 - Enhanced custom grid (recommended)
@@ -60,12 +65,4 @@
 	- Click grid lines - Label
 
 ## Walls
-
-
-
-
-
-- https://www.youtube.com/watch?v=dx9LmrPnC-w&list=PLyLLcCaRflgCTuP493CZuUOFdMdh-a_jc&index=4
-- https://www.bilibili.com/video/BV1Js411n7K3?p=2&vd_source=b5d7c4596d85c4178f7e5a439f1eba44
-
 

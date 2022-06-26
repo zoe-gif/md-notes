@@ -1,6 +1,12 @@
-﻿tbc https://www.bilibili.com/video/BV1Tb411E7Co?p=11
-https://www.bilibili.com/video/BV1Mb41127rg?spm_id_from=333.337.search-card.all.click&vd_source=b5d7c4596d85c4178f7e5a439f1eba44
-
+﻿---
+title: SketchUp Basics
+date: 2022-06-10
+update: 2022-06-15
+categories: 
+    - Tools
+    - 3D
+tags: - SketchUp
+description: 
 ---
 
 ## Setting and basics

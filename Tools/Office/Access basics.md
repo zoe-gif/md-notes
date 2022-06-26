@@ -1,9 +1,12 @@
-﻿https://www.bilibili.com/video/BV1oW411e7du?spm_id_from=333.337.search-card.all.click
-
-excersize files to be downloaded
-
-20220622
-
+﻿---
+title: Access Basics
+date: 2022-06-10
+update: 2022-06-15
+categories: 
+    - Tools
+    - Office
+tags: - Access
+description: 
 ---
 
 ## Setting
@@ -134,7 +137,3 @@ excersize files to be downloaded
 
 
 ## Maintain datebase
-
-
-
-https://www.bilibili.com/video/BV1oW411e7du?p=49&vd_source=b5d7c4596d85c4178f7e5a439f1eba44&t=34.5

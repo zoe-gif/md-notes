@@ -1,5 +1,12 @@
-﻿20220621 tbc 153
-
+﻿---
+title: VBA Basics
+date: 2022-06-10
+update: 2022-06-15
+categories: 
+    - Tools
+    - Office
+tags: - VBA
+description: 
 ---
 
 ## Setting
