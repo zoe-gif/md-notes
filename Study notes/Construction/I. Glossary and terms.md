@@ -4,7 +4,7 @@ date: 2022-06-10
 update: 2022-06-20
 categories:
     - Study notes
-tags: - Glossary
+tags: Glossary
 description: 
 ---
 

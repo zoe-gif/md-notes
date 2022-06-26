@@ -6,7 +6,7 @@ categories:
     - Study notes
 	- Construction
 	- Building technology
-tags: - Foundation
+tags: Foundation
 description: 
 ---
 
