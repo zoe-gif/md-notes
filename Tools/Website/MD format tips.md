@@ -141,12 +141,6 @@ $$ f(x_1, x_2, \underbrace{\ldots}_\ldots, x_n) = x_1^2 + x_2^2$$
 --> Display:
 $$ f(x_1, x_2, \underbrace{\ldots}_{bottom}, x_n) = x_1^2 + x_2^2 + \underbrace{\cdots}_{center} + x_n^2$$
 
-### Vector
-
-- `\vec{vector name}` --> $\vec{x}$
-- `-overrightarrow` --> $\overrightarrow{x}$
-- `-overleftrightarrow` --> $\overleftrightarrow{x}$
-
 <br>
 
 ### Intergral
