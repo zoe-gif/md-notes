@@ -3,8 +3,8 @@ title: Access Basics
 date: 2022-06-10
 update: 2022-06-15
 categories: 
-    - Tools
-    - Office
+- Tools
+- Office
 tags: Access
 description: 
 ---

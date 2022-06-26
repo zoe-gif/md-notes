@@ -3,8 +3,8 @@ title: Excel Application
 date: 2022-05-10
 update: 2022-05-10
 categories: 
-    - Tools
-    - Office
+- Tools
+- Office
 tags: Outlook
 description: 
 ---

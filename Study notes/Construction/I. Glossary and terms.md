@@ -3,7 +3,7 @@ title: Glossary and terms
 date: 2022-06-10
 update: 2022-06-20
 categories:
-    - Study notes
+- Study notes
 tags: Glossary
 description: 
 ---

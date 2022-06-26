@@ -3,9 +3,9 @@ title: Piling and Caissons
 date: 2022-06-10
 update: 2022-06-20
 categories:
-    - Study notes
-	- Construction
-	- Building technology
+- Study notes
+- Construction
+- Building technology
 tags: Foundation
 description: 
 ---

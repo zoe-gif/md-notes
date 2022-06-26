@@ -3,8 +3,8 @@ title: AutoCAD Basics
 date: 2022-06-10
 update: 2022-06-15
 categories: 
-    - Tools
-    - 2D
+- Tools
+- 2D
 tags: AutoCAD
 description: 
 ---

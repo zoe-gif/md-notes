@@ -3,8 +3,8 @@ title: Image Hosting with Github & PicGo
 date: 2022-04-10
 update: 2022-06-09
 categories: 
-    - Tools
-    - Website
+- Tools
+- Website
 tags: PigGo
 description: 
 ---
