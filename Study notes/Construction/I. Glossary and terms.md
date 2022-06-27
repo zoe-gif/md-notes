@@ -49,7 +49,7 @@ description:
 - floor plank - 地板块
 - 出餅仔 - 拉柱頭 - 批盪（泥水批蕩點綫面，乾后下一步驟）
 
-## EM
+## EE
 
 - cable lug - 電纜接綫片
 - cable gland - 電纜接頭
@@ -67,6 +67,12 @@ description:
 - tinned - 镀锡的
 - miniature - 微型
 - diode - 二极管
+- lamp holder - 灯具支架
+- ceiling rose - a decorative element affixed to the ceiling from which a chandelier or light fitting is often suspended
+- cord - 绳索
+- lampshade - 灯罩
+- crimp - 压接
+- conbustible - 易燃
 
 ## Math
 
@@ -157,3 +163,5 @@ description:
 - surpersede - 取代
 - rotary - 旋转
 - photovoltaics - 光伏
+- indent - 缩进
+- aerial - 天线
