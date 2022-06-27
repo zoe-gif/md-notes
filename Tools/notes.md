@@ -1,7 +1,8 @@
 autocad
 
 tbc https://www.bilibili.com/video/BV1F54y1j7wb?p=75&vd_source=b5d7c4596d85c4178f7e5a439f1eba44
-https://www.bilibili.com/video/BV16x411B7zB/?spm_id_from=333.788.recommend_more_video.0&vd_source=b5d7c4596d85c4178f7e5a439f1eba44
+not start https://www.bilibili.com/video/BV16x411B7zB/?spm_id_from=333.788.recommend_more_video.0&vd_source=b5d7c4596d85c4178f7e5a439f1eba44
+lynda: https://www.bilibili.com/video/BV15i4y1u7QC?p=40&vd_source=b5d7c4596d85c4178f7e5a439f1eba44
 
 3dmax 
 

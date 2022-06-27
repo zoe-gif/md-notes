@@ -95,12 +95,15 @@ description:
 - `B`lock: block
 	- pick base point
 	- allow exploding
+	- redefine block by using same name to create block or edit block definition by double click
+- `G`roup: group
+	- group disappers after `UNGROUP`
 - `PO`int: point
 	- Format - point style
 - `H`atch: hatch
 	- select (line) or select point
 	- pattern scale
-	- `GRA`dient
+	- `GRA`: gradient
 	- delete boundary, drag, right click, generate boundary
 - `BO`undary & `REG`ion" boundary
 	- generate group lines
@@ -117,8 +120,9 @@ description:
 	- `ATT` for text attributes
 		- select only preset
 		- can change attribute value after forming block
+	- Align: property - justify or right click after `TEXT`
 - `W`rite: write block to export block as file
-- `DIV`ide & `ME`asure
+- `DIV` & `ME`: divide & measure
 	- `DIV` to input number of segment
 	- `ME` to input length of segment
 	- `B` to insert block at equal intervals
@@ -184,9 +188,7 @@ description:
 		-	Freeze
 		-	Hide in model view
 		-	Hide in print
-
-	        <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220618000456.png" width="100" height="">
-
+		-	<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220618000456.png" width="100" height="">
 - View
 	- `MV`: model view in layout
 	- `MS`pace & `PS`pace to go in modle view or layout view
@@ -198,7 +200,7 @@ description:
 
 ## Annotate
 
-- `D`imension style manager: to create style
+- `D`: Dimension style manager - to create style
 	- Name style `1：n`
 	- Lines
 		- Color 44 *2
@@ -227,6 +229,13 @@ description:
 	- `DCE`: dimension center
 - `DCO`: dimension continue
 	- Repeat last dimension acion
+- `DIMBASELINE`: continued dimension according to baseline
 - `QDIM`: quick dimension
+- Eidt dimension format
+	- `DIMBREAK`: break dimension
+	- `DIMSPACE`: adjust dimensions space
+- `MLD` MLEADER: multileader
+	- Add leader for multiple arrows
+
 
 
