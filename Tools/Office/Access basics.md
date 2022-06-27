@@ -127,11 +127,29 @@ description:
 - Delete query
 	- Porperty sheet- unique records
 - Append query
-	- 
-
+	- Combine tables
+	- Query design - choose fields - make table run - another table - choose fields - append - run
+- Union query SQL view
+	- `UNION` to combine tables
+	- `SORT BY` to sort
+	- `;` to end
+- Crosstab query
+	- Choose row and col heading & value to rearrange layout
 
 ## Form
-
+- Function
+	- Create graphical user interface to database
+	- Navigation through objects
+	- Buttons to run macros and VBA
+- Create form form wizard
+- Form property sheet  `alt + enter`
+	- Data - record source - add existing field: to set data source
+- Add components
+	- Right click - header and footer
+	- Label for text not for change, textbox for data input
+	- Arrange - anchoring
+	- Form - property sheet - format - record selector - no
+	- 
 
 ## Rerport 
 
