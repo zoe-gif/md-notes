@@ -156,3 +156,4 @@ description:
 - prismatic - 棱柱形
 - surpersede - 取代
 - rotary - 旋转
+- photovoltaics - 光伏
