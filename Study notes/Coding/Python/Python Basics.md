@@ -8,3 +8,7 @@ categories:
 tags: Python
 description: 
 ---
+
+## Setup
+
+- 
