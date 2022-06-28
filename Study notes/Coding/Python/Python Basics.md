@@ -9,6 +9,36 @@ tags: Python
 description: 
 ---
 
-## Setup
+### Setup
 
-- 
+- [Python](https://www.python.org/)
+- Editor: [Atom](https://atom.io/)
+    - Try not to use Integrated Development Environment (IDE)
+    - Atom: enter the path for a new file
+        - filename.py
+- Create directory
+
+~~~
+# create directory
+mkdir dirname
+
+# go to directory location
+cd dirname
+
+# check directory info
+dir
+~~~
+
+- Run files in directory
+
+~~~
+python filename.py
+~~~
+
+### Hello world
+
+- `print("hello world")` or print('hello world')
+
+### Comment
+
+- `#comment`
