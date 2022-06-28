@@ -5,7 +5,7 @@ update: 2022-06-28
 categories:
 - Study notes
 - Coding
-tags: Python
+tags: Github
 description: 
 ---
 

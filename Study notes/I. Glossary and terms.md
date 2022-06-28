@@ -98,6 +98,10 @@ description:
 - integrand - 被积表达式
 - product - 累乘
 - union - 并集
+- / - slash
+- * - asterisk
+- `# - harsh
+- modulus - 余数
 
 ## Other
 

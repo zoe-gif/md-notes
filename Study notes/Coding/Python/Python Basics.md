@@ -37,8 +37,18 @@ python filename.py
 
 ### Hello world
 
-- `print("hello world")` or print('hello world')
+- `print("hello world")` or `print('hello world')`
+- `print("1 + 2 + 2 = ", 1 + 2 + 2, variable-name)`
 
 ### Comment
 
 - `#comment`
+- `#` in a string is not a comment
+
+### Numbers and math
+
+- +; -; *; /;% modulus; <; >; <=; >=
+
+### Variables and names
+
+- 
