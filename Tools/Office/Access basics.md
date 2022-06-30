@@ -146,10 +146,33 @@ description:
 	- Data - record source - add existing field: to set data source
 - Add components
 	- Right click - header and footer
-	- Label for text not for change, textbox for data input
-	- Arrange - anchoring
-	- Form - property sheet - format - record selector - no
-	- 
+	- Label for text for non-data static text, textbox for data input
+	- Arrange - anchoring for alignment
+	- Close black sidebar
+		- Form - property sheet - format - record selector - no
+	- Dynamic input box
+		- Control - combo box or right click text box - change to - combo box
+		- Property sheet of combo box - data 
+			- Control source
+			- Row source - ... to create query for combo box
+			- Query property - unique value
+		- Navigation / search box
+	- Button
+		- Control - button
+	- Assign tab order
+	 	- Tab order
+		- Prevent tab jump some object
+			- Object property - other - tab stop to 
+		- Set last of tab cycle
+			- Form property - other - cycle - to 
+- Multiple item form / split form
+	- Select table / query - create {} form
+	- Multiple item form: each record one row
+	- Split form: form and list of record
+- Navigation form
+	- Merge multiple forms into one
+	- Drag form from navi panel into [add new]
+	- Double click form tile to rename
 
 ## Rerport 
 

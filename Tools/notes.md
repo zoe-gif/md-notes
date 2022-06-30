@@ -19,7 +19,7 @@ https://www.bilibili.com/video/BV1Mb41127rg?spm_id_from=333.337.search-card.all.
 
 access
 
-https://www.bilibili.com/video/BV1oW411e7du?p=60&vd_source=b5d7c4596d85c4178f7e5a439f1eba44
+https://www.bilibili.com/video/BV1oW411e7du?p=68&vd_source=b5d7c4596d85c4178f7e5a439f1eba44&t=1.8
 
 vba
 153
