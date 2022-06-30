@@ -43,12 +43,22 @@ python filename.py
 ### Comment
 
 - `#comment`
+- `""" multiline comment """`
 - `#` in a string is not a comment
 
 ### Numbers and math
 
 - +; -; *; /;% modulus; <; >; <=; >=
 
-### Variables and names
+### Variables, String, Print
 
-- 
+- f-string: `f"use {vairable} in a string"`
+- `vairable = "now I'm using a {}"`
+- `example_format.format(string)`
+- `variable_full = variable_left + variable_right`
+- `print("." * 10)`
+- `print(""" multiple lines """)`
+
+### Escape Sequence
+
+<img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220630223226.png" width="600" height="">

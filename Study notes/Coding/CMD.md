@@ -12,7 +12,7 @@ description:
 ### Locate directory
 
 - `cd\` to upper level
-- `cd ~\folder` to relative location
+- `cd ~\folder`
 - `cd "folder with space"`
 - `c:` to change the drive
 - `cd /d C:\Windows`: `/d` to change drive and directory at the same time

@@ -102,6 +102,7 @@ description:
 - * - asterisk
 - `# - harsh
 - modulus - 余数
+- \ - backslash
 
 ## Other
 
