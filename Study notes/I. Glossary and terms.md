@@ -170,3 +170,4 @@ description:
 - photovoltaics - 光伏
 - indent - 缩进
 - aerial - 天线
+- prompt - 提示
