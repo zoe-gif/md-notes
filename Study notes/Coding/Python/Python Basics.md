@@ -130,4 +130,5 @@ print(txt_again.read())
 
 - `def function_name(function_variable): function_statement`
 - `*vairable` to take all the arguments to the function and put in variable as a list; like `argv`
+- `return [variable]`
 
