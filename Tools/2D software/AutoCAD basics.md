@@ -28,7 +28,7 @@ description:
 		- auto save - 10/15 min
 	- user preferences
 		- associative dimensioning x
-	- drafting & selction
+	- drafting & selection
 	- 3d modelling
 		- show z axis x
 	- selection

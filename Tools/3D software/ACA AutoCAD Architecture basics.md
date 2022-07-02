@@ -14,9 +14,12 @@ description:
 - 3D model for architecture
 - UI and shortcut similar to AutoCAD, user friendly
 
-## Setting
+## Setting and Basics
 
 - See [AutoCAD Baiscs](https://zoe-gif.github.io/2022/06/20/Tools/2D%20software/AutoCAD%20basics/)
+- View 
+	- Visual style
+	- Quick change at left top
 
 ## Setup New Project
 
