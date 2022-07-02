@@ -111,8 +111,23 @@ print(txt_again.read())
     - `file` is file name
     - `mode` speficies te mode in which the file is opened
         - `r` - open for reading (default)
-        - `w` - open for writing
+        - `w` - open for writing, wipe out all content
         - `x` - crate a new file and open for writing
         - `a` - open for writing, appending to the end of the file if it exits
-- `filename.read()`
-- `filename.close()`
+- `close`: close the file
+- `read`: read contents of the file
+- `readline`: read just one line of a text file
+    - Each time of `f.readline()` move to next `\n`
+- `truncate`: wipe out specified content
+- `write('stuff')`: write 'stuff' to the file
+- `seek(0)`: move the read/write loction to the beginning of the file, by bytes
+- `exits()`
+    - `from os.path import exists`
+    - Return true if an file exists
+- `len()`: return length of string
+
+### Function
+
+- `def function_name(function_variable): function_statement`
+- `*vairable` to take all the arguments to the function and put in variable as a list; like `argv`
+

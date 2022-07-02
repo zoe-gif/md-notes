@@ -171,3 +171,5 @@ description:
 - indent - 缩进
 - aerial - 天线
 - prompt - 提示
+- truncate - 截短
+- : - colon

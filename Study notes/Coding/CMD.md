@@ -37,3 +37,15 @@ description:
 - `del abc*.md`: delete all with md extension that start with abc
 - `del *.*`: delete all
 - `rd folder`: delete folder
+
+### Create and write txt
+
+~~~
+$ echo "this is a test" > test.txt
+$ cat test.txt
+this is a text
+~~~
+
+### Help and manual
+
+- `man [keyword]`

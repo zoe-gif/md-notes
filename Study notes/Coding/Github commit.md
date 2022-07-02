@@ -11,7 +11,7 @@ description:
 
 ~~~
 $ git config --global user.name "github-user-name"
-$ git config --global user.email "user@email.com"
+$ git config --global user`.email "user@email.com"
 $ git init -b main
 $ git add . && git commit -m "commit remarks"
 ~~~
