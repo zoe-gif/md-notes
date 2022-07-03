@@ -67,6 +67,7 @@ description:
 - `RE`generate = refresh
 - `U`ndo = `Ctrl + Z`
 - `PDFI`mport: pdf import to cad
+- `shift + space` = switch to select overlapped objects
 
 ## Draw
 

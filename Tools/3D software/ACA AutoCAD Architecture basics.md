@@ -14,12 +14,9 @@ description:
 - 3D model for architecture
 - UI and shortcut similar to AutoCAD, user friendly
 
-## Setting and Basics
+## Setting
 
 - See [AutoCAD Baiscs](https://zoe-gif.github.io/2022/06/20/Tools/2D%20software/AutoCAD%20basics/)
-- View 
-	- Visual style
-	- Quick change at left top
 
 ## Setup New Project
 
@@ -41,17 +38,23 @@ description:
 			- Assign the drawing to level and division
 		- Elements
 			- e.g. Grid line, Property Boundary
+- Option - profile - UK - set current (global not enough palettes)
 
 ## Basics
 
 - Show Element in Contructs
 	- Right click Element - Xref Overlay
 	- `Xref` to open external reference
-- Get more from Content Browser
-	- Design
-	- Detailing
-	- Document
-	- Visualization
+- Get more models from Content Browser
+- View 
+	- Visual style
+	- Quick change at left top
+- Most time right click is better
+- `shift + right click` to select snap option
+- AEC modify tool
+	- Space evenly: locate object at the center of two point
+		- Select axis that two points are on
+		- Select two points
 
 ## Grid lines
 
@@ -67,5 +70,11 @@ description:
 - Labelling
 	- Click grid lines - Label
 
-## Walls
+## Wall
 
+
+## Wall opening
+
+- Group of door/window
+	- Door/Window assembly
+- Edit wall opening
