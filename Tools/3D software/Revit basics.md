@@ -38,3 +38,16 @@ description:
     - General - View options - Architectural
     - User interface - Customize double-click setting - Family - Do nothing
     - File location
+- Temporary dimension - two dimensions either side, can change references
+
+### General workflow
+
+- Project setup
+    - Create from template
+    - Manage - project info; project unit; location
+- Add level
+    - `LL` to add level in elevation
+    - Checkbox to display or not level annotation
+    - Pickline + offset
+- Add grid
+    - Grid acts like a plane, shown on layout and elevation
