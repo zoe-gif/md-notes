@@ -103,6 +103,8 @@ description:
 - `# - harsh
 - modulus - 余数
 - \ - backslash
+- tragonometric - 三角函数
+- skew - 偏斜
 
 ## Other
 
@@ -172,4 +174,5 @@ description:
 - aerial - 天线
 - prompt - 提示
 - truncate - 截短
-- : - colon
+- : - colon 冒号
+- mascot - 吉祥物
