@@ -22,4 +22,4 @@ differential equations - 0
 integral calculus - 0
 linear algebra - 0
 multivaraible calculus - 0
-statistics and probability - 3
+statistics and probability - 4

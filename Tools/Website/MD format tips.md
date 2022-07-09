@@ -123,7 +123,7 @@ $$\frac {a+1}{b-1} \quad or \quad {a+1 \over b-1}$$
 
 ### Square root
 
-- `sqrt [root index][squared]`
+- `\sqrt [root index]{squared}`
 - Default root index is 2
 
 <br>

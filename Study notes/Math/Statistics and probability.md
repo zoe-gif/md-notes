@@ -38,7 +38,7 @@ description:
         - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220708212055.png" width="300" height="">
     - Histogram
         - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220708212818.png" width="200" height="">
-    - Box plot
+    - Box/whisker plot
         - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220708215525.png" width="500" height="">
         - Q1: 25th percentile
         - Q3: 75th percentile
@@ -59,3 +59,23 @@ description:
     - Outlier: data much smaller or larger than most
     - Median: center of distribution
     - Variability: how spread out a group of data is
+
+### Descriptive and inferential statistics
+
+- Descriptive statistics: to descript
+    - Mean: average
+    - Median: middle, balancing point
+        - Total distance below the mean = total distance above the mean
+    - Mode: value that occurs most often
+    - Range: distance between the lowest and highest
+    - Mid-range = Range / 2
+    - Variance: 
+        - Population variance: $\sigma^2 = \frac {\Sigma (x - \mu)^2}{n} = \frac {\Sigma x^2}{n} - \mu^2$
+        - Sample variance: $\sigma^2 = \frac {\Sigma (x - \mu)^2}{n} = \frac {\Sigma x^2}{n - 1} - \mu^2$
+            - Why n-1: unbiased estimate
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220709191658.png" width="300" height="">
+    - Standard deviation (SD): 
+        - Standard deviation: $\sigma = \sqrt {\frac {\Sigma (x - \mu)^2}{n}}$
+        - Sample standard deviation: $\sigma = \sqrt {\frac {\Sigma (x - \mu)^2}{n - 1}}$
+    - Mean absolute deviation (MAD): $  MAD = \frac{\Sigma|x - \mu|}{n} $
+- Inferential statistics: to make inference and prediction

@@ -105,6 +105,7 @@ description:
 - \ - backslash
 - tragonometric - 三角函数
 - skew - 偏斜
+- inference - 推理
 
 ## Other
 
