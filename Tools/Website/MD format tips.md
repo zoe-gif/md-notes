@@ -11,26 +11,39 @@ description:
 
 ## Code
 
+### In-line code
+
 ~~~
 `code`
 ~~~
 
 --> Display: `code`
 
-or fenced code block
+### Fenced code block
 
+~~~
     ~~~
     code 1
     code 2
     code 3
     ~~~
+~~~
 
 --> Display:
+
 ~~~
 code 1
 code 2
 code 3
 ~~~
+
+### Italic and bold in code
+
+~~~
+<code>-\*- coding: <i>encoding</i> -\*-</code>
+~~~
+
+--> Display: <code>-\*- coding: <i>encoding</i> -\*-</code>
 
 ## Table
 
