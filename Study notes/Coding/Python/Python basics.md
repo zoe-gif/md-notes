@@ -63,6 +63,49 @@ description:
 
 ## Basics
 
+- Comment
+    - `#` for single line
+    - `''' ... '''` for multiple lines
+- Number
+    - Operator: `+`, `-`, `*`, `/`
+    - `//` return integer for floor divisoin discarding any fractional result
+    - `%` for reminder
+    - `**` for powers
+    - `=` to assign a vlaue to a variable
+    - Numeric type
+        - `int`
+        - `float`: division always return floating point nunmber
+        - `complex`: `j` for imaginary part of complex number
+    - `_`
+        - In interactive mode, the last printed expression is assigned to the variable `_`
+- String
+    - In single or double quotes <code>\`...\`</code> or <code>"..."</code>
+    - Escape special character with balckslash
+        - `\'` --> `'`
+        - `\\` --> `\`
+        - `\n` --> new line
+        - `\r` --> carriage return
+        - `\t` --> tab
+        - `\b` --> backspace
+    - Concat string
+        - Concatenate string with `+`, repeat with `*`
+            - `3 * 'm' + 'os'` --> `mmmos`
+        - Auto concatenate for two or more string literals enclosed between quotes
+            - `'py' 'th' 'on'` --> `python`
+    - String index
+        - First character having index 0
+        - Indices can be negative, counting from the right from -1
+        - `'python'[1]'` --> `y`; `'python'[-1]` --> `n`
+        - 000000000000000000000000000000000000000000000
+
+- `print()` function
+    - `print('Hello world.\nI'm back.')`
+    - `print(8 + 8)`
+    - <code>print(<i>variable</i>)</code>
+    - Add `r` to use raw string instead of interpreting special characters by `\`
+        - `print('C:\some\location')`
+    - Multiple lines by `''' ... '''` or `""" ... """`
+
 ## Control flow tools
 
 ## Data structures

@@ -13,6 +13,7 @@ Python
 learning python the hard way - pp 99 - abort for not a good book
 
 https://docs.python.org/3/tutorial/introduction.html
+
 ---
 
 Math

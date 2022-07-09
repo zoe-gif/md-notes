@@ -106,6 +106,7 @@ description:
 - tragonometric - 三角函数
 - skew - 偏斜
 - inference - 推理
+- quotient - 商
 
 ## Other
 
@@ -177,3 +178,5 @@ description:
 - truncate - 截短
 - : - colon 冒号
 - mascot - 吉祥物
+- toggle - 切换
+- discard - 丢弃
