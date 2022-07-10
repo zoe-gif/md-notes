@@ -63,104 +63,139 @@ description:
 
 ## Basics
 
-- Comment
-    - `#` for single line
-    - `''' ... '''` for multiple lines
-- Number
-    - Operator: `+`, `-`, `*`, `/`
-    - `//` return integer for floor divisoin discarding any fractional result
-    - `%` for reminder
-    - `**` for powers
-    - `=` to assign a vlaue to a variable
-    - Numeric type
-        - `int`
-        - `float`: division always return floating point nunmber
-        - `complex`: `j` for imaginary part of complex number
-    - `_`
-        - In interactive mode, the last printed expression is assigned to the variable `_`
-- String
-    - In single or double quotes <code>\`...\`</code> or <code>"..."</code>
-    - Escape special character with balckslash
-        - `\'` --> `'`
-        - `\\` --> `\`
-        - `\n` --> new line
-        - `\r` --> carriage return
-        - `\t` --> tab
-        - `\b` --> backspace
-    - Concat string
-        - Concatenate string with `+`, repeat with `*`
-            - `3 * 'm' + 'os'` --> `"mmmos"`
-        - Auto concatenate for two or more string literals enclosed between quotes
-            - `'py' 'th' 'on'` --> `"python"`
-    - String index and slice
-        - First character having index 0
-        - Indices can be negative, counting from the right from -1
-            - `'python'[1]` --> `"y"`; `'python'[-1]` --> `"n"`
-            - `'python'[0:2]` --> `"py"` (include position 0, exclude position 2)
-            - `'python'[:2] + 'python'[2:]` --> `"python"`
-        - Out of range index
-            - Error for get the character of index
-            - Ok for slicing
-        - String is immutable, cannot assign value to an indexed position
-    - `len()`: return length of a string
-    - Format
-        - Formatted string literal (f-string)
-            - Prefixed with `f`, replacement fields `{}`
-                - <code>f'Hello, my name is {<i>name</i>.lower()}'</code>
-                - `f"1 + (1 - 2) = {1 + (1 - 2)}"`
-                - `f'''He\'ll say {"I'm Eric"}'''` --> `"He'll say I'm Eric"`
-            - `=` can be added after expression, casues `repr()` by default
-                - `foo = "bar"`
-                - `f"{ foo = }"` --> `" foo = 'bar'" 
-            - Specify conversion
-                - `!s` calls `str()` on the result
-                - `!r` calls `repr()` on the result
-                - `!a` called `ascii()` on the result
-            - Format specifier `:`
-                - Alignment
-                    - `:<` - left
-                    - `:>` - right
-                    - `:^` - center
-                    - `:=` - place sign to the left most position
-                    - Add int afterwards to spec available space for the value
-                - Sign
-                    - `:+` - show + sign
-                    - `:-` - show - sign only
-                    - `: ` - use a space before positive number
-                - Separator
-                    - `:,` - comma as thousand separator
-                    - `:_` - underscre as thousand separator
-                - Number format
-                    - `:b` - binary format
-                    - `:c` - convert to unicode character
-                    - `:d` - decimal format
-                    - `:e` - scientific format with lower case e
-                    - `:E` - scientific format with upper case E
-                    - `:.2f` - fix point number format --> `5.00`
-                    - `:o` - octal format
-                    - `:x` - hex format
-                    - `:.0%` - percentage format --> `5%`
-        - Format string syntax
-            - `full_name = "{} {}".format(first_name, last_name)`
-        - printf-style string formatting
-            - 000000000
-            - https://docs.python.org/3/library/stdtypes.html#old-string-formatting
-    - String method
-        - Change case
-            - `title()`
-            - `upper()`
-            - `lower()`
-        - 
+### Comment
+- `#` for single line
+- `''' ... '''` for multiple lines
 
-- `print()` function
-    - `print('Hello world.\nI'm back.')`
-    - `print(8 + 8)`
-    - <code>print(<i>variable</i>)</code>
-    - Add `r` to use raw string instead of interpreting special characters by `\`
-        - `print('C:\some\location')`
-    - Multiple lines by `''' ... '''` or `""" ... """`
+### Number
+- Operator: `+`, `-`, `*`, `/`
+- `//` return integer for floor divisoin discarding any fractional result
+- `%` for reminder
+- `**` for powers
+- `=` to assign a vlaue to a variable
+- Numeric type
+    - `int`
+    - `float`: division always return floating point nunmber
+    - `complex`: `j` for imaginary part of complex number
+- `_`
+    - In interactive mode, the last printed expression is assigned to the variable `_`
+
+### String
+- In single or double quotes <code>\`...\`</code> or <code>"..."</code>
+- Escape special character with balckslash
+    - `\'` --> `'`
+    - `\\` --> `\`
+    - `\n` --> new line
+    - `\r` --> carriage return
+    - `\t` --> tab
+    - `\b` --> backspace
+- Concatenation
+    - Concatenate string with `+`, repeat with `*`
+        - `3 * 'm' + 'os'` --> `"mmmos"`
+    - Auto concatenate for two or more string literals enclosed between quotes
+        - `'py' 'th' 'on'` --> `"python"`
+- Index and slice
+    - First character having index 0
+    - Indices can be negative, counting from the right from -1
+        - `'python'[1]` --> `"y"`; `'python'[-1]` --> `"n"`
+        - `'python'[0:2]` --> `"py"` (include position 0, exclude position 2)
+        - `'python'[:2] + 'python'[2:]` --> `"python"`
+        - `'python'[:]` --> `"python"`
+    - Out of range index
+        - Error for get the character of index
+        - Ok for slicing
+    - String is immutable, cannot assign value to an indexed position
+- `len()`: return length of a string
+- Format
+    - Formatted string literal (f-string)
+        - Prefixed with `f`, replacement fields `{}`
+            - <code>f'Hello, my name is {<i>name</i>.lower()}'</code>
+            - `f"1 + (1 - 2) = {1 + (1 - 2)}"`
+            - `f'''He\'ll say {"I'm Eric"}'''` --> `"He'll say I'm Eric"`
+        - `=` can be added after expression, casues `repr()` by default
+            - `foo = "bar"`
+            - `f"{ foo = }"` --> `" foo = 'bar'" 
+        - Specify conversion
+            - `!s` calls `str()` on the result
+            - `!r` calls `repr()` on the result
+            - `!a` called `ascii()` on the result
+        - Format specifier `:`
+            - Alignment
+                - `:<` - left
+                - `:>` - right
+                - `:^` - center
+                - `:=` - place sign to the left most position
+                - Add int afterwards to spec available space for the value
+            - Sign
+                - `:+` - show + sign
+                - `:-` - show - sign only
+                - `: ` - use a space before positive number
+            - Separator
+                - `:,` - comma as thousand separator
+                - `:_` - underscre as thousand separator
+            - Number format
+                - `:b` - binary format
+                - `:c` - convert to unicode character
+                - `:d` - decimal format
+                - `:e` - scientific format with lower case e
+                - `:E` - scientific format with upper case E
+                - `:.2f` - fix point number format --> `5.00`
+                - `:o` - octal format
+                - `:x` - hex format
+                - `:.0%` - percentage format --> `5%`
+    - `str.format()`
+        - `full_name = "{} {}".format(first_name, last_name)`
+    - printf-style string formatting
+        - `%`: string formatting or interpolation operator
+        - `%(language)s has %(number)03d quote types' % {"language": "python", "number": 2}` --> `"pyhon has 002 quote types"`
+            - `(language)`: mapping key, optional
+            - `0`: conversion flag, optional
+                - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220710235621.png" width="600" height="">
+            - `3`: minimum field width, optional
+            - Precision `.2`, optional
+            - Length modifier, optional
+            - `d`: conversion type
+                - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220711000041.png" width="600" height="">
+- [String method](https://docs.python.org/3/library/stdtypes.html#string-methods)
+
+### List
+- Might contain items of different types
+    - `test = [1, 2, 3]`
+- Mutable, item can be changed
+- Index and slice
+    - Same as string
+    - Can assign new value to slice
+        - `test[:1] = []` --> `[3]`
+        - `test[:] = []` --> `[]`
+- Concatenation and append
+    - `+` to concatenate list
+        - `test + [4, 5]` --> `[1, 2, 3, 4, 5]`
+    - `append()` to add new item at the end
+        - `test.append([4, 5])` --> `[1, 2, 3, [4, 5]]`
+- `len()` return the number of items
+
+### `print()` function
+- `print('Hello world.\nI'm back.')`
+- `print('8 + 8 = ', 8 + 8)`
+- <code>print(<i>variable</i>)</code>
+- Add `r` to use raw string instead of interpreting special characters by `\`
+    - `print('C:\some\location')`
+- Multiple lines by `''' ... '''` or `""" ... """`
 
 ## Control flow tools
+
+### `if` statement
+
+- 
+
+### `for` statement
+
+- 
+
+### `range()` function
+
+- 
+
 
 ## Data structures
 

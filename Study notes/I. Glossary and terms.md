@@ -187,3 +187,5 @@ description:
 - immutable - 不可变
 - prefix - 字首
 - exclamation point - !
+- interpolation - 插值
+- versatile - 多才多艺的
