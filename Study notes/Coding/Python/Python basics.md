@@ -143,7 +143,8 @@ description:
         - Format string syntax
             - `full_name = "{} {}".format(first_name, last_name)`
         - printf-style string formatting
-            - 
+            - 000000000
+            - https://docs.python.org/3/library/stdtypes.html#old-string-formatting
     - String method
         - Change case
             - `title()`
