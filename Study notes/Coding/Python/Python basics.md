@@ -92,11 +92,17 @@ description:
             - `3 * 'm' + 'os'` --> `mmmos`
         - Auto concatenate for two or more string literals enclosed between quotes
             - `'py' 'th' 'on'` --> `python`
-    - String index
+    - String index and slice
         - First character having index 0
         - Indices can be negative, counting from the right from -1
         - `'python'[1]'` --> `y`; `'python'[-1]` --> `n`
-        - 000000000000000000000000000000000000000000000
+        - `'python'[0:2]` --> `'py'` (include position 0, exclude position 2)
+        - `'python'[:2] + 'python'[2:]` --> `python`
+        - Out of range index
+            - Error for get the character of index
+            - Ok for slicing
+        - String is immutable, cannot assign value to an indexed position
+    - `len()`: return length of a string
 
 - `print()` function
     - `print('Hello world.\nI'm back.')`
@@ -121,3 +127,14 @@ description:
 ## Standard library
 
 ## Virtual environments and packages
+
+
+## Uncategorized
+
+- string format
+    - `return eval("{}{}{}".format(value1, operator, value2))`
+    - `return eval(f'{value1}{operator}{value2}')`
+- `eval()`: if the expression is legal python statement, it will be executed
+- `lambda`
+    - A small anonymous function, can take any number of arguments, but only one expression
+    - `x = lambda a , b : a * b + 10`

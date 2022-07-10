@@ -180,3 +180,4 @@ description:
 - mascot - 吉祥物
 - toggle - 切换
 - discard - 丢弃
+- immutable - 不可变
