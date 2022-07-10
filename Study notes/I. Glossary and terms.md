@@ -107,6 +107,10 @@ description:
 - skew - 偏斜
 - inference - 推理
 - quotient - 商
+- binary - 二进制
+- decimal - 十进制
+- octal - 八进制
+- hex - 十六进制
 
 ## Other
 
@@ -181,3 +185,5 @@ description:
 - toggle - 切换
 - discard - 丢弃
 - immutable - 不可变
+- prefix - 字首
+- exclamation point - !

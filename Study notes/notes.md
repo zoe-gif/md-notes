@@ -14,6 +14,8 @@ learning python the hard way - pp 99 - abort for not a good book
 
 https://docs.python.org/3/tutorial/introduction.html
 
+python crach course: pp 53
+
 ---
 
 Math

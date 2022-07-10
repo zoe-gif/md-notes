@@ -89,20 +89,67 @@ description:
         - `\b` --> backspace
     - Concat string
         - Concatenate string with `+`, repeat with `*`
-            - `3 * 'm' + 'os'` --> `mmmos`
+            - `3 * 'm' + 'os'` --> `"mmmos"`
         - Auto concatenate for two or more string literals enclosed between quotes
-            - `'py' 'th' 'on'` --> `python`
+            - `'py' 'th' 'on'` --> `"python"`
     - String index and slice
         - First character having index 0
         - Indices can be negative, counting from the right from -1
-        - `'python'[1]'` --> `y`; `'python'[-1]` --> `n`
-        - `'python'[0:2]` --> `'py'` (include position 0, exclude position 2)
-        - `'python'[:2] + 'python'[2:]` --> `python`
+            - `'python'[1]` --> `"y"`; `'python'[-1]` --> `"n"`
+            - `'python'[0:2]` --> `"py"` (include position 0, exclude position 2)
+            - `'python'[:2] + 'python'[2:]` --> `"python"`
         - Out of range index
             - Error for get the character of index
             - Ok for slicing
         - String is immutable, cannot assign value to an indexed position
     - `len()`: return length of a string
+    - Format
+        - Formatted string literal (f-string)
+            - Prefixed with `f`, replacement fields `{}`
+                - <code>f'Hello, my name is {<i>name</i>.lower()}'</code>
+                - `f"1 + (1 - 2) = {1 + (1 - 2)}"`
+                - `f'''He\'ll say {"I'm Eric"}'''` --> `"He'll say I'm Eric"`
+            - `=` can be added after expression, casues `repr()` by default
+                - `foo = "bar"`
+                - `f"{ foo = }"` --> `" foo = 'bar'" 
+            - Specify conversion
+                - `!s` calls `str()` on the result
+                - `!r` calls `repr()` on the result
+                - `!a` called `ascii()` on the result
+            - Format specifier `:`
+                - Alignment
+                    - `:<` - left
+                    - `:>` - right
+                    - `:^` - center
+                    - `:=` - place sign to the left most position
+                    - Add int afterwards to spec available space for the value
+                - Sign
+                    - `:+` - show + sign
+                    - `:-` - show - sign only
+                    - `: ` - use a space before positive number
+                - Separator
+                    - `:,` - comma as thousand separator
+                    - `:_` - underscre as thousand separator
+                - Number format
+                    - `:b` - binary format
+                    - `:c` - convert to unicode character
+                    - `:d` - decimal format
+                    - `:e` - scientific format with lower case e
+                    - `:E` - scientific format with upper case E
+                    - `:.2f` - fix point number format --> `5.00`
+                    - `:o` - octal format
+                    - `:x` - hex format
+                    - `:.0%` - percentage format --> `5%`
+        - Format string syntax
+            - `full_name = "{} {}".format(first_name, last_name)`
+        - printf-style string formatting
+            - 
+    - String method
+        - Change case
+            - `title()`
+            - `upper()`
+            - `lower()`
+        - 
 
 - `print()` function
     - `print('Hello world.\nI'm back.')`
@@ -131,10 +178,10 @@ description:
 
 ## Uncategorized
 
-- string format
-    - `return eval("{}{}{}".format(value1, operator, value2))`
-    - `return eval(f'{value1}{operator}{value2}')`
+
 - `eval()`: if the expression is legal python statement, it will be executed
+- `repr`()`: return a string containing a printable representation of an object
 - `lambda`
     - A small anonymous function, can take any number of arguments, but only one expression
     - `x = lambda a , b : a * b + 10`
+
