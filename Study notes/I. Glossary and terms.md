@@ -111,6 +111,8 @@ description:
 - decimal - 十进制
 - octal - 八进制
 - hex - 十六进制
+- insection - 交集
+- union - 并集
 
 ## Other
 

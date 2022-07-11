@@ -92,6 +92,8 @@ description:
         - `global` keyword, created inside a function
     - Local variable
         - Created inside a function
+- Assignment operator
+    - `=`, `+=`, `-=`, `*=`, `/=`, `%=`, `//=`, `**=`
 
 ### `print()` function
 - `print('Hello world.\nI'm back.')`
@@ -115,11 +117,11 @@ description:
 
 #### Number
 
-- Operator: `+`, `-`, `*`, `/`
-- `//` return integer for floor divisoin discarding any fractional result
-- `%` for reminder
-- `**` for powers
-- `=` to assign a vlaue to a variable
+- Arithmetic operator
+    - `+`, `-`, `*`, `/`
+    - `//` return integer for floor divisoin discarding any fractional result
+    - `%` for reminder
+    - `**` for powers
 - Numeric type
     - `int`
     - `float`: division always return floating point nunmber
@@ -160,7 +162,7 @@ description:
     - String is immutable, cannot assign value to an indexed position
     - Loop through a string
         - `for x in "banana": print(x)`
-    - Check if characters in string `in` & `not in`
+    - Check if characters in string `in` & `not in` (membership operator)
         - `"ba" in "banana"` --> `True`
         - `"ya" not in "banana"` --> `True`
 - `len()`: return length of a string
@@ -242,13 +244,22 @@ description:
 
 #### Bollean
 
-- 
+- `True` or `False`
+- Comparison operator: `<`, `>`, `==`
+- Logical operator: `and`, `or`, `not`
+- Identity operator: `is`, `is not`
+- False values
+    - `bool(None)`
+    - `bool(0)`
+    - `bool("")`
+    - `bool(())`, `bool([])`, `bool({})`
 
 #### List
 
 - Might contain items of different types
+    - `test = list((1, 2, 3))`
     - `test = [1, 2, 3]`
-- Mutable, item can be changed
+- Ordered, changeable, allow duplicate
 - Index and slice
     - Same as string
     - Can assign new value to slice
@@ -259,7 +270,67 @@ description:
         - `test + [4, 5]` --> `[1, 2, 3, 4, 5]`
     - `append()` to add new item at the end
         - `test.append([4, 5])` --> `[1, 2, 3, [4, 5]]`
+- `in` & `not in` to check membership
 - `len()` return the number of items
+- List comprehension
+    - <code>newlist = [<i>expression</i> for <i>item</i> in <i>iterable</i> if </i>condition == True]</code>
+    - `newlist = [x.upper() for x in oldlist if x != "apple"]`
+- Loop through a list
+
+~~~
+# loop through a list
+thislist = ["apple", "banana", "cherry"]
+for x in thislist:
+    print(x)
+~~~
+
+~~~
+# list comprehension
+thislist = ["apple", "banana", "cherry"]
+[print(x) for x in thislist]
+~~~
+
+~~~
+# loop through list index
+thislist = ["apple", "banana", "cherry"]
+for i in range(len(thislist)):
+    print(thislist[i])
+~~~
+
+~~~
+# loop through list index
+thislist = ["apple", "banana", "cherry"]
+i = 0
+while i < len(this list):
+    print(thislist[i])
+    i += 1
+~~~
+
+- List method   
+    - Insert item
+        - `test.insert(1, 0)` --> `[1, 0, 2, 3]
+    - Append item at the end
+        - `append()`: append item 
+        - `extend()`: append items from another iterable object: 
+            - Iterable object: list, typle, set, dictionary
+    - Remove item
+        - `remove()`: remove item
+        - `pop(0)`: remove by sepcified index
+            - `pop()` --> remove the last item
+    - Clear the list
+        - `clear()` --> `[]`
+
+#### Tuple
+
+- Ordered, unchangeable, allow duplicate
+
+#### Set
+
+- Unordered, unchangeable (can remove or add items), no duplicate
+
+#### Dictionary
+
+- Ordered, changeable, no duplicate
 
 ## Control flow tools
 
@@ -301,4 +372,7 @@ description:
 - `lambda`
     - A small anonymous function, can take any number of arguments, but only one expression
     - `x = lambda a , b : a * b + 10`
+- `del` keyword
+
+
 
