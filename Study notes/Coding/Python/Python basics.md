@@ -64,10 +64,57 @@ description:
 ## Basics
 
 ### Comment
+
 - `#` for single line
 - `''' ... '''` for multiple lines
 
-### Number
+### Variable
+
+- Variable casting
+    - `str()`
+    - `int()`
+    - `float()`
+- Variable name
+    - Case sensitive
+    - Naming format
+        - Camel case `myVariableName`
+        - Pascal case `MyVariableName`
+        - Snake case `my_variable_name`
+- Assign value to variables
+    - `x, y = 3, "test"`
+    - `x = y = "test"`
+    - Unpack a collection of a value in list or tuple
+        - `test = [1, 2]`
+        - `x, y = test`
+- Global and local variable
+    - Global variable
+        - Created outside a function
+        - `global` keyword, created inside a function
+    - Local variable
+        - Created inside a function
+
+### `print()` function
+- `print('Hello world.\nI'm back.')`
+- `print('8' + '+ 8 =', 8 + 8)`
+- <code>print(<i>variable</i>)</code>
+- Add `r` to use raw string instead of interpreting special characters by `\`
+    - `print('C:\some\location')`
+- Multiple lines by `''' ... '''` or `""" ... """`
+
+### Data type
+
+- Text type: `str`
+- Numeric type: `int`, `float`, `complex`
+- Sequence type: `list`, `tuple`, `range`
+- Mapping type: `dict`
+- Set type: `set`, `frozenset`
+- Boolean type: `bool`
+- Binary type: `bytes`, `bytearray`, `memoryview`
+- None type: `NoneType`
+- `type()` to get data type
+
+#### Number
+
 - Operator: `+`, `-`, `*`, `/`
 - `//` return integer for floor divisoin discarding any fractional result
 - `%` for reminder
@@ -79,9 +126,14 @@ description:
     - `complex`: `j` for imaginary part of complex number
 - `_`
     - In interactive mode, the last printed expression is assigned to the variable `_`
+- Random number
+    - `import random` - built-in module
+    - `random.randrage(1, 10)`
 
-### String
+#### String
+
 - In single or double quotes <code>\`...\`</code> or <code>"..."</code>
+- Multiline string `"""..."""`
 - Escape special character with balckslash
     - `\'` --> `'`
     - `\\` --> `\`
@@ -95,6 +147,7 @@ description:
     - Auto concatenate for two or more string literals enclosed between quotes
         - `'py' 'th' 'on'` --> `"python"`
 - Index and slice
+    - String is array
     - First character having index 0
     - Indices can be negative, counting from the right from -1
         - `'python'[1]` --> `"y"`; `'python'[-1]` --> `"n"`
@@ -105,6 +158,11 @@ description:
         - Error for get the character of index
         - Ok for slicing
     - String is immutable, cannot assign value to an indexed position
+    - Loop through a string
+        - `for x in "banana": print(x)`
+    - Check if characters in string `in` & `not in`
+        - `"ba" in "banana"` --> `True`
+        - `"ya" not in "banana"` --> `True`
 - `len()`: return length of a string
 - Format
     - Formatted string literal (f-string)
@@ -157,8 +215,37 @@ description:
             - `d`: conversion type
                 - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220711000041.png" width="600" height="">
 - [String method](https://docs.python.org/3/library/stdtypes.html#string-methods)
+    - Case
+        - `upper()` & `lower()` & `capitalize`
+    - Remove whitespace
+        - `strip()`
+    - Replace character
+        - `"abcd".replace("ab", "cd")` --> `"cdcd"`
+    - Split
+        - `"ad cd".split(" ")` --> `["ab", "cd"]`
+    - Join
+        - `join()`
+    - Count
+        - `count()`
+    - End with
+        - `endswith()`
+    - Find position
+        - `find()` & `index()`: return first position
+        - `rfind()` & `rindex()`: return last position
+    - Check type & format
+        - `isalnum()`: if all are alphanumeric, alphabet or number
+        - `isaloha()`: if all are alphabet
+        - `isdecimal()`, `isnumeric()`, `isdigit()`, `isidentifier()`
+        - `islower()`, `istitle()`, `isupper()`, `isspace()`
+    - Fill 0 at the beginneing
+        - `"90".zfill(4)` --> `0090`
 
-### List
+#### Bollean
+
+- 
+
+#### List
+
 - Might contain items of different types
     - `test = [1, 2, 3]`
 - Mutable, item can be changed
@@ -174,19 +261,13 @@ description:
         - `test.append([4, 5])` --> `[1, 2, 3, [4, 5]]`
 - `len()` return the number of items
 
-### `print()` function
-- `print('Hello world.\nI'm back.')`
-- `print('8 + 8 = ', 8 + 8)`
-- <code>print(<i>variable</i>)</code>
-- Add `r` to use raw string instead of interpreting special characters by `\`
-    - `print('C:\some\location')`
-- Multiple lines by `''' ... '''` or `""" ... """`
-
 ## Control flow tools
 
 ### `if` statement
 
 - 
+
+### `while` statement
 
 ### `for` statement
 
