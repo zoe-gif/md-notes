@@ -79,3 +79,35 @@ description:
         - Sample standard deviation: $\sigma = \sqrt {\frac {\Sigma (x - \mu)^2}{n - 1}}$
     - Mean absolute deviation (MAD): $  MAD = \frac{\Sigma|x - \mu|}{n} $
 - Inferential statistics: to make inference and prediction
+
+### Modeling data distribution
+
+- Percentile: percentage of data that is below certain amount
+- Z-score: how many standard deviation away from mean
+    - $z = \frac{x - \mu}{\sigma}$
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220711211404.png" width="500" height="">
+    - Empirical rule 68-95-99.7
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220711215930.png" width="300" height="">
+    - Standard normal table for proportion
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220711214359.png" width="500" height="">
+- Effect of linear transformation
+    - Add a constant to data set
+        - Mean, median add
+        - Standard deviation. IQR same
+    - Scale data set
+        - Mean, median, standard, IQR deviation scale
+- Density curve: distribution and probability of value
+    - Total area under cure: 100%
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220711213442.png" width="250" height="">
+- Normal and binomial distribution
+    - Normla distribution
+        - $\begin{aligned} 
+                f(x)    &= \frac{1}{\sigma \sqrt{2\pi}} e^{-{\frac{1}{2}} (\frac{x-\mu}{\sigma})^2}\\
+                        &= \frac{1}{\sqrt{2\pi \sigma^2}} e^{-{\frac{1}{2}} z}\\
+                        &= \frac{1}{\sqrt{2\pi\sigma^2 e^{z^2}}}
+            \end{aligned}$
+        - Continuous
+    - Binomial distribution
+        - Summarize the number of trails with the same probability of attaining one particular value
+        - Discrete
+        - More trails, getting closer to normal distribution
