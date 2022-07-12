@@ -38,10 +38,15 @@ description:
     - General - View options - Architectural
     - User interface - Customize double-click setting - Family - Do nothing
     - File location
-- Temporary dimension - two dimensions either side, can change references
+- Temporary dimension 
+    - Two dimensions either side
+    - Can change reference line
+    - Set the default location of reference line
+        - Manage - additional setting - annotation - temporary dimension
 - `space` to rotate elements 90 degrees
-- Bottom contorl bar
-    - 
+- Snap setting: 
+    - Manage - snap
+    - Shortcut or right click to snap overwrite
 
 ### Draw, Modify and Geometry
 
@@ -105,4 +110,13 @@ description:
         - Multiple - at grids/architectural columns
 - Add wall `WA`
     - Constraints to set height
-    - 
+    - Location line
+    - Edit wall type
+        - Structure: edit - Preview - View: section
+        - Split region - modify - create layer - assign layer
+    - Sweep and reveal
+        - Sweep add to the wall
+        - Reveal cut away from the wall
+        - In wall type edit
+        - Or in 3D/elevation wall drop-down
+        

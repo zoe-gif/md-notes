@@ -20,7 +20,7 @@ python crach course: pp 53
 ---
 
 Math
-differential calculus - 0
+differential calculus - limit property
 differential equations - 0
 integral calculus - 0
 linear algebra - 0

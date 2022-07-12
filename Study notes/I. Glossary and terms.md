@@ -48,6 +48,7 @@ description:
 - substantial - 重大的
 - floor plank - 地板块
 - 出餅仔 - 拉柱頭 - 批盪（泥水批蕩點綫面，乾后下一步驟）
+- wall sweep - 墙饰条
 
 ## EE
 
@@ -113,6 +114,8 @@ description:
 - hex - 十六进制
 - insection - 交集
 - union - 并集
+- asymptote - 渐近线
+- oscillation - 振荡
 
 ## Other
 
