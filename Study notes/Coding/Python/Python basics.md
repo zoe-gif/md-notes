@@ -319,6 +319,10 @@ while i < len(this list):
             - `pop()` --> remove the last item
     - Clear the list
         - `clear()` --> `[]`
+    - Sort
+        - `sort()`: sort alphanumerically
+        - `sort(reverse  = True)`: sort reversely
+        - `sort(key = myfunction)`: sort
 
 #### Tuple
 
