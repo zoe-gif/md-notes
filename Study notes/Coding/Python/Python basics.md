@@ -387,6 +387,38 @@ while i < len(this list):
 #### Dictionary
 
 - Ordered, changeable, no duplicate
+    - Store data in key:value pairs
+    - `thisdict = {"brand": "Cola", "year": 1998, "color": ["red, "yellow"]}`
+- `in` & `not in`: check if key exists
+- Dictionary method
+    - Get from dict
+        - Get value
+            - `thisdict["owner"] = "John"`
+            - `thisdict.get("owner")`
+            - `values()`: get list of all values
+        - Get list of all keys
+            - `keys()`
+        - Get items
+            - `items()`: return each pair of item as tuple in a list
+    - Update item
+        - `update({"year": 2020})`: must in key:value pair
+    - Remove item
+        - `pop("year")`
+        - `del thisdict["year"]`
+        - `clear()`: to empty dict
+    - Copy
+        - Copy cannot by `dict1 = dict2` - just a reference that changes auto following `dict1`
+        - `copy()`
+    - Set default value of key
+        - `setdefault("color" : "white")`
+        - If the key not exists, inser the key with the specified value
+    - Create dict by specified keys and value
+        - `dict.formkeys(keys, value)`
+        - `thisdict = dict.formkeys (x, y)`
+            - If value not specified: `None`
+- Nested dict
+    - Dict can contain dict as item value
+
 
 ## Control flow tools
 
