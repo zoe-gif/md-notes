@@ -257,21 +257,21 @@ description:
 #### List
 
 - Might contain items of different types
+- Ordered, changeable, allow duplicate
     - `test = list((1, 2, 3))`
     - `test = [1, 2, 3]`
-- Ordered, changeable, allow duplicate
 - Index and slice
     - Same as string
+        - Left index included, right index excluded
     - Can assign new value to slice
         - `test[:1] = []` --> `[3]`
         - `test[:] = []` --> `[]`
-- Concatenation and append
-    - `+` to concatenate list
-        - `test + [4, 5]` --> `[1, 2, 3, 4, 5]`
-    - `append()` to add new item at the end
-        - `test.append([4, 5])` --> `[1, 2, 3, [4, 5]]`
 - `in` & `not in` to check membership
 - `len()` return the number of items
+- Unpacking into variable
+    - Add `*` to a vairable, if the number of variables is less than value
+        - `(a, b, *c) = thisList`
+        - `c` is a list
 - List comprehension
     - <code>newlist = [<i>expression</i> for <i>item</i> in <i>iterable</i> if </i>condition == True]</code>
     - `newlist = [x.upper() for x in oldlist if x != "apple"]`
@@ -308,14 +308,18 @@ while i < len(this list):
 
 - List method   
     - Insert item
-        - `test.insert(1, 0)` --> `[1, 0, 2, 3]
+        - `insert(index, insertContent)`
+            - `test.insert(1, 0)` --> `[1, 0, 2, 3]
     - Append item at the end
-        - `append()`: append item 
+        - `append()`: append item
+            - `for x in list2: list1.append(x)`
         - `extend()`: append items from another iterable object: 
             - Iterable object: list, typle, set, dictionary
+            - `list1.extend(list2)`
+        - `+`: `list3 = list1 + list2`
     - Remove item
-        - `remove()`: remove item
-        - `pop(0)`: remove by sepcified index
+        - `remove(value)`: remove item
+        - `pop(index)`: remove by sepcified index
             - `pop()` --> remove the last item
     - Clear the list
         - `clear()` --> `[]`
@@ -323,14 +327,62 @@ while i < len(this list):
         - `sort()`: sort alphanumerically
         - `sort(reverse  = True)`: sort reversely
         - `sort(key = myfunction)`: sort
+            - `myfunction` return a number used to sort the list
+            - Sort will be from the lowest to highest
+            - e.g. `def myfunction(n): return abs(n - 50)`
+                - `abs()`: absolute value
+            - e.g. `thislist = sort(key = str.lower)`
+        - Case sensitive: capital letters sorted before lower case letters
+    - Reverse order of list
+        - `reverse()`
+    - Copy a list
+        - `copy()`: `list2 = list1.copy()`
+        - `list()`: `list2 = list(list1)`
+        - `list1 * 2`
+    - Count spec value in list
+        - `count(value)`
 
 #### Tuple
 
 - Ordered, unchangeable, allow duplicate
+    - `thisTuple = tuple(("a", "a", "b", True))`
+    - `thisTuple = ("a",)` #need to have a comma to create one-item tuple
+- Change tuple value by changing type to list
 
 #### Set
 
-- Unordered, unchangeable (can remove or add items), no duplicate
+- Unordered (unindexed), unchangeable (can remove or add items), no duplicate
+    - `myset = set(("a", "b", 33.1))`
+    - `myset = {"a", "b", 33.1}`
+    - Duplicated item auto deleted/merged
+- Set method
+    - Add item
+        - `add(value)`
+    - Add any iterable
+        - `update(mylist)`
+    - Remove
+        - `remove()`: if the item to remove not exist, `remove()` will raise ERROR
+        - `discard()`: if the item to remove not exist, `discard()` will not raise ERROR
+        - `pop()`: cannot spec index, can only remove the last item
+        - `clear()`: empty set
+        - `del()`: delete set completely
+    - Join sets
+        - `union(set2)`
+        - `update(set2)`
+    - Duplicates and differences
+        - Keep duplicates
+            - `set1.intersection_update(set2)`: keep duplicates and update `x`
+            - `set3 = set1.intersection(set2)`: return a new set of duplicates
+        - Keep all but duplicates
+            - `set1.symmetric_difference_update(set2)`
+            - `set3 = set1.symmetric_difference(set2)`
+        - Items only exist in `set1` not `set2`
+            - `set3 = set1.difference(set2)`
+        - Whether two sets have a intersection or not
+            - `isdisjoint()`
+        - Whether `set2` is subset(part of)/superset(contain) `set1`
+            - `set1.issubset(set2)`
+            - `set1.issuperset(set1)`
 
 #### Dictionary
 
