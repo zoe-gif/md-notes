@@ -49,6 +49,7 @@ description:
 - floor plank - 地板块
 - 出餅仔 - 拉柱頭 - 批盪（泥水批蕩點綫面，乾后下一步驟）
 - wall sweep - 墙饰条
+- ingress - 入口
 
 ## EE
 
@@ -74,6 +75,9 @@ description:
 - lampshade - 灯罩
 - crimp - 压接
 - conbustible - 易燃
+- thermosetting - 热固性
+- sheath - 鞘，套
+- cleat - 夹板
 
 ## Math
 
