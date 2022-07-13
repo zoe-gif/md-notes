@@ -78,6 +78,7 @@ description:
 - thermosetting - 热固性
 - sheath - 鞘，套
 - cleat - 夹板
+- braid - 编织
 
 ## Math
 
