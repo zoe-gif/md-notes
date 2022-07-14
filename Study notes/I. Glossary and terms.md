@@ -204,3 +204,7 @@ description:
 - interpolation - 插值
 - versatile - 多才多艺的
 - swab - 擦
+- burr - 毛刺
+- reamer - 铰刀
+- dislodge - 驱逐
+- lodge - 小屋
