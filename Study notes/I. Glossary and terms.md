@@ -79,6 +79,10 @@ description:
 - sheath - 鞘，套
 - cleat - 夹板
 - braid - 编织
+- coupler - 耦合器
+- locknut - 锁紧螺母
+- corrugated structure - 波纹结构
+- kink - 纠缠
 
 ## Math
 
@@ -199,3 +203,4 @@ description:
 - exclamation point - !
 - interpolation - 插值
 - versatile - 多才多艺的
+- swab - 擦
