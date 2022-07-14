@@ -50,5 +50,7 @@ description:
 - Limits by factoring, conjugates & trig identities
     - $\lim\limits_{x \to 1} \frac {x^2 - x -2}{x^2 - 2x -3}$ to $\lim\limits_{x \to 1} \frac {x -2}{x -3}$
     - $\lim\limits_{\theta \to -{\frac{\pi}{4}}} \frac{1 + \sqrt{2} \sin\theta}{\cos{2\theta}}$ to $\lim\limits_{\theta \to -{\frac{\pi}{4}}} \frac{1 + \sqrt{2 \sin\theta}} {(1+\sqrt{2}\sin\theta)(1-\sqrt{2}\sin\theta)}$
-
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220714220524.png" width="450" height="">
+- Squeeze theorem (sandwich theorem)
+    - 
     
