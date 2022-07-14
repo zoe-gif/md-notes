@@ -27,4 +27,28 @@ description:
     - Violent osillation
         - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220712213726.png" width="100" height="">
 - Limit properties
-    - 
+    - $\lim\limits_{x \to c}(f(x) \pm g(x)) = \lim\limits_{x \to c}f(x) \pm \lim\limits_{x \to c}g(x)$ 
+    - $\lim\limits_{x \to c}(f(x) * g(x)) = \lim\limits_{x \to c}f(x) * \lim\limits_{x \to c}g(x)$ 
+    - $\lim\limits_{x \to c}(f(x) / g(x)) = \lim\limits_{x \to c}f(x) / \lim\limits_{x \to c}g(x)$ $(denominator \neq 0) $
+    - $\lim\limits_{x \to c}kf(x) = k\lim\limits_{x \to c}f(x)$ 
+    - $\lim\limits_{x \to c}(f(x))^u = (\lim\limits_{x \to c}f(x))^u$ 
+- Limits of composite functions
+    - $\lim\limits_{x \to c}f(g(x)) = f(\lim\limits_{x \to c}g(x)))$ 
+        - $\lim\limits_{x \to c}g(x) = L$  exists
+        - $f(x)$ is continous at $L$
+    - Limits can still exist if theorem cannot apply
+        - See if two one-sided limits equal
+    - At both sides
+        - If $g(x) \uparrow$ , direction of $f(g(x))$ same as $f(x)$
+        - If $g(x) \downarrow$ , direction of $f(g(x))$ opposite to $f(x)$
+- Continuous function
+    - $f(x)$ is countinuous at $x = a$ iff $\lim\limits_{x \to a}f(x) = f(a)$
+    - iff: if and only if
+    - Get limit by direct substitution if the function is continuous
+- Limits of piecewise function
+    - Absolute value - change to piecewise function
+- Limits by factoring, conjugates & trig identities
+    - $\lim\limits_{x \to 1} \frac {x^2 - x -2}{x^2 - 2x -3}$ to $\lim\limits_{x \to 1} \frac {x -2}{x -3}$
+    - $\lim\limits_{\theta \to -{\frac{\pi}{4}}} \frac{1 + \sqrt{2} \sin\theta}{\cos{2\theta}}$ to $\lim\limits_{\theta \to -{\frac{\pi}{4}}} \frac{1 + \sqrt{2 \sin\theta}} {(1+\sqrt{2}\sin\theta)(1-\sqrt{2}\sin\theta)}$
+
+    

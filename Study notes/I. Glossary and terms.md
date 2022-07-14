@@ -125,6 +125,8 @@ description:
 - union - 并集
 - asymptote - 渐近线
 - oscillation - 振荡
+- parabola - 抛物线
+- algebraic - 代数
 
 ## Other
 
