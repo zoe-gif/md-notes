@@ -517,6 +517,7 @@ for user, status in users.items():
 ### Define function
 
 - `def func(argument)`
+
 - Variables defined in function is local
     - `global` for global variable
     - `nonlocal` for variable of enclosing function
@@ -537,9 +538,9 @@ for user, status in users.items():
         outer()
         print("global:", x)
 
-        # inner: 2
-        # outer: 2
-        # global: 0
+        >>> inner: 2
+        >>> outer: 2
+        >>> global: 0
         ~~~
 
         ~~~
@@ -558,15 +559,19 @@ for user, status in users.items():
         outer()
         print("global:", x)
 
-        # inner: 2
-        # outer: 1
-        # global: 2
+        >>> inner: 2
+        >>> outer: 1
+        >>> global: 2
         ~~~
+
 - Function definition associates the function name with function objects
     - `out = outer`
     - function `outer` can be accessed by function name `out`
+
 - Functions without a `return` statement return `None`
+
 - Method is a function belongs to an object named `obj.methodname`
+
 - Argument
     - Can be any data type
     - Arbitrary argument `*args`
@@ -625,10 +630,82 @@ for user, status in users.items():
     tri_recursion(6)
     print(results)
 
-    # [1, 3, 6, 10, 15, 21]
+    >>> [1, 3, 6, 10, 15, 21]
     ~~~
+
 - Lambda expression
-    - 
+    - A small anonymous function, can take any number of arguments, but only one expression
+    - `x = lambda a , b : a * b + 10`
+
+    ~~~
+    pairs = [(1, 'one'), (2, 'two'), (3, 'three)]  # tuple in list
+    pairs.sort(key = lamdba pair: pair[1])  # sort key is by the first index of pair
+
+    >>> [(1, 'one'), (3, 'three'), (2, 'two')]
+    ~~~
+
+    - Anonymous function inside another function
+
+    ~~~
+    def myfunc(n):
+        return lambda a: a * n
+    
+    mydoubler = myfunc(2)
+    mytripler = myfunc(3)
+
+    print(mydoubler(11), mytripler(11))
+
+    >>> 22 33
+    ~~~
+
+- Documentation strings
+    - First non-blank line after the first line of string determines the amount of indentation for the entire documentation string.
+    - `__doc__` to print documentation string
+
+    ~~~
+    def my_function():
+        ''' Short, concise summary of the object's purpose.
+        <BLANK>
+        Description of the object. 
+        '''
+        pass
+
+    print(my_function.__doc__)
+    ~~~
+
+- Function annotations
+    - Optional metadata information
+    - Store in `__annotations__` attribute of the function as a dictionary
+    - Return annotations defined by `->`
+
+    ~~~
+    def f(ham: str, eggs: str = 'eggs') -> str:
+        print("Annotations:", f.__annotations__)
+        print("Arguments:", ham, eggs)
+        return ham + ' and ' + eggs
+
+    f('spam')
+
+    >>> Annotations: {'ham': <class 'str'>, 'eggs': <class 'str'>, 'return': <class 'str'>}
+    Arguments: spam eggs
+    'spam and eggs'
+
+    # return value also annotated
+    ~~~
+
+### Coding style
+
+- [PEP8](https://peps.python.org/pep-0008/) - style guide for Python
+- Do not mix tab and space
+- Wrap lines so that they don't exceed 79 characters
+- Use blank lines to separate
+- Put comments on a line of their own if possible
+- Use docstrings
+- Use spaces around operators and after comma
+- Name consistently
+    - `UpperCamelCase`
+    - `lowercase_with_underscores`
+    - Always use `self` as the name for the first method argument
 
 ## Data structures
 
@@ -650,9 +727,7 @@ for user, status in users.items():
 
 - `eval()`: if the expression is legal python statement, it will be executed
 - `repr`()`: return a string containing a printable representation of an object
-- `lambda`
-    - A small anonymous function, can take any number of arguments, but only one expression
-    - `x = lambda a , b : a * b + 10`
+
 - `del` keyword
 - `variable = input('enter the value')`
 
