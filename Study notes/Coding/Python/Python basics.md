@@ -582,12 +582,32 @@ for user, status in users.items():
 
     - Keyword argument
         - Send argument with `key = value` syntax
-        - `func(last = "Wang", middle = "Frank", first = "Dazhi")`
+        - `func(last = "Wang", middle, first = "Dazhi")`
+            - `middle` is required argument
+            - `last` & `first` is optional argument
     - Arbitrary keyword argument `**args`
+        - Function receive a dictionary of arguments
         - `def func(**name)`
     - Default parameter value
         - If call function without argument, use default value
-        - `def func(name = "Dazhi")`
+        - Evaluate only once, may pass to subsequent call
+        - `def func(a, L = [])`
+    - Speical parameter
+        - `def f(pos1, pos2, /, pos_or_kwd, *, kwd1, kwd2):`
+        - `f("position 1", "position 2", "both ok", kwd1 = 1, lwd2 = 2)`
+            - `pos` positional argument
+                - Order matters, cannot be passed by keyword
+            - `kwd` keyword argument
+                - Order not matters, passed by keyword
+        - Pass by
+            - Position only, before `/`
+            - Position or keyword
+            - Keyword only, after `*`
+        - Names of positinoal-only parameters can be used in keyword argument without ambiguity
+            ~~~
+            def foo(name, /, **kwds):
+                return 'name' in kwds
+            ~~~
 - `pass` statement
 - Recursion
     - Function can call itself
@@ -607,6 +627,8 @@ for user, status in users.items():
 
     # [1, 3, 6, 10, 15, 21]
     ~~~
+- Lambda expression
+    - 
 
 ## Data structures
 

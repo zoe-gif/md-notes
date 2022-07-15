@@ -216,3 +216,4 @@ description:
 - lattice -柵格
 - grommet - 索环
 - arbitrary - 任意
+- collision - 碰撞

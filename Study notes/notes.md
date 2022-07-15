@@ -14,7 +14,7 @@ Python
 
 learning python the hard way - pp 99 - abort for not a good book
 
-https://docs.python.org/3/tutorial/controlflow.html - range()
+https://docs.python.org/3/tutorial/controlflow.html - 4.8.7
 https://www.w3schools.com/python/python_lambda.asp
 
 exercise:
