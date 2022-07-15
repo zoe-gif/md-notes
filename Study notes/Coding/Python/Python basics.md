@@ -245,7 +245,7 @@ description:
 #### Bollean
 
 - `True` or `False`
-- Comparison operator: `<`, `>`, `==`
+- Comparison operator: `<`, `>`, `==`, `!=`, `<=`, `>=`
 - Logical operator: `and`, `or`, `not`
 - Identity operator: `is`, `is not`
 - False values
@@ -309,7 +309,7 @@ while i < len(this list):
 - List method   
     - Insert item
         - `insert(index, insertContent)`
-            - `test.insert(1, 0)` --> `[1, 0, 2, 3]
+            - `test.insert(1, 0)` --> `[1, 0, 2, 3]`
     - Append item at the end
         - `append()`: append item
             - `for x in list2: list1.append(x)`
@@ -419,23 +419,61 @@ while i < len(this list):
 - Nested dict
     - Dict can contain dict as item value
 
-
 ## Control flow tools
 
 ### `if` statement
 
-- 
+- `if ... elif ... (else ...)`
+    - `elif` stands for else if
+- Short hand
+    - `if a == b: print ("equal")`
+    - `print("A") if a > b else print("<") if a <b else print("=")`
+- `pass` statement
+    - `if` statement cannot be empty, use `pass` if no content
+- Nested if
 
 ### `while` statement
 
+- `break` statement to stop the loop
+- `continue` statement to stop the current iteration, and continue with the next iteration in loop
+- `else` statement
+- Nest while
+
 ### `for` statement
 
-- 
+- For iterating over a sequence
+    - List, tuple, set, dict, string
+    - `for x in "test": print(x)`
+- `break` statement
+- `pass` statement
+- `continue` statement
+- `else` statement
+- `range()` function
+    - `range(start, end, increment)`
+    - Return a sequance of number
+    - Starting from 0 by default, increment by 1 by default
+    - Include left, exclude right
+    - `for x in range(0, 10, 3): print(x)` --> `4`
+- Nested for
 
-### `range()` function
+~~~
 
-- 
+# Modify a collection by iterating
+users = {'A': 'active', 'B': 'active', 'C': 'inactive'}
 
+# Strategy: iterate over a copy
+# items() return dict pairs in list
+for user, status in users.copy()items():
+    if status == 'inactive':
+        del users[user]
+
+# Strategy: create a new collection
+active.users = {}
+for user, status in users.items():
+    if status == 'active':
+        active.users[user] = status
+
+~~~
 
 ## Data structures
 

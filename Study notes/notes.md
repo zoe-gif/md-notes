@@ -15,8 +15,12 @@ Python
 learning python the hard way - pp 99 - abort for not a good book
 
 https://docs.python.org/3/tutorial/controlflow.html
-https://www.w3schools.com/python/python_conditions.asp
+https://www.w3schools.com/python/python_functions.asp
+
+exercise:
+
 https://www.w3schools.com/python/exercise.asp?filename=exercise_ifelse1
+https://www.codewars.com/dashboard
 
 python crach course: pp 53
 
