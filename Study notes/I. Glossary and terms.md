@@ -83,6 +83,7 @@ description:
 - locknut - 锁紧螺母
 - corrugated structure - 波纹结构
 - kink - 纠缠
+- impendance - 阻抗
 
 ## Math
 
@@ -211,3 +212,5 @@ description:
 - dislodge - 驱逐
 - lodge - 小屋
 - brittle - 脆
+- lattice -柵格
+- grommet - 索环

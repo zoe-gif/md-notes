@@ -2,9 +2,11 @@ EE
 
 The Illustrated Guide to Electrical Building Services (Paddy Hastings) (z-lib.org) - finished
 
-Design of Electrical Services for Buildings (F. Porges, Barrie Rigby) (z-lib.org) - pp 52-63
+Design of Electrical Services for Buildings (F. Porges, Barrie Rigby) (z-lib.org) - pp 52-63-87
 
 Chinese translateion - https://www.theredhillpeninsula.com.hk/uploaded_files/news/69/RBL1050_Site_B_part6_30042018.pdf - to be read
+
+Code of Practice for the Electricity (Wiring) Regulations (2020 Edition): https://www.emsd.gov.hk/filemanager/en/content_443/COP_E_2020.pdf - to be read
 
 ---
 
