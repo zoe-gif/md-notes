@@ -128,6 +128,7 @@ description:
 - oscillation - 振荡
 - parabola - 抛物线
 - algebraic - 代数
+- recursion - 递归
 
 ## Other
 
@@ -214,3 +215,4 @@ description:
 - brittle - 脆
 - lattice -柵格
 - grommet - 索环
+- arbitrary - 任意

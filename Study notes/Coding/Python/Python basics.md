@@ -277,34 +277,34 @@ description:
     - `newlist = [x.upper() for x in oldlist if x != "apple"]`
 - Loop through a list
 
-~~~
-# loop through a list
-thislist = ["apple", "banana", "cherry"]
-for x in thislist:
-    print(x)
-~~~
+    ~~~
+    # loop through a list
+    thislist = ["apple", "banana", "cherry"]
+    for x in thislist:
+        print(x)
+    ~~~
 
-~~~
-# list comprehension
-thislist = ["apple", "banana", "cherry"]
-[print(x) for x in thislist]
-~~~
+    ~~~
+    # list comprehension
+    thislist = ["apple", "banana", "cherry"]
+    [print(x) for x in thislist]
+    ~~~
 
-~~~
-# loop through list index
-thislist = ["apple", "banana", "cherry"]
-for i in range(len(thislist)):
-    print(thislist[i])
-~~~
+    ~~~
+    # loop through list index
+    thislist = ["apple", "banana", "cherry"]
+    for i in range(len(thislist)):
+        print(thislist[i])
+    ~~~
 
-~~~
-# loop through list index
-thislist = ["apple", "banana", "cherry"]
-i = 0
-while i < len(this list):
-    print(thislist[i])
-    i += 1
-~~~
+    ~~~
+    # loop through list index
+    thislist = ["apple", "banana", "cherry"]
+    i = 0
+    while i < len(this list):
+        print(thislist[i])
+        i += 1
+    ~~~
 
 - List method   
     - Insert item
@@ -457,7 +457,6 @@ while i < len(this list):
 - Nested for
 
 ~~~
-
 # Modify a collection by iterating
 users = {'A': 'active', 'B': 'active', 'C': 'inactive'}
 
@@ -472,8 +471,142 @@ active.users = {}
 for user, status in users.items():
     if status == 'active':
         active.users[user] = status
-
 ~~~
+
+### `match` statement
+
+- Compare value to successive patterns given as case blocks
+- Can unpack collections, patterns can bind variables
+
+    ~~~
+    #point is an (x, y) tuple
+    match point:
+        case (0, 0):
+            return "Origin"
+        case (x, 0) | (0, y):           # '|' for or
+            return "On axis"
+        case (x, y):
+            print(f'X = {x}, Y = {y}')
+        case _:                         # '_' as wildcard and never match
+            raise ValuyeError('Not a point')
+    ~~~
+
+- `match` and `class`
+
+    ~~~
+    class Point
+        x: int
+        y: int
+
+    def where_is(point):
+        match point:
+            case []:
+                print('No point')
+            case [Point(0, 0)]:
+                print('origin)
+            case Point(x=0, y=y):
+                print(f'Y = {y})
+            case [Point(0, y1), Point(0, y2)]:
+                print(f'Two on the Y axis at {y1}, {y2}')
+            case Point(x, y) if x==y
+                print(f'Y = X at {x}')
+    ~~~
+
+- to be read: https://peps.python.org/pep-0636/
+
+### Define function
+
+- `def func(argument)`
+- Variables defined in function is local
+    - `global` for global variable
+    - `nonlocal` for variable of enclosing function
+
+        ~~~
+        # nonlocal
+        x = 0
+        def outer():
+            x =1 
+            def inner()
+                nonlocal x
+                x = 2
+                print("inner:", x)
+            
+            inner()
+            print("outer:", x)
+
+        outer()
+        print("global:", x)
+
+        # inner: 2
+        # outer: 2
+        # global: 0
+        ~~~
+
+        ~~~
+        # global
+        x = 0
+        def outer():
+            x =1 
+            def inner()
+                global x
+                x = 2
+                print("inner:", x)
+            
+            inner()
+            print("outer:", x)
+
+        outer()
+        print("global:", x)
+
+        # inner: 2
+        # outer: 1
+        # global: 2
+        ~~~
+- Function definition associates the function name with function objects
+    - `out = outer`
+    - function `outer` can be accessed by function name `out`
+- Functions without a `return` statement return `None`
+- Method is a function belongs to an object named `obj.methodname`
+- Argument
+    - Can be any data type
+    - Arbitrary argument `*args`
+        - Unknown numbers of arguments
+        - Function receive a tuple of arguments
+
+        ~~~
+        def func(*name):
+            print("Middle name is " + name[2])
+
+        func("Wang", "Frank", "Dazhi")
+        ~~~
+
+    - Keyword argument
+        - Send argument with `key = value` syntax
+        - `func(last = "Wang", middle = "Frank", first = "Dazhi")`
+    - Arbitrary keyword argument `**args`
+        - `def func(**name)`
+    - Default parameter value
+        - If call function without argument, use default value
+        - `def func(name = "Dazhi")`
+- `pass` statement
+- Recursion
+    - Function can call itself
+    
+    ~~~
+    results = []
+    def tri_recursion(k):
+        if(k > 0):
+        result = k + tri_recursion(k - 1)
+        results.append(result)
+    else:
+        result = 0
+    return result
+
+    tri_recursion(6)
+    print(results)
+
+    # [1, 3, 6, 10, 15, 21]
+    ~~~
 
 ## Data structures
 
@@ -499,6 +632,7 @@ for user, status in users.items():
     - A small anonymous function, can take any number of arguments, but only one expression
     - `x = lambda a , b : a * b + 10`
 - `del` keyword
+- `variable = input('enter the value')`
 
 
 
