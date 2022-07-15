@@ -210,3 +210,4 @@ description:
 - reamer - 铰刀
 - dislodge - 驱逐
 - lodge - 小屋
+- brittle - 脆
