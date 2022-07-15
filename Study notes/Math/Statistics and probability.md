@@ -25,11 +25,11 @@ description:
         - Relative frequency: compared to total 100%
         - Marginal distribution
             - Probability distribution of the variables contained in the subset
-            - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220708135546.png" width="300" height="">
+            - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220708135546.png" width="400" height="">
             - % or in counts
         - Conditional distribution
             - Probability distribution for a sub-population
-            - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220708135918.png" width="300" height="">
+            - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220708135918.png" width="500" height="">
             - % only
     - Frequency table
     - Dot pot
@@ -45,7 +45,7 @@ description:
         - Interquartile range IQR = Q3 - Q1
         - Interquartile range rule to detect outliers
             - If 1.5 IQR rule: 
-                - Bounds = [Q1 - 1.5 * IQR , Q3 + 1.5 * IQR]
+                - $Bounds = [Q1 - 1.5 * IQR , Q3 + 1.5 * IQR]$
     - Line graph
     - Exponetial graph
     - Logarithmic graph
@@ -71,12 +71,14 @@ description:
     - Mid-range = Range / 2
     - Variance: 
         - Population variance: $\sigma^2 = \frac {\Sigma (x - \mu)^2}{n} = \frac {\Sigma x^2}{n} - \mu^2$
+
         - Sample variance: $\sigma^2 = \frac {\Sigma (x - \mu)^2}{n} = \frac {\Sigma x^2}{n - 1} - \mu^2$
             - Why n-1: unbiased estimate
         - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220709191658.png" width="300" height="">
     - Standard deviation (SD): 
         - Standard deviation: $\sigma = \sqrt {\frac {\Sigma (x - \mu)^2}{n}}$
         - Sample standard deviation: $\sigma = \sqrt {\frac {\Sigma (x - \mu)^2}{n - 1}}$
+        
     - Mean absolute deviation (MAD): $  MAD = \frac{\Sigma|x - \mu|}{n} $
 - Inferential statistics: to make inference and prediction
 
