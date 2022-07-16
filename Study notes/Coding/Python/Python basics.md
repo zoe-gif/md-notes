@@ -153,9 +153,12 @@ description:
     - First character having index 0
     - Indices can be negative, counting from the right from -1
         - `'python'[1]` --> `"y"`; `'python'[-1]` --> `"n"`
-        - `'python'[0:2]` --> `"py"` (include position 0, exclude position 2)
+        - `'python'[0:2]` --> `"py"` # include position 0, exclude position 2
         - `'python'[:2] + 'python'[2:]` --> `"python"`
         - `'python'[:]` --> `"python"`
+        - `'python'[0:5:2]` --> `"pto"` # at interval of 2
+        - `'python'[::2]` --> `"pto"` # `::` for whole string
+        - `'python'[::-1]` --> `"nohtyp"` # negative interval to reverse string
     - Out of range index
         - Error for get the character of index
         - Ok for slicing
@@ -239,7 +242,7 @@ description:
         - `isaloha()`: if all are alphabet
         - `isdecimal()`, `isnumeric()`, `isdigit()`, `isidentifier()`
         - `islower()`, `istitle()`, `isupper()`, `isspace()`
-    - Fill 0 at the beginneing
+    - Fill 0 at the beginning
         - `"90".zfill(4)` --> `0090`
 
 #### Bollean
@@ -568,7 +571,9 @@ for user, status in users.items():
     - `out = outer`
     - function `outer` can be accessed by function name `out`
 
-- Functions without a `return` statement return `None`
+- End of function
+    - Functions without a `return` statement return `None`
+    - `print` cannot replace `return`
 
 - Method is a function belongs to an object named `obj.methodname`
 
@@ -730,6 +735,14 @@ for user, status in users.items():
 
 - `del` keyword
 - `variable = input('enter the value')`
+- `map(function, iterable)`: execute function for each item in iterable
+- `reversed`
+
+???????????????????????
+
+https://www.programiz.com/python-programming/methods/built-in/reversed
+
+https://www.geeksforgeeks.org/difference-method-function-python/
 
 
 
