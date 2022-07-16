@@ -27,9 +27,11 @@ python crach course: pp 53
 ---
 
 Math
-differential calculus - limit property
+differential calculus - derivative basic
 differential equations - 0
 integral calculus - 0
 linear algebra - 0
 multivaraible calculus - 0
-statistics and probability - 5
+statistics and probability - study design
+
+satistics how to https://www.statisticshowto.com/ - to be read
