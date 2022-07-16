@@ -70,16 +70,16 @@ description:
     - Range: distance between the lowest and highest
     - Mid-range = Range / 2
     - Variance: 
-        - Population variance: $\sigma^2 = \frac {\Sigma (x - \mu)^2}{n} = \frac {\Sigma x^2}{n} - \mu^2$
+        - Population variance: $\sigma^2 = \dfrac {\Sigma (x - \mu)^2}{n} = \dfrac {\Sigma x^2}{n} - \mu^2$
 
-        - Sample variance: $\sigma^2 = \frac {\Sigma (x - \mu)^2}{n} = \frac {\Sigma x^2}{n - 1} - \mu^2$
+        - Sample variance: $\sigma^2 = \dfrac {\Sigma (x - \mu)^2}{n} = \dfrac {\Sigma x^2}{n - 1} - \mu^2$
             - Why n-1: unbiased estimate
         - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220709191658.png" width="300" height="">
     - Standard deviation (SD): 
-        - Standard deviation: $\sigma = \sqrt {\frac {\Sigma (x - \mu)^2}{n}}$
-        - Sample standard deviation: $\sigma = \sqrt {\frac {\Sigma (x - \mu)^2}{n - 1}}$
+        - Standard deviation: $\sigma = \sqrt {\dfrac {\Sigma (x - \mu)^2}{n}}$
+        - Sample standard deviation: $\sigma = \sqrt {\dfrac {\Sigma (x - \mu)^2}{n - 1}}$
         
-    - Mean absolute deviation (MAD): $  MAD = \frac{\Sigma|x - \mu|}{n} $
+    - Mean absolute deviation (MAD): $  MAD = \dfrac{\Sigma|x - \mu|}{n} $
 - Inferential statistics: to make inference and prediction
 
 ### Modeling data distribution
@@ -113,3 +113,36 @@ description:
         - Summarize the number of trails with the same probability of attaining one particular value
         - Discrete
         - More trails, getting closer to normal distribution
+
+### Bivariate numerical data
+
+- Scatterplot
+    - Present the relationship between two variables in a dataset
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220716154807.png" width="300" height="">
+    - Description of scatterplot
+        - Trend line: correlation
+            - Direciton: negative, positive
+            - Strength: strong, weak
+            - Form: linear, nonlinear
+        - Cluster
+            - Low/high in x and low/high in y
+        - Outlier
+- Correlation coefficient $r$
+    - $ r \in [-1, 1] $
+    - Sample correlation coefficient
+        - $\begin{aligned}
+            r   &= \dfrac{1}{n-1} \sum (\dfrac{x_i - \bar{x}}{s_x}) (\dfrac{y_i - \bar{y}}{s_y}) \\
+                &= \dfrac{1}{n-1} \sum z_{x_i} \cdot z_{y_i}
+            \end{aligned}$
+- Linear regression
+- Residual
+    - Residual = actual y value - predicted y value
+        - $r_i = y_i - \hat {y_i}$
+    - Residual sum of square (RSS)
+        - $\sum {r_n}^2$
+- Least square regression
+    - Least RSS
+    - $\hat y = mx + b $
+        - $ m = r \cdot \dfrac {s_y}{s_x}$
+            - $\dfrac {s_y}{s_x}$ represents change of x over change of y
+        - $ \bar y = m \bar x + b$

@@ -129,6 +129,8 @@ description:
 - parabola - 抛物线
 - algebraic - 代数
 - recursion - 递归
+- bivariate - 双变量
+- intercept - 截距
 
 ## Other
 
@@ -217,3 +219,4 @@ description:
 - grommet - 索环
 - arbitrary - 任意
 - collision - 碰撞
+- intuition - 直觉

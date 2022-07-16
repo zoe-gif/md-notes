@@ -304,7 +304,7 @@ description:
     # loop through list index
     thislist = ["apple", "banana", "cherry"]
     i = 0
-    while i < len(this list):
+    while i < len(thislist):
         print(thislist[i])
         i += 1
     ~~~
@@ -344,6 +344,8 @@ description:
         - `list1 * 2`
     - Count spec value in list
         - `count(value)`
+    - Find
+        - `index(item, start, end)`
 
 #### Tuple
 
@@ -732,17 +734,13 @@ for user, status in users.items():
 
 - `eval()`: if the expression is legal python statement, it will be executed
 - `repr`()`: return a string containing a printable representation of an object
-
 - `del` keyword
 - `variable = input('enter the value')`
 - `map(function, iterable)`: execute function for each item in iterable
-- `reversed`
-
-???????????????????????
-
-https://www.programiz.com/python-programming/methods/built-in/reversed
-
-https://www.geeksforgeeks.org/difference-method-function-python/
-
-
+- `reversed()`: function of method `reverse`
+- `sorted()`: function of method `sort`
+- `min()`: return lowest value in an iterable
+- `sum()`: return sum of all in an iterable
+- `import math`
+    - `math.sqrt()`: square root
 
