@@ -32,6 +32,6 @@ differential equations - 0
 integral calculus - 0
 linear algebra - 0
 multivaraible calculus - 0
-statistics and probability - study design
+statistics and probability - probability
 
 satistics how to https://www.statisticshowto.com/ - to be read

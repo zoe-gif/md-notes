@@ -215,3 +215,31 @@ description:
         - S (standard deviation)
         - R-squared
         - Adjusted R-squared
+
+### Study design
+
+- Correlation vs causality
+- Sample
+    - Random sample
+        - Simple random sample
+            - Random digit table
+        - Systematic random sample
+            - Every nth
+        - Stratified random sample
+            - By Proportion of group
+        - Clustered random sample
+            - Cluster and randomly picl cluster
+    - Non random sample
+        - Voluntary sample -> bias
+        - Convenience -> bias
+- Qualitative and quantitative data
+- Types of statistical study
+    - Sample study
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220717122151.png" width="400" height="">
+    - Obervational study
+    - Experiment
+        - Explanary variable
+        - Response variable
+        - Treatment
+        - Experimental unit
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220717121958.png" width="400" height="">
