@@ -43,10 +43,52 @@ description:
     - Can change reference line
     - Set the default location of reference line
         - Manage - additional setting - annotation - temporary dimension
-- `space` to rotate elements 90 degrees
+- `space` to rotate elements 90 degrees or flip
+- `tab` to switch selection
 - Snap setting: 
     - Manage - snap
     - Shortcut or right click to snap overwrite
+- Load family
+    - Modify - load family - select, can multiple - type catalog - select types
+- Link and import
+    - Link or import CAD file
+        - As an underlying element
+        - Select - modify - query
+            - Check layer
+            - Delete layer
+            - Hide layer in view
+                - Hide/unhide: view - visibility/graphics `VG`
+        - Link
+            - Update if CAD file update
+            - Insert - link CAD - single click and select settings
+                - Color
+                - Create view only
+                    - On - view specific reference info
+                    - Off - model lines
+                - Positioning
+            - Create 3D tepographic geometry
+                - Off create view only
+                - Site plan - massing & site - toposurface 
+                - Create from import - select import instance - select layers
+        - Import (not recommend)
+            - View only, file size big
+            - View - drafting view (not connected to model, can use for detail)
+            - Insert - import CAD
+            - Import - import line weight
+        - Explode
+            - Not recommend
+            - Or create a new revit project, change styles, and copy to the working project
+    - Link Revit project
+        - Insert - link Revit
+        - Property
+            - Reload, unload
+            - Open and unload
+        - Modify to align/rotate to existing model
+    - Manage links
+        - Reference type 
+            - Overlay - not get nested link
+            - Attachment - get nested link
+        - In project browser
 
 ### Draw, Modify and Geometry
 
@@ -66,15 +108,20 @@ description:
     - Pick lines
 - Modify
     - Aligh `AL`
+        - Align at elevation to change level
     - Move `MV`
     - Offset `OF`
     - Copy `CO`
     - Rotate `RO`
+        - Place center of rotation
     - Trim and extend `TR`
         - Click parts to keep
+    - Trim and extend multiple items
+        - Select reference line, then (cross) select lines to trim
     - Mirror pick axis `MM`
     - Mirror draw axis `DM`
     - Split `SL`
+        - Delet inner segment
     - Array `AR`
     - Scale `RE`
     - Delete `DE`
@@ -90,6 +137,31 @@ description:
     - Wall joins
     - Demolish
         - Mark elements as demolished in current phase
+- Constraints
+    - Length constraints
+        - Temp dimension 
+            - Under the dimension - make this temp dimension permanent 
+        - Make permanet dimension directly
+            - Algined dimension `DI`
+        - Select dimension 
+            - Lock to make constraints
+            - EQ to lock
+    - Align constraints
+        - Align - lock
+    - Delet dimension may not delet constraints
+        - Left down - last command - reveal constraints
+- Group
+    - Select - create - create group `GP`
+    - Model group and attached detail group stored separate
+    - Group shown in project browser
+        - Drag or create instance to put group
+    - Select point of group can be reset
+    - Modify
+        - Edit/ungroup group
+        - Attached detail group
+    - Property to create variation
+        - Edit type - duplicate
+    - Select and exclude elements form instance of group
 
 ### General workflow
 
@@ -119,4 +191,36 @@ description:
         - Reveal cut away from the wall
         - In wall type edit
         - Or in 3D/elevation wall drop-down
-        
+    - Modify
+        - Wall joins
+            - Modify - geometry - wall joins
+            - Butt, miter and square off (if not 90 degrees)
+                - Prev and next to change butt type
+            - Allow and disable join
+        - Wall opening
+            - Modify - edit profile
+        - Attach and detach
+- Add door `DR` and window `WN`
+    - `Space` to flip
+- Add components `CM`
+    - Can flip along wall
+    - Some can choose 2D version only
+- Add floor
+    - Pick walls or draw geometry
+    - Extend into wall
+    - Modify
+        - Edit boundary
+        - Shape editing
+- Add roof
+    - Roof by footprint
+        - Pick wall
+        - Overhang: extension overhang away from wall
+        - Define slope: slope in which direction
+    - Roof by extrusion
+        - Pick a plane in elevation
+        - Create open shape
+- Add ceiling
+    - Ceiling plan - ceiling - automatic ceiling
+    - Ceiling pattern can be modified
+    - Component - lighting
+        - Lighting need ceiling host
