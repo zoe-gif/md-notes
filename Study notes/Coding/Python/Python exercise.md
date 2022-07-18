@@ -60,10 +60,39 @@ def rps(p1, p2):
 ~~~
 
 
-def solution(string):
-    solv = []
-    i = len(string)
-    for cha in string:
-        i = i - 1
-        solv.append(string[i])
-    return str(solv)
+### Calculate BMI
+
+>
+> Use Boolean value for conditions, True -> 1, Flase -> 0
+>
+
+~~~
+def bmi(weight, height):
+    b = weight / height ** 2
+    return ['Underweight', 'Normal', 'Overweight', 'Obese'][(b > 30) + (b > 25) + (b > 18.5)]
+~~~
+
+### Return binary value of calculation
+
+>
+> Use `bin()` function
+>
+
+~~~
+def add_binary(a,b):
+    return bin(a+b)[2:]
+~~~
+
+>
+> Use `format()` method of string
+>
+
+~~~
+def add_binary(a,b):
+    return '{0:b}'.format(a + b)
+~~~
+
+~~~
+def add_binary(a,b):
+    return f"{a + b :b}"
+~~~

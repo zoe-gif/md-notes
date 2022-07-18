@@ -347,6 +347,10 @@ description:
     - Find
         - `index(item, start, end)`
 
+- Shallow copy
+    - Should not modify mutable input data
+    - Should shallow copy `a = b[:]`instead of direct copy `a = b` (still referencing) 
+
 #### Tuple
 
 - Ordered, unchangeable, allow duplicate
@@ -743,4 +747,4 @@ for user, status in users.items():
 - `sum()`: return sum of all in an iterable
 - `import math`
     - `math.sqrt()`: square root
-
+- `bin()`: return binary value start with `0b`
