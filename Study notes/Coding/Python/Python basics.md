@@ -221,7 +221,7 @@ description:
                 - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220711000041.png" width="600" height="">
 - [String method](https://docs.python.org/3/library/stdtypes.html#string-methods)
     - Case
-        - `upper()` & `lower()` & `capitalize`
+        - `upper()` & `lower()` & `capitalize()` & `capwords()`
     - Remove whitespace
         - `strip()`
     - Replace character
