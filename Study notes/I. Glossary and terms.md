@@ -131,6 +131,11 @@ description:
 - recursion - 递归
 - bivariate - 双变量
 - intercept - 截距
+- derivative - 导数
+- secant line - 割线
+- differentiable - 可微分的
+- polynomial - 多项式
+- ln - natural log
 
 ## Other
 

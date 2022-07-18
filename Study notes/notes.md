@@ -27,7 +27,7 @@ python crach course: pp 53
 ---
 
 Math
-differential calculus - derivative basic
+differential calculus - derivative chain
 differential equations - 0
 integral calculus - 0
 linear algebra - 0

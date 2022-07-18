@@ -73,3 +73,47 @@ description:
 - Intermedia value theorem
     - If $f(x)$ continuous on an interval $[a, b]$
         - For every $L$ value between $f(a)$ and $f(b)$, there exists some $c$ in $[a, b]$ for which $f(c) = L$
+
+### Derivative
+
+- Definition  
+    - $f'(x) = \dfrac {dy}{dx} = \dfrac{d}{dx}f(x)$
+
+    - $f'(x) = \lim\limits_{x\to{\Delta x}}\dfrac{f(x + \Delta x) - f(x)}{\Delta x}$
+        - Find tangent line using definition
+            - If two function has a tangent, derivative of a point is same
+    - Differentiability and continuity
+        - If f is differentiable at x = c $\implies$ f is continuous at x = c
+        - Not differentiable
+            - Vertical tangent
+            - Not continuous
+            - Sharp trim
+- Basic rules
+    - $\dfrac{d}{dx}[x^n] = n \cdot x^{n-1}$, $(n \neq 0)$
+
+    - $\dfrac{d}{dx}[a] = 0$, A is constant
+
+    - $\dfrac{d}{dx}[kf(x)] = kf'(x)$
+
+    - $\dfrac{d}{dx}[f(x) \pm g(x)] = f'(x) \pm g'(x)$
+
+    - $\dfrac{d}{dx}[\sin x] = \cos x$
+
+    - $\dfrac{d}{dx}[\cos x] = - \sin x$ 
+
+        - Prove:
+            - $\lim\limits_{x \to 0}\dfrac{\sin x}{x} = 1$
+
+            - $\lim\limits_{x \to 0}\dfrac{1 - \cos x}{x} = 0$
+
+            - Then use definition to prove
+    - $\dfrac{d}{dx}[e^x] = e^{x}$
+        - $ e = \lim\limits_{n \to \infty} (1+ \frac{1}{n})^n = \lim\limits_{n \to 0}(1+n)^{\frac{1}{n}}$
+    - $\dfrac{d}{dx}[\ln x] = \dfrac{1}{x}$
+
+    - $\dfrac{d}{dx}[f(x)g(x)] = f'(x)g(x) + f(x)g'(x)$
+
+    - $\dfrac{d}{dx} [\dfrac {f(x)}{g(x)}] = \dfrac {f'(x)g(x) - f(x)g'(x)}{[g(x)]^2}$
+
+
+4
