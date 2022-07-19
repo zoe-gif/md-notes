@@ -212,15 +212,43 @@ description:
         - Edit boundary
         - Shape editing
 - Add roof
-    - Roof by footprint
-        - Pick wall
-        - Overhang: extension overhang away from wall
-        - Define slope: slope in which direction
+    - Roof by footprint.
+        - Boundary line
+            - Pick wall
+            - Overhang: extension overhang away from wall
+            - Define slope: slope in which direction
+        - Slope arrow
+            - Change slope along arrow
+        - Shape editing on flat roof
     - Roof by extrusion
         - Pick a plane in elevation
         - Create open shape
+    - Attach wall
+        - Select wall - modify - attach
+    - Modify - join/unjoin roof
 - Add ceiling
     - Ceiling plan - ceiling - automatic ceiling
     - Ceiling pattern can be modified
     - Component - lighting
         - Lighting need ceiling host
+- Add opening
+    - Shaft opening
+        - Can through floors
+    - Domer opening
+        - Pick roof/wall edges
+- Add staircase
+    - Stair by component
+    - Stair by sketch
+    - Railing
+        - Offset
+        - If not continuous
+            - Modify staircase landing to allow more room
+        - Extension to rail
+            - Edit type property - top rail - check type
+            - Project browser - family - railings - duplicate - type property
+            - Change top rail type to the new one 
+    - Modify
+        - Flip direction
+        - Temp dimension
+            - Dot to change both on vertical and horizontal
+            - Arrow to shorten or extend
