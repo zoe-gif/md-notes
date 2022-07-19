@@ -249,184 +249,15 @@ description:
 
 - `True` or `False`
 - Comparison operator: `<`, `>`, `==`, `!=`, `<=`, `>=`
-- Logical operator: `and`, `or`, `not`
+- Logical operator: `and`, `or`, `not` # `not` has higher priority
+    - Sequence can be compared
+        - Compare first two items, if equal then anther two
 - Identity operator: `is`, `is not`
 - False values
     - `bool(None)`
     - `bool(0)`
     - `bool("")`
     - `bool(())`, `bool([])`, `bool({})`
-
-#### List
-
-- Might contain items of different types
-- Ordered, changeable, allow duplicate
-    - `test = list((1, 2, 3))`
-    - `test = [1, 2, 3]`
-- Index and slice
-    - Same as string
-        - Left index included, right index excluded
-    - Can assign new value to slice
-        - `test[:1] = []` --> `[3]`
-        - `test[:] = []` --> `[]`
-- `in` & `not in` to check membership
-- `len()` return the number of items
-- Unpacking into variable
-    - Add `*` to a vairable, if the number of variables is less than value
-        - `(a, b, *c) = thisList`
-        - `c` is a list
-- List comprehension
-    - <code>newlist = [<i>expression</i> for <i>item</i> in <i>iterable</i> if </i>condition == True]</code>
-    - `newlist = [x.upper() for x in oldlist if x != "apple"]`
-- Loop through a list
-
-    ~~~
-    # loop through a list
-    thislist = ["apple", "banana", "cherry"]
-    for x in thislist:
-        print(x)
-    ~~~
-
-    ~~~
-    # list comprehension
-    thislist = ["apple", "banana", "cherry"]
-    [print(x) for x in thislist]
-    ~~~
-
-    ~~~
-    # loop through list index
-    thislist = ["apple", "banana", "cherry"]
-    for i in range(len(thislist)):
-        print(thislist[i])
-    ~~~
-
-    ~~~
-    # loop through list index
-    thislist = ["apple", "banana", "cherry"]
-    i = 0
-    while i < len(thislist):
-        print(thislist[i])
-        i += 1
-    ~~~
-
-- List method   
-    - Insert item
-        - `insert(index, insertContent)`
-            - `test.insert(1, 0)` --> `[1, 0, 2, 3]`
-    - Append item at the end
-        - `append()`: append item
-            - `for x in list2: list1.append(x)`
-        - `extend()`: append items from another iterable object: 
-            - Iterable object: list, typle, set, dictionary
-            - `list1.extend(list2)`
-        - `+`: `list3 = list1 + list2`
-    - Remove item
-        - `remove(value)`: remove item
-        - `pop(index)`: remove by sepcified index
-            - `pop()` --> remove the last item
-    - Clear the list
-        - `clear()` --> `[]`
-    - Sort
-        - `sort()`: sort alphanumerically
-        - `sort(reverse  = True)`: sort reversely
-        - `sort(key = myfunction)`: sort
-            - `myfunction` return a number used to sort the list
-            - Sort will be from the lowest to highest
-            - e.g. `def myfunction(n): return abs(n - 50)`
-                - `abs()`: absolute value
-            - e.g. `thislist = sort(key = str.lower)`
-        - Case sensitive: capital letters sorted before lower case letters
-    - Reverse order of list
-        - `reverse()`
-    - Copy a list
-        - `copy()`: `list2 = list1.copy()`
-        - `list()`: `list2 = list(list1)`
-        - `list1 * 2`
-    - Count spec value in list
-        - `count(value)`
-    - Find
-        - `index(item, start, end)`
-
-- Shallow copy
-    - Should not modify mutable input data
-    - Should shallow copy `a = b[:]`instead of direct copy `a = b` (still referencing) 
-
-#### Tuple
-
-- Ordered, unchangeable, allow duplicate
-    - `thisTuple = tuple(("a", "a", "b", True))`
-    - `thisTuple = ("a",)` #need to have a comma to create one-item tuple
-- Change tuple value by changing type to list
-
-#### Set
-
-- Unordered (unindexed), unchangeable (can remove or add items), no duplicate
-    - `myset = set(("a", "b", 33.1))`
-    - `myset = {"a", "b", 33.1}`
-    - Duplicated item auto deleted/merged
-- Set method
-    - Add item
-        - `add(value)`
-    - Add any iterable
-        - `update(mylist)`
-    - Remove
-        - `remove()`: if the item to remove not exist, `remove()` will raise ERROR
-        - `discard()`: if the item to remove not exist, `discard()` will not raise ERROR
-        - `pop()`: cannot spec index, can only remove the last item
-        - `clear()`: empty set
-        - `del()`: delete set completely
-    - Join sets
-        - `union(set2)`
-        - `update(set2)`
-    - Duplicates and differences
-        - Keep duplicates
-            - `set1.intersection_update(set2)`: keep duplicates and update `x`
-            - `set3 = set1.intersection(set2)`: return a new set of duplicates
-        - Keep all but duplicates
-            - `set1.symmetric_difference_update(set2)`
-            - `set3 = set1.symmetric_difference(set2)`
-        - Items only exist in `set1` not `set2`
-            - `set3 = set1.difference(set2)`
-        - Whether two sets have a intersection or not
-            - `isdisjoint()`
-        - Whether `set2` is subset(part of)/superset(contain) `set1`
-            - `set1.issubset(set2)`
-            - `set1.issuperset(set1)`
-
-#### Dictionary
-
-- Ordered, changeable, no duplicate
-    - Store data in key:value pairs
-    - `thisdict = {"brand": "Cola", "year": 1998, "color": ["red, "yellow"]}`
-- `in` & `not in`: check if key exists
-- Dictionary method
-    - Get from dict
-        - Get value
-            - `thisdict["owner"] = "John"`
-            - `thisdict.get("owner")`
-            - `values()`: get list of all values
-        - Get list of all keys
-            - `keys()`
-        - Get items
-            - `items()`: return each pair of item as tuple in a list
-    - Update item
-        - `update({"year": 2020})`: must in key:value pair
-    - Remove item
-        - `pop("year")`
-        - `del thisdict["year"]`
-        - `clear()`: to empty dict
-    - Copy
-        - Copy cannot by `dict1 = dict2` - just a reference that changes auto following `dict1`
-        - `copy()`
-    - Set default value of key
-        - `setdefault("color" : "white")`
-        - If the key not exists, inser the key with the specified value
-    - Create dict by specified keys and value
-        - `dict.formkeys(keys, value)`
-        - `thisdict = dict.formkeys (x, y)`
-            - If value not specified: `None`
-- Nested dict
-    - Dict can contain dict as item value
 
 ## Control flow tools
 
@@ -521,7 +352,6 @@ for user, status in users.items():
                 print(f'Y = X at {x}')
     ~~~
 
-- to be read: https://peps.python.org/pep-0636/
 
 ### Define function
 
@@ -720,6 +550,203 @@ for user, status in users.items():
 
 ## Data structures
 
+### Sequence
+
+#### List
+
+- Might contain items of different types
+- Ordered, changeable, allow duplicate
+    - `test = list((1, 2, 3))`
+    - `test = [1, 2, 3]`
+- Index and slice
+    - Same as string
+        - Left index included, right index excluded
+    - Can assign new value to slice
+        - `test[:1] = []` --> `[3]`
+        - `test[:] = []` --> `[]`
+- `in` & `not in` to check membership
+- `len()` return the number of items
+- Unpacking into variable
+    - Add `*` to a vairable, if the number of variables is less than value
+        - `(a, b, *c) = thisList`
+        - `c` is a list
+- List comprehension
+    - <code>newlist = [<i>expression</i> for <i>item</i> in <i>iterable</i> if </i>condition == True]</code>
+    - `newlist = [x.upper() for x in oldlist if x != "apple"]`
+    - `[(x, y) for x in [1,2,3] for y in [3,1,4] if x != y]`
+- List method   
+    - Insert item
+        - `insert(index, insertContent)`
+            - `test.insert(1, 0)` --> `[1, 0, 2, 3]`
+    - Append item at the end
+        - `append()`: append item
+            - `for x in list2: list1.append(x)`
+        - `extend()`: append items from another iterable object: 
+            - Iterable object: list, typle, set, dictionary
+            - `list1.extend(list2)`
+        - `+`: `list3 = list1 + list2`
+        - `insert(i, x)`: `a.insert(len(a), x)`
+    - Remove item
+        - `remove(value)`: remove item
+        - `pop(index)`: remove by sepcified index
+            - `pop()` --> remove the last item
+            - `popleft()` --> remove from left
+        - `del` statement
+    - Clear the list
+        - `clear()` --> `[]`
+    - Sort
+        - `sort()`: sort alphanumerically
+        - `sort(reverse  = True)`: sort reversely
+        - `sort(key = myfunction)`: sort
+            - `myfunction` return a number used to sort the list
+            - Sort will be from the lowest to highest
+            - e.g. `def myfunction(n): return abs(n - 50)`
+                - `abs()`: absolute value
+            - e.g. `thislist = sort(key = str.lower)`
+        - Case sensitive: capital letters sorted before lower case letters
+    - Reverse order of list
+        - `reverse()`
+    - Shallow Copy a list
+        - `copy()`: `list2 = list1.copy()`
+        - `list2 = list1[:]`
+    - Count spec value in list
+        - `count(value)`
+    - Find
+        - `index(item, start, end)`
+
+- Shallow copy
+    - Should not modify mutable input data
+    - Should shallow copy `a = b[:]`instead of direct copy `a = b` (still referencing) 
+
+#### Tuple
+
+- Ordered, unchangeable, allow duplicate
+    - `thisTuple = "a", "b", "c"`
+    - `emptyTuple = ()`
+    - `thisTuple = tuple(("a", "a", "b", True))`
+    - `thisTuple = ("a",)` #need to have a comma to create one-item tuple
+- Change tuple value by changing type to list
+
+#### Set
+
+- Unordered (unindexed), unchangeable (can remove or add items), no duplicate
+    - `myset = set(("a", "b", 33.1))`
+    - `myset = {"a", "b", 33.1}`
+    - Duplicated item auto deleted/merged
+- Set operations
+    - `set('aboc') - set('abc') = {'o'}`
+    - `set('ab') | set('ac') = {'a', 'b', 'c'}` # or
+    - `set('ab') & set('ac') = {'a'}` # both
+    - `set('ab') & set('ac') = {'b', 'c'}` # or but not both
+- Set method
+    - Add item
+        - `add(value)`
+    - Add any iterable
+        - `update(mylist)`
+    - Remove
+        - `remove()`: if the item to remove not exist, `remove()` will raise ERROR
+        - `discard()`: if the item to remove not exist, `discard()` will not raise ERROR
+        - `pop()`: cannot spec index, can only remove the last item
+        - `clear()`: empty set
+        - `del()`: delete set completely
+        - `del` statement
+    - Join sets
+        - `union(set2)`
+        - `update(set2)`
+    - Duplicates and differences
+        - Keep duplicates
+            - `set1.intersection_update(set2)`: keep duplicates and update `x`
+            - `set3 = set1.intersection(set2)`: return a new set of duplicates
+        - Keep all but duplicates
+            - `set1.symmetric_difference_update(set2)`
+            - `set3 = set1.symmetric_difference(set2)`
+        - Items only exist in `set1` not `set2`
+            - `set3 = set1.difference(set2)`
+        - Whether two sets have a intersection or not
+            - `isdisjoint()`
+        - Whether `set2` is subset(part of)/superset(contain) `set1`
+            - `set1.issubset(set2)`
+            - `set1.issuperset(set1)`
+
+#### Dictionary
+
+- Ordered, changeable, no duplicate
+    - Store data in key:value pairs
+    - Any immutable object can be key
+    - `thisdict = {"brand": "Cola", "year": 1998, "color": ["red, "yellow"]}`
+    - `thisdict = dict([("brand", "Cola"), ("year", 1988)])`
+    - `dict(year=1988, age=15)`
+    - `x: x**2 for x in (2, 4, 6)`
+- `list(dictionary)` returns a list of all keys
+- `in` & `not in`: check if key exists
+- Dictionary method
+    - Get from dict
+        - Get value
+            - `thisdict["owner"] = "John"`
+            - `thisdict.get("owner")`
+            - `values()`: get list of all values
+        - Get list of all keys
+            - `keys()`
+        - Get items
+            - `items()`: return each pair of item as tuple in a list
+    - Update item
+        - `update({"year": 2020})`: must in key:value pair
+    - Remove item
+        - `pop("year")`
+        - `del thisdict["year"]`
+        - `clear()`: to empty dict
+    - Copy
+        - Copy cannot by `dict1 = dict2` - just a reference that changes auto following `dict1`
+        - `copy()`
+    - Set default value of key
+        - `setdefault("color" : "white")`
+        - If the key not exists, inser the key with the specified value
+    - Create dict by specified keys and value
+        - `dict.formkeys(keys, value)`
+        - `thisdict = dict.formkeys (x, y)`
+            - If value not specified: `None`
+- Nested dict
+    - Dict can contain dict as item value
+
+### Looping techniques
+
+>
+> Loop through a list
+>
+
+~~~
+thislist = ["apple", "banana", "cherry"]
+for x in thislist:
+    print(x)
+~~~
+
+>
+> List comprehension loop
+>
+
+~~~
+thislist = ["apple", "banana", "cherry"]
+[print(x) for x in thislist]
+~~~
+
+>
+> Loop through list index
+>
+
+~~~
+thislist = ["apple", "banana", "cherry"]
+for i in range(len(thislist)):
+    print(thislist[i])
+~~~
+
+~~~
+thislist = ["apple", "banana", "cherry"]
+i = 0
+while i < len(thislist):
+    print(thislist[i])
+    i += 1
+~~~
+
 ## Modules
 
 ## Input and output
@@ -738,7 +765,6 @@ for user, status in users.items():
 
 - `eval()`: if the expression is legal python statement, it will be executed
 - `repr`()`: return a string containing a printable representation of an object
-- `del` keyword
 - `variable = input('enter the value')`
 - `map(function, iterable)`: execute function for each item in iterable
 - `reversed()`: function of method `reverse`
@@ -748,3 +774,6 @@ for user, status in users.items():
 - `import math`
     - `math.sqrt()`: square root
 - `bin()`: return binary value start with `0b`
+- `zip(iterator1, iterator2, iterator ...)`: zip iterator together
+- `enumerate(iteratble, [start])`: return as an enumerate object
+    - `enumerate(['a', 'b'])` --> `[(0, 'a'), (1, 'b')]`
