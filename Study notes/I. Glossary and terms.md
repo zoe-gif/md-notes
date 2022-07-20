@@ -136,6 +136,7 @@ description:
 - differentiable - 可微分的
 - polynomial - 多项式
 - ln - natural log
+- rational number - 有理数
 
 ## Other
 

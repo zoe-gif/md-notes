@@ -32,7 +32,8 @@ differential equations - 0
 integral calculus - 0
 linear algebra - 0
 multivaraible calculus - 0
-statistics and probability - probability
+statistics and probability - 
+Counting, permutations, and combinations
 
 satistics how to https://www.statisticshowto.com/ - to be read
 

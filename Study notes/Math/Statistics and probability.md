@@ -243,3 +243,32 @@ description:
         - Treatment
         - Experimental unit
         - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220717121958.png" width="400" height="">
+
+### Probability
+
+- P(A) = (# of ways A can happen) / (Total number of outcomes)
+- Operation of sets
+    - Empty set: $\empty$
+    - Univeral set U
+        - Real number: $\R$
+        - Rational number: Q
+        - Natural number: $\N$
+        - Integer: $\Z$
+    - Union (and): $X \cup Y$
+    - Intersection (or): $X \cap  Y$
+    - Relative complement: $X - Y = X / Y$
+    - Absolute complement: $A' = U  - A$
+    - Subset, strict subset, superset
+        - Subset: $A \sube A$
+        - Strict subset: $B \subsetneq A$
+    - Conditional probability: $P(B | A)$ # B given A happens
+- Theoretial and experimental probability
+    - More experiments, experimental prob gets closer to theoretial prob
+- Venn diagram
+- Rules for probability
+    - $P(A or B) = P(A) + P(B) - P(A and B)$
+    - Compound probabiulity
+        - Independent events: $P(A and B) = P(A) \cdot P(B)$
+        - Dependent events: $P(A and B) = P(A) \cdot P(B | A)$
+- Probability without eqaully likely events
+- 
