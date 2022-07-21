@@ -169,56 +169,6 @@ description:
         - `"ba" in "banana"` --> `True`
         - `"ya" not in "banana"` --> `True`
 - `len()`: return length of a string
-- Format
-    - Formatted string literal (f-string)
-        - Prefixed with `f`, replacement fields `{}`
-            - <code>f'Hello, my name is {<i>name</i>.lower()}'</code>
-            - `f"1 + (1 - 2) = {1 + (1 - 2)}"`
-            - `f'''He\'ll say {"I'm Eric"}'''` --> `"He'll say I'm Eric"`
-        - `=` can be added after expression, casues `repr()` by default
-            - `foo = "bar"`
-            - `f"{ foo = }"` --> `" foo = 'bar'" 
-        - Specify conversion
-            - `!s` calls `str()` on the result
-            - `!r` calls `repr()` on the result
-            - `!a` called `ascii()` on the result
-        - Format specifier `:`
-            - Alignment
-                - `:<` - left
-                - `:>` - right
-                - `:^` - center
-                - `:=` - place sign to the left most position
-                - Add int afterwards to spec available space for the value
-            - Sign
-                - `:+` - show + sign
-                - `:-` - show - sign only
-                - `: ` - use a space before positive number
-            - Separator
-                - `:,` - comma as thousand separator
-                - `:_` - underscre as thousand separator
-            - Number format
-                - `:b` - binary format
-                - `:c` - convert to unicode character
-                - `:d` - decimal format
-                - `:e` - scientific format with lower case e
-                - `:E` - scientific format with upper case E
-                - `:.2f` - fix point number format --> `5.00`
-                - `:o` - octal format
-                - `:x` - hex format
-                - `:.0%` - percentage format --> `5%`
-    - `str.format()`
-        - `full_name = "{} {}".format(first_name, last_name)`
-    - printf-style string formatting
-        - `%`: string formatting or interpolation operator
-        - `%(language)s has %(number)03d quote types' % {"language": "python", "number": 2}` --> `"pyhon has 002 quote types"`
-            - `(language)`: mapping key, optional
-            - `0`: conversion flag, optional
-                - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220710235621.png" width="600" height="">
-            - `3`: minimum field width, optional
-            - Precision `.2`, optional
-            - Length modifier, optional
-            - `d`: conversion type
-                - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220711000041.png" width="600" height="">
 - [String method](https://docs.python.org/3/library/stdtypes.html#string-methods)
     - Case
         - `upper()` & `lower()` & `capitalize()` & `capwords()`
@@ -749,7 +699,178 @@ while i < len(thislist):
 
 ## Modules
 
+- A file containing Python difinitions and statements
+    - `import module`
+    - `from module import itemname as itemname2`
+    - `from module import *`
+    - `modname.itemname`
+- Only imported once per interpreter session
+    - Restart interpreter or `importlib.reload()`
+- Run Python module
+    - `python mod.py <arguments>`
+    - Set `__name__` to `__main__`
+        - Adding at start: `if __name___ == "__main__"`
+- Module search path
+    - Search for built-in module listed in `sys.builtin_module_names`
+    - Search for `module.py` in a list of directories given by `sys.path`
+        - `sys.path` intialized from
+            - Directory containing input script
+            - `PYTHONPATH`
+            - Installation-dependent default
+- Compiled modules
+    - Python caches the compiled version of each moduile in the `__pycache__` directory under `module.version.pyc`
+- Standard modules
+    - Some built into the interpreter
+- `dir()` function
+    - `dir()` finds out which names a module defines, return a sorted list of strings
+- Packages
+    - A way of structuring Python's module namespace by using "dotted module names"
+
+    ~~~
+    sound/                          Top-level package
+      __init__.py               Initialize the sound package
+      formats/                  Subpackage for file format conversions
+              __init__.py
+              wavread.py
+              wavwrite.py
+              aiffread.py
+              aiffwrite.py
+              auread.py
+              auwrite.py
+              ...
+      effects/                  Subpackage for sound effects
+              __init__.py
+              echo.py
+              surround.py
+              reverse.py
+              ...
+      filters/                  Subpackage for filters
+              __init__.py
+              equalizer.py
+              vocoder.py
+              karaoke.py
+              ...
+    ~~~
+
+    - ` __init__.py` to make Python treat directories containing the file as packages
+    - Import individual modules from package
+        - `import sound.effects.echo`
+        - `from sound.effects import echo`
+        - Imported item can be submodule or package or name defined in the package
+    - Importing * from package
+        - First need to provide an explicit index of the package
+            - Defined list of module names `__all__`
+            - Imported when `*` encountered
+            - Maintained and updated by package author
+    - Intra-package references
+        - Realtive imports
+            - `from . import echo`
+            - `from ..filters import equalizer`
+
 ## Input and output
+
+- Output format
+    - Formatted string literal (f-string)
+        - Prefixed with `f`, replacement fields `{}`
+            - <code>f'Hello, my name is {<i>name</i>.lower()}'</code>
+            - `f"1 + (1 - 2) = {1 + (1 - 2)}"`
+            - `f'''He\'ll say {"I'm Eric"}'''` --> `"He'll say I'm Eric"`
+        - `=` can be added after expression, casues `repr()` by default
+            - `foo = "bar"`
+            - `f"{ foo = }"` --> `" foo = 'bar'" 
+            - `f{foo:5}` --> `"bar  "`
+            - Before `:` to indicate position int he arg list
+            - After `:` to indicate min width of the field
+        - Specify conversion
+            - `!s` calls `str()` on the result
+            - `!r` calls `repr()` on the result
+            - `!a` called `ascii()` on the result
+        - Format specifier `:`
+            - Alignment
+                - `:<` - left
+                - `:>` - right
+                - `:^` - center
+                - `:=` - place sign to the left most position
+                - Add int afterwards to spec available space for the value
+            - Sign
+                - `:+` - show + sign
+                - `:-` - show - sign only
+                - `: ` - use a space before positive number
+            - Separator
+                - `:,` - comma as thousand separator
+                - `:_` - underscre as thousand separator
+            - Number format
+                - `:b` - binary format
+                - `:c` - convert to unicode character
+                - `:3d` - decimal format --> `  5`
+                - `:e` - scientific format with lower case e
+                - `:E` - scientific format with upper case E
+                - `:.2f` - fix point number format --> `5.00`
+                - `:o` - octal format
+                - `:x` - hex format
+                - `:.2%` - percentage format --> `5.00%`
+    - `str.format()`
+        - `full_name = "{} {}".format(first_name, last_name)`
+        - `print("{1} and {0} and {0[other]:.2f}").format("a", "b", other = 3))` --> `"b and a and 3.00"`
+            - `[]` to access the key
+        - Passing `table` dictionary by `**`
+            - `print('Jack: {Jack:d}; Sjoerd: {Sjoerd:d}; Dcab: {Dcab:d}'.format(**table))`
+    - Old printf-style string formatting
+        - `%`: string formatting or interpolation operator
+        - `%(language)s has %(number)03d quote types' % {"language": "python", "number": 2}` --> `"pyhon has 002 quote types"`
+            - `(language)`: mapping key, optional
+            - `0`: conversion flag, optional
+                - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220710235621.png" width="600" height="">
+            - `3`: minimum field width, optional
+            - Precision `.2`, optional
+            - Length modifier, optional
+            - `d`: conversion type
+                - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20220711000041.png" width="600" height="">
+    - `str.rjust()`
+        - Padding string with spaces on the left
+        - `str.ljust`, `str.center`
+    - `str.zfill()`
+        - Pad a numeric string on the left with zeros
+
+- Reading and writing files
+    - `open(filename, mode, encoding=None)`
+        - `r` to read only (defualt)
+        - `w` to write only
+            - Existing file with the same name will be erased
+        - `a` to open the file for appending at the end
+        - `r+` to read and write
+        - `b` to open in binary mode
+    - Close file
+        - `with` to properly close file after finish
+            - `with open('workfile') as f: read_data = f.read()`
+        - `f.close()` # not recommended
+    - Method of file objects
+        - `read()`
+            - Read entire by default
+            - `read(size)`
+        - `readline()`
+            - Or `print line for line in f`
+            - `list(f)` or `f.readlines()` to read all lines
+        - `write(string)`
+            - Convert object to string or bytes
+                - `f.write(s)`
+        - `tell()`
+            - Tell the file object's current position
+        - `seek(offset, whence)`
+            - To change the file object's position
+            - `whence` reference point
+                - `whence == 0` (default): beginning of the file
+                - `whence == 1`: current file location
+                - `whence == 2`: end of the file
+                - If text files, only refer to the beginning of the file allowed
+    - `json` to save structured data
+        - `json`: javascript object notation
+        - Serializing: take Python data hierarchies and convert to string
+        - Deserializing: reconstruct data from string
+        - `json.dumps(object)` to view json string
+        - `json.dump(object, text_file)` to serialize to text_file
+        - `json.load(text_file)` to decode
+
 
 ## Errors and exceptions
 
@@ -767,6 +888,7 @@ while i < len(thislist):
 - `repr`()`: return a string containing a printable representation of an object
 - `variable = input('enter the value')`
 - `map(function, iterable)`: execute function for each item in iterable
+    - Multiple variables: `map(function, list1, list2)`
 - `reversed()`: function of method `reverse`
 - `sorted()`: function of method `sort`
 - `min()`: return lowest value in an iterable
@@ -777,3 +899,9 @@ while i < len(thislist):
 - `zip(iterator1, iterator2, iterator ...)`: zip iterator together
 - `enumerate(iteratble, [start])`: return as an enumerate object
     - `enumerate(['a', 'b'])` --> `[(0, 'a'), (1, 'b')]`
+- `vars()`: return a dictionary containing all local variables
+- `round(number, number of digits)`: round up
+- `p = p//1`: round down to integer
+- `re`
+    - [regular expression operations](https://docs.python.org/3/library/re.html)
+    - **********to be read*************

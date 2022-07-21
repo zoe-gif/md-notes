@@ -226,3 +226,5 @@ description:
 - arbitrary - 任意
 - collision - 碰撞
 - intuition - 直觉
+- compile - 编译
+- cache - 缓存
