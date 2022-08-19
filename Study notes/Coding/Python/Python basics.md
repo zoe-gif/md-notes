@@ -189,9 +189,9 @@ description:
         - `rfind()` & `rindex()`: return last position
     - Check type & format
         - `isalnum()`: if all are alphanumeric, alphabet or number
-        - `isaloha()`: if all are alphabet
+        - `isalpha()`: if all are alphabet
         - `isdecimal()`, `isnumeric()`, `isdigit()`, `isidentifier()`
-        - `islower()`, `istitle()`, `isupper()`, `isspace()`
+        - `islower()`, `istitle()`, `isupper()`, `isspace()
     - Fill 0 at the beginning
         - `"90".zfill(4)` --> `0090`
 
@@ -871,8 +871,76 @@ while i < len(thislist):
         - `json.dump(object, text_file)` to serialize to text_file
         - `json.load(text_file)` to decode
 
+- `print()`
+    - `print(*objects, sep=' ', end='\n', file=sys.stdout, flush=False)`
+    - `*object`: objects to be printed
+    - `sep = '\n'`: separator between printed objects
+    - `end = '@'`: print `@` at the end
+    - `file`: specify the output file (console by default)
+    - `flush`: flush the stream/file forcibly if set `True`
+
 
 ## Errors and exceptions
+
+- Syntax errors
+- Exceptions
+- Handling exceptions
+    - `try` & `except`
+    - `except` can have multiple lines, order matters
+
+    ~~~
+    while True:
+        try:
+            x = int(input("enter a number:"))
+            break
+        except (ValueError, TypeError):
+            print("try again")
+    ~~~
+
+- Raise exceptions
+    - `raise` statement: force a speficied exception to occur
+- Exception chaining
+    - Optional `from` enables chaining exceptions
+    - Disabled by `from None`
+- User-defined exceptions
+- Define clean-up actions
+    - `finally` executes the last task before `try` completes
+    
+    ~~~
+    def divide(x, y):
+        try:
+            result = x / y
+        except ZeroDivisionError:
+            print("division by zero!")
+        else:
+            print("result is", result)
+        finally:
+            print("executing finally clause")
+
+    >>> divide(2, 1)
+    result is 2.0
+    executing finally clause
+
+    >>> divide(2, 0)
+    division by zero!
+    executing finally clause
+
+    >>> divide("2", "1")
+    executing finally clause
+    Traceback (most recent call last):
+    File "<stdin>", line 1, in <module>
+    File "<stdin>", line 3, in divide
+    TypeError: unsupported operand type(s) for /: 'str' and 'str'
+    ~~~
+
+- Predefined clean-up actions
+    - `with`
+
+    ~~~
+    with open("myfile.txt") as f:
+    for line in f:
+        print(line, end="")
+    ~~~
 
 ## Classes
 
@@ -905,3 +973,4 @@ while i < len(thislist):
 - `re`
     - [regular expression operations](https://docs.python.org/3/library/re.html)
     - **********to be read*************
+- `ord`: return the int that represents string
