@@ -35,7 +35,7 @@ description:
 - `python` command in shell
 - Exit: `Ctrl + Z` or `quit()`
 - or <code>python -c <i>command</i> [arg] ...</code> to execute the statement in command
-- <code>python -m <i>module</i> [arg] ...</code> to execute the source fiel for module
+- <code>python -m <i>module</i> [arg] ...</code> to execute the source file for module
 - `-i` before script to run script and enter interactive mode afterwards
 
 ### Argument passing
@@ -943,6 +943,42 @@ while i < len(thislist):
     ~~~
 
 ## Classes
+
+- Class
+    - Class creates a new type of object
+    - Class instance can have attributes and methods
+    - Base class and derived class
+- Attribute
+    - `object.attribute`
+    - Read-only or writable
+        - `del object.attribute`
+- Namespace
+    - Mapping from names to objects
+    - Types
+        - Built-in namespace
+            - Created when Python intepreter starts up
+            - Never deleted
+        - Global namespace
+            - Created when module definition is read in
+            - Deleted until interpreter quits
+        - Local namespace for a function
+            - Created when function is called
+            - Deleted until function returns
+- Scope
+    - Textual region of a Python program where a namespace is directly accessible
+    - Types
+        - Innermost scope
+            - Searched first
+            - Contain local names
+        - Scope of any enclosing functions
+            - Searched from the nearest enclosing scope
+            - Contain non-local but also non-global names
+        - Next-to-last scope
+            - Contain the current modules's global names
+        - Outermost scope
+            - Searched last
+            - Contain built-in names
+    - till here...............................................
 
 ## Standard library
 
