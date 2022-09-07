@@ -1019,4 +1019,5 @@ alphabet_lower = list(string.ascii_lowercase)
 alphabet_upper = list(string.ascii_uppercase)
 ~~~
 
-- 
+- `yield` keyword
+    - Suspend a function's execution and send a value back to the caller
