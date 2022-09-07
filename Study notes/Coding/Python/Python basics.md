@@ -652,8 +652,8 @@ for user, status in users.items():
         - `setdefault("color" : "white")`
         - If the key not exists, inser the key with the specified value
     - Create dict by specified keys and value
-        - `dict.formkeys(keys, value)`
-        - `thisdict = dict.formkeys (x, y)`
+        - `dict.fromkeys(keys, value)`
+        - `thisdict = dict.fromkeys(x, y)`
             - If value not specified: `None`
 - Nested dict
     - Dict can contain dict as item value
@@ -1010,3 +1010,13 @@ while i < len(thislist):
     - [regular expression operations](https://docs.python.org/3/library/re.html)
     - **********to be read*************
 - `ord`: return the int that represents string
+- `enumerate(iterable, start=0)`: add counter to iterable and return
+- Import alpha
+
+~~~
+import string
+alphabet_lower = list(string.ascii_lowercase)
+alphabet_upper = list(string.ascii_uppercase)
+~~~
+
+- 
