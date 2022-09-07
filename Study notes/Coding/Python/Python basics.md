@@ -84,8 +84,6 @@ description:
     - `x, y = 3, "test"`
     - `x = y = "test"`
     - Unpack a collection of a value in list or tuple
-        - `test = [1, 2]`
-        - `x, y = test`
 - Global and local variable
     - Global variable
         - Created outside a function
