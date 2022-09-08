@@ -976,7 +976,8 @@ while i < len(thislist):
         - Outermost scope
             - Searched last
             - Contain built-in names
-    - till here...............................................
+- `global` and `non-local` statement
+
 
 ## Standard library
 
