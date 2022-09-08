@@ -977,7 +977,8 @@ while i < len(thislist):
             - Searched last
             - Contain built-in names
 - `global` and `non-local` statement
-
+    - `global`: variable lives in the global scope
+    - `nonlocal`: variable lives in an enclosing scope
 
 ## Standard library
 
