@@ -69,3 +69,6 @@ vba
 
 revit
 https://www.bilibili.com/video/BV1Kb41177Ai?p=10&vd_source=b5d7c4596d85c4178f7e5a439f1eba44
+
+blender
+https://youtu.be/imdYIdv8F4w
