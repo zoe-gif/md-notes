@@ -32,3 +32,15 @@ description:
 - Annotate: `d (hold) + left (drag)`
     - Erase annotate: `d(hold) + right (drag)`
 - Quick favorites: `q`
+- Add: `shift + a`
+- Apply: `ctrl + a`
+- Edit mode: `tab`
+
+## Donut
+
+- One grid = 1 m
+- Shade smooth & shade flat: `right`
+- Modifier properties: subdivision surface
+- Vertix -> face -> mesh
+- Proportional edit: `o`
+    - Move along: `alt + s`
