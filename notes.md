@@ -10,6 +10,12 @@ Code of Practice for the Electricity (Wiring) Regulations (2020 Edition): https:
 
 ---
 
+Managment
+
+Elements of QS - pp 37 - 49/344
+
+---
+
 Python
 
 learning python the hard way - pp 99 - abort for not a good book

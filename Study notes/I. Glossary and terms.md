@@ -228,3 +228,6 @@ description:
 - intuition - 直觉
 - compile - 编译
 - cache - 缓存
+- peculiar - 奇特的
+- comtemplate - 沉思
+- reconcile - 调和
