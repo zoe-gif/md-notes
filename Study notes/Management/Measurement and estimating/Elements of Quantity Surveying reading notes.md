@@ -37,3 +37,48 @@ description:
     - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221122234620.png" width="500" height="">
 
 ### Setting Down Dimensions
+
+- Traditional dimension paper
+    - Col 1: timesing column
+        - Timesing
+            - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221123233941.png" width="400" height="">
+        - Dotting on
+            - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221123234033.png" width="400" height="">
+    - Col 2: dimension column
+        - Alterations in dimensions
+            - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221123234241.png" width="300" height="">
+    - Col 3: squaring column
+        - Products of dimensions
+    - Col 4: description column
+        - Sign-posting
+            - Identify the location of dimensions
+        - Waste calculation
+            - Calculation the build-up of one of the dimensions
+
+- Form of dimensions
+    - Cubic measurements
+    - Square or superficial measurements
+    - Linear measurements
+    - Enumerated items
+    - Items
+
+- Order of dimensions
+    - Length -> Width -> Depth / Height
+
+- NRM2 
+    - Measurement
+        - Net as fixed in position
+        - Include all additional material required for laps, joints, seams and the like & wastage
+        - Cuved work measured on the centre line
+        - Dimensions rounded to nearest 10mm
+        - Quantity rounded to nearest whole number
+            - Exception: measured in tonnes rounded to two decimal places
+        - Voids
+            - Minimum deductions for voids refer only to openings or wants within the boundaries of the the measured work
+            - Always deduct openings or wants at te boundaries of measured areas, irrespective of size
+            - No separate measurement for widths not exceeding a stated limit where these widths are caused by voids
+    - Billing
+        - 
+
+
+purchase e book if cu https://play.google.com/store/books/details?id=TWkQEAAAQBAJ&rdid=book-TWkQEAAAQBAJ&rdot=1&source=gbs_vpt_read&pcampaignid=books_booksearch_viewport&pli=1

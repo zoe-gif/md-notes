@@ -12,7 +12,7 @@ Code of Practice for the Electricity (Wiring) Regulations (2020 Edition): https:
 
 Managment
 
-Elements of QS - pp 37 - 49/344
+Elements of QS - pp 45 - 57/344
 
 ---
 
