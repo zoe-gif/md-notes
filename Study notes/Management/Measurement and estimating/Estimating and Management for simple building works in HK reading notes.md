@@ -11,4 +11,11 @@ tags: Measurement and estimating
 description: 
 ---
 
-#
+## Building the Project Team
+
+### Introduction
+
+- QS role
+    - 加圖片
+- Project team
+    - 加圖片
