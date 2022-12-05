@@ -16,6 +16,6 @@ description:
 ### Introduction
 
 - QS role
-    - 加圖片
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221205232608.png" width="300" height="">
 - Project team
     - 加圖片
