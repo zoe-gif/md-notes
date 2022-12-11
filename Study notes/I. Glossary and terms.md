@@ -231,3 +231,9 @@ description:
 - peculiar - 奇特的
 - comtemplate - 沉思
 - reconcile - 调和
+- intricate - 错综复杂
+- concerted - 一致的
+- indispendable - 必不可少的
+- consortium - 财团
+- franchise - 专营权
+- impartial - 公正的
