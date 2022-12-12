@@ -33,7 +33,7 @@ description:
     - Designer-led (design-bid-build)
         - 'Traditional' method
         - Separation of design and construction responsibilities
-            - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221211225816.png" width="200" height="">
+            - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221211225816.png" width="250" height="">
         - Advantages
             - Control over design
             - Control over budget
@@ -73,7 +73,7 @@ description:
                 - Enter into multiple works contracts
     - Design and Build (D&B)
         - Engage a single party
-            - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221211230720.png" width="300" height="">
+            - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221211230720.png" width="250" height="">
             - Tender
                 - Owner to provide the project/client's brief
                 - Tender to submit a design proposal and price
@@ -102,7 +102,7 @@ description:
             - Owner's control on operation
     - Design. Build, Finance and Operate (DBFO)
         - Contractor responable for DBFO
-            - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221211232158.png" width="300" height="">
+            - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221211232158.png" width="350" height="">
             - Used in publid projecjts like tunnels and toll highways
             - Project originator, usually the government, becomes a service buyer
             - Local practice
@@ -126,7 +126,7 @@ description:
                 - Privatisation: gov transfers the entity to the private sector
             - E.g. HK Disneyland, AsiaWorld-Expo
 - Allocation of responsibilities and risks
-    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221211233435.png" width="500" height="">
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221211233435.png" width="600" height="">
 - Selection of project delivery options
     - Schedule
         - Time for design
@@ -165,4 +165,64 @@ description:
         - Guaranteed maximum price (GMP) contract
             - Target cost contract
             - Contractor paid based on expenditure plus a percentage, total amount is limited by the cost ceiling
-            - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221212234947.png" width="400" height="">
+            - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221212234947.png" width="300" height="">
+            - e.g. <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221213000234.png" width="500" height="">
+        - Government promoting NEC contracts
+- Selection of payment methods
+    - Balance of risk and incentive
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221212235507.png" width="600" height="">
+    - Considerations
+        - Project natire
+            - New, renovation or maintenance
+        - Scope of work
+            - Scope and size clearly defined or not
+            - Adoption of new technology
+        - Project schedule
+        - Certainty of final cost
+        - Changes during construction
+        - Risk allocation
+        - Capabilities of project participants
+        - Market condition
+
+## Preparing for tender
+
+- Tendering methods
+    - Open tendering
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221213000645.png" width="600" height="">
+        - Tenderers may need to pay a deposit
+            - Refundable upon submission of a bona fide tender
+            - Bona fide tender: a tender is prepared and submitted in good faith, without fraud
+        - Advantages
+            - Maximum competition
+            - No favouritism
+            - Prevent bidders from culluding
+            - Allow unknown contractors to tender
+            - Public accountability for gov projects
+        - Disadvantages
+            - High cost of tendering
+            - More time to evaluate the tenders
+            - Incompetent or unsuitable contractor may be chosen
+    - Selective tendering
+        - Most popular
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221213001603.png" width="600" height="">
+        - Tenders shortlisted based on company background, past performance and project requirements
+        - Prequalification to shortlist
+            - Procedures
+                - Invitation to prequalification
+                - Evaluation of qualification submissions
+                - Notification of results
+            - Differnet from an approved list applicable fto multiple contracts
+        - Single-stage & two-stage
+            - Single-stage: common
+            - Two-stage: engage contractor in the design stage
+                - First stage: appoint a preferred contractor on a pre-construction service agreement based on a pre-construction service agreement or a consultancy agreement
+                - Second stage: negotiate for a lump sum
+    - Single tendering
+        - Special circumstances
+            - Urgency, e.g. restoration of works after accidents
+            - Patented works or specialised service
+            - Lease term
+            - Extension contract
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221213003410.png" width="600" height="">
+
+## Tendering procudures

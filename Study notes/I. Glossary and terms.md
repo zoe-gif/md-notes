@@ -237,3 +237,5 @@ description:
 - consortium - 财团
 - franchise - 专营权
 - impartial - 公正的
+- bid rigging - 围标
+- collusion - 共谋
