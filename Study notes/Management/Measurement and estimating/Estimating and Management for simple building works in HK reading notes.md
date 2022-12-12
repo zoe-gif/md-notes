@@ -145,4 +145,24 @@ description:
 ## Payment Mechanisms
 
 - Principles of payment mechanisums
-    - 
+    - Fixed price
+    - Cost reimbursement
+    - Hybrid
+- Type of contracts
+    - Lump sum contract
+        - Lump sum with quantities
+            - Bills of quantities by QS
+        - Lump sum without quantities
+            - Schedules of rates by tenderers
+    - Remeasurement contract
+        - Approximate bills of quantities
+        - Often applied in civil engineering projects and renovation projects
+    - Cost reimbursement contract
+        - Employer bears all risks
+        - Cost plus percentage fee contract
+            - Percentage fee for profit and voerhead
+        - Cost plus fixed fee contract
+        - Guaranteed maximum price (GMP) contract
+            - Target cost contract
+            - Contractor paid based on expenditure plus a percentage, total amount is limited by the cost ceiling
+            - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221212234947.png" width="400" height="">
