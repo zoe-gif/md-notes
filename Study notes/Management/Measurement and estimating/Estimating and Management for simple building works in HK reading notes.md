@@ -226,3 +226,5 @@ description:
         - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221213003410.png" width="600" height="">
 
 ## Tendering procudures
+
+- 
