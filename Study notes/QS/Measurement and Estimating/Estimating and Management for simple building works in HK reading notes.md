@@ -227,4 +227,64 @@ description:
 
 ## Tendering procudures
 
+- Preparation of tender documents (QS)
+    - Instructions to Tenderes/Notes to Tenderers
+    - Conditions of Tender
+        - List rules of tender submission & bidding
+    - Form of Tender
+        - To be completed and signed by the tnederer
+        - Include tenderer's detail and tender sum
+    - Article of Agreement
+    - Conditions of Contract
+        - GCC - Generl Conditions of Contract
+        - SCC - Special Conditions of Contract
+    - Full set of drawings
+    - Specifications
+    - Bills of Quantities or Schedules of Rates
+- Prepare tender list (QS)
+    - Considerations
+        - Size of company
+        - Nautre of work
+        - Past projects
+        - Reputation
+        - Financial stability
+    - Prequalification
+- Preliminary enquiry (QS)
+    - To ensure a required number of tenders are returned
+    - A preliminary enquiry letter sent to contractors for them to decide whether they wish to tender or not
+- Decision to tender (Contractor)
+    - Contractor's consideration    
+        - Experience, resources, location, workload, anticipated risk, competition, project team
+- Dispatch tender documents (QS)
+    - Tender addendum
+    - Tender query & clarification
+- Tender estimate (Contractor)
+    - Compile data for estimate
+        - Site visit
+        - Quotations from subcontractors and suppliers
+            - Supplier delivery types
+                - Ex factory
+                - FOB (free on board)
+                - CIF (Insurance and freight)
+                - DDP (delivered duty paid)
+            - Subcontractor types
+                - Labour-and-materials subcontractor
+                - Labour-and-plant subcontractor
+                - Labour-only subcontractor
+        - Info from tender documents
+    - Estimator's report
+        - Brief description of the project
+        - Method of contruction
+        - Resourced programme
+        - Problems and risks
+        - Non-standard contract conditions or amendment
+        - Assumptions made in the estimate preparation
+    - Estimate analysis
+        - Summary of trade/bill totals
+        - Analysis of subcon, mateirals and labour cost at trade level
+        - Project cash flow and profitability
+    - Market analysis
+        - Relevant past projects by the owner
+        - Market conditions, industrial trend and competition
 - 
+    

@@ -239,3 +239,5 @@ description:
 - impartial - 公正的
 - bid rigging - 围标
 - collusion - 共谋
+- adjudicate - 裁定，判决
+- pertinent - 相关的
