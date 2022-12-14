@@ -300,5 +300,20 @@ description:
     - Evaluate tenders
         - Lowest price method
         - Price quality method
-        
+            - Weighting for cost proposal & technical proposal or performance rating
+            - Score of tenderer A = 60 x (Lowest tender price / Tender price of A) + 40 x (A's performance rating / highest rating / highest performance rating)
+    - Qualified tender
+        - A tender that contains statements added by the tenderer to limit liabilities if awarded
+            - Exclude provision of insurance, bond or shop drawings
+            - Counter-propose to use alternative mateiral
+            - Require a deposit payment
+            - Propose different payment or retention terms
+        - Discourage
+    - Tender interview
+- Negotiation and best offer (Client, QS, Contractor)
+- Letter of Acceptance (LOA) (Client, QS, Contractor)
+- Tender performance review (Contractor)
+    - To improve bidding strategy
+- 
+
     

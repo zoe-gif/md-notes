@@ -241,3 +241,4 @@ description:
 - collusion - 共谋
 - adjudicate - 裁定，判决
 - pertinent - 相关的
+- reconciliation - 和解
