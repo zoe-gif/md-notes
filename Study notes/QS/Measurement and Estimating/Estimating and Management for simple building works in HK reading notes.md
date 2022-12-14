@@ -6,8 +6,8 @@ date: 24/11/2022
 update: 24/11/2022
 categories:
 - Study notes
-- Management
-tags: Measurement and estimating
+- QS
+tags: Measurement and Estimating
 description: 
 ---
 

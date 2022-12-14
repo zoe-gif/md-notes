@@ -6,8 +6,8 @@ date: 22/11/2022
 update: 22/11/2022
 categories:
 - Study notes
-- Management
-tags: Measurement and estimating
+- QS
+tags: Measurement and Estimating
 description: 
 ---
 
@@ -79,6 +79,3 @@ description:
             - No separate measurement for widths not exceeding a stated limit where these widths are caused by voids
     - Billing
         - 
-
-
-purchase e book if cu https://play.google.com/store/books/details?id=TWkQEAAAQBAJ&rdid=book-TWkQEAAAQBAJ&rdot=1&source=gbs_vpt_read&pcampaignid=books_booksearch_viewport&pli=1
