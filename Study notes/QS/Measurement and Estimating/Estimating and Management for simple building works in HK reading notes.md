@@ -286,5 +286,19 @@ description:
     - Market analysis
         - Relevant past projects by the owner
         - Market conditions, industrial trend and competition
-- 
+- Examine tenders (QS)
+    - Check errors
+        - Errors that do not affect the completeness of the tender
+            - Arithmetical errors
+            - Typographical errors
+            - Inconsistent pricing
+        - Non-compliances
+            - Essentail info missing
+    - Examine the tender bid price
+        - If unreasonably low
+        - If unexceptionally high
+    - Evaluate tenders
+        - Lowest price method
+        - Price quality method
+        
     
