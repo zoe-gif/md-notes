@@ -243,3 +243,4 @@ description:
 - pertinent - 相关的
 - reconciliation - 和解
 - inception - 开始
+- infancy - 婴儿期

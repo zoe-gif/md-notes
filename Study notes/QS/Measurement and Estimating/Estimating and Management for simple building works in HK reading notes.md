@@ -404,9 +404,22 @@ description:
 - Method
      - Single-rate approximate estimating
         - Functionl unit method
+            - Estimated cost = cost per functional unit x number of units
         - Floor area method
+            - Estimated cost = cost per CFA x CFA
+            - CFA: measured overall to the outer face of external wall
     - Multiple-rate approximate estimating
         - Elemental cost plan
         - Approximate quantities (detailed design cost plan)
         - Pre-tender estimate
     - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221216184035.png" width="600" height="">
+- Cost adjustment
+    - Project particular
+        - Quality standard
+        - Construction method
+        - Design components
+        - Location factor
+        - Site condition
+    - Cost trend analysis
+        - Market price of principle construction resources
+        - Tender price index
