@@ -228,19 +228,6 @@ description:
 ## Tendering procudures
 
 - Preparation of tender documents (QS)
-    - Instructions to Tenderes/Notes to Tenderers
-    - Conditions of Tender
-        - List rules of tender submission & bidding
-    - Form of Tender
-        - To be completed and signed by the tnederer
-        - Include tenderer's detail and tender sum
-    - Article of Agreement
-    - Conditions of Contract
-        - GCC - Generl Conditions of Contract
-        - SCC - Special Conditions of Contract
-    - Full set of drawings
-    - Specifications
-    - Bills of Quantities or Schedules of Rates
 - Prepare tender list (QS)
     - Considerations
         - Size of company
@@ -317,5 +304,97 @@ description:
 
 ## Tender Documentation
 
-- 
-    
+- Composition of tender documents
+    - Instructions to Tenderes/Notes to Tenderers
+    - Conditions of Tender
+        - List rules of tender submission & bidding
+    - Form of Tender
+        - To be completed and signed by the tnederer
+            - Project title
+            - Description of works
+            - Tender price
+            - Validity of offer
+            - Time for completion of the whole works
+            - Tenderer info
+            - Name of witness and signature
+            - Date
+    - Article of Agreement
+    - Conditions of Contract
+        - GCC - Generl Conditions of Contract
+        - SCC - Special Conditions of Contract
+        - Clauses
+            1. Interpretation and definitions
+            2. Contractor's obligations
+            3. Master programme
+            4. Architect's instruction
+            5. Documents forming the contract and other documents
+            6. Satutory obligations
+            7. Setting out the works
+            8. Materials, goods, workmanship and work
+            9. Interllectual property rights
+            10. Contractor's site management team
+            11. Access for the architect to the works
+            12. Architect's representative
+            13. Variations, provisional quantities, provisional items and provisional sums
+            14. Contract bills
+            15. Contract sum
+            16. Materials and goods on or off-site
+            17. Substantial completion and defects liability
+            18. Partial possession by e,ployer
+            19. Assignment and sub-letting
+            20. Injury to persons and property and indemnity to employer
+            21. Insurance against injury to persons
+            22. Insurance of the works
+            23. Possession, commencement and completion
+            24. Damages for non-completion
+            25. Extension of time
+            26. Delay recovery meaures
+            27. Direct loss and/or expense
+            28. Notice of claims for additional payment
+            29. Nominated subcontractors and nominated suppliers
+            30. Persons engaged by employer
+            31. Facilities for statutory undertakers and utility companies
+            32. Certificates and payments
+            33. Surety bond
+            34. Antiquities
+            35. Determination by employer
+            36. Determination by contractor
+            37. Determination by employer or contractor
+            38. Fluctuations
+            39. Notice, certificates and other communications
+            40. Recovery of money due to the employer
+            41. Settlement of disputes
+    - Drawings
+        - Drawings which form part of the contract
+        - Drawings which do not form part of the contract
+    - Specifications
+        - General specification
+        - Particular specification
+    - Bills of Quantities or Schedules of Rates
+        - Preambles
+            - Non-measurable items that do not cost themselves
+            - Method of measurement
+        - Preliminaries
+            - Summarise contractual terms and services by contractor
+            - Not trade-specific
+        - Measured work
+            - Provisional quantities
+                - Estimated quantity subject to remeasurement
+        - Provisional sum and prime cost sum
+            - Provisional sum
+                - Estimated allowance for items without sufficient info
+                - Can be completely omitted
+            - Price cost sum
+                - Allowance for nominated suppliers or subcontractors
+                - Main contractor has % of profit and attendance
+            - As an indicative price for the work
+        - Provisional/approximate bills of quantities
+            - Subject to remeasurement
+        - Schedule of Rates
+            - If lump sum contract without quantities, SOR instead of BQ prepared by QS
+            - Errors not entitled to variations
+
+## Approximate Estimating
+
+    - 
+        
