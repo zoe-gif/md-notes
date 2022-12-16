@@ -396,5 +396,17 @@ description:
 
 ## Approximate Estimating
 
-    - 
-        
+- Purpose
+    - Feasibility studies of design alternatives
+    - Set project budge or cost limit
+    - Maintain financila control of project
+    - Produce comparative studies
+- Method
+     - Single-rate approximate estimating
+        - Functionl unit method
+        - Floor area method
+    - Multiple-rate approximate estimating
+        - Elemental cost plan
+        - Approximate quantities (detailed design cost plan)
+        - Pre-tender estimate
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221216184035.png" width="600" height="">
