@@ -29,102 +29,103 @@ description:
 
 ## Deciding the Procurement Strategy
 
-- Project delivery method
-    - Designer-led (design-bid-build)
-        - 'Traditional' method
-        - Separation of design and construction responsibilities
-            - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221211225816.png" width="250" height="">
-        - Advantages
-            - Control over design
-            - Control over budget
-            - Bills of quantities
-            - System of checks and balances
-        - Disadvantages
-            - Longer time
-                - No overlap of design and construction
-            - Limit effectiveness and constructability of design
-            - Relationship between designer & contractor
-                - Cannot sue each other unless negligence
-        - Standard form of contracts
-            - Public sector
-                - General Conditions of Contract for Civil Engineering Works, 1999 Edition
-                - General Conditions of Contract for Building Works, 1999 Edition
-                - General Conditions for Contract for E&M Engineering Works, 1999 Edition
-                - General Conditions of Contract for Design and Build Contract, 1999 Edition
-            - Private sector
-                - Standard Form of Building Contracts, Agreement & Schedule of Conditions of Building Contracts, without quantities, 2006 Edition
-                - Standard Form of Building Contracts, Agreement & Schedule of Conditions of Building Contracts, with quantities, 2005
-    - Management Contracting
-        - Engage a management contractor at the design stage
-            - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221211225907.png" width="300" height="">
+### Project delivery method
+
+- Designer-led (design-bid-build)
+    - 'Traditional' method
+    - Separation of design and construction responsibilities
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221211225816.png" width="250" height="">
+    - Advantages
+        - Control over design
+        - Control over budget
+        - Bills of quantities
+        - System of checks and balances
+    - Disadvantages
+        - Longer time
+            - No overlap of design and construction
+        - Limit effectiveness and constructability of design
+        - Relationship between designer & contractor
+            - Cannot sue each other unless negligence
+    - Standard form of contracts
+        - Public sector
+            - General Conditions of Contract for Civil Engineering Works, 1999 Edition
+            - General Conditions of Contract for Building Works, 1999 Edition
+            - General Conditions for Contract for E&M Engineering Works, 1999 Edition
+            - General Conditions of Contract for Design and Build Contract, 1999 Edition
+        - Private sector
+            - Standard Form of Building Contracts, Agreement & Schedule of Conditions of Building Contracts, without quantities, 2006 Edition
+            - Standard Form of Building Contracts, Agreement & Schedule of Conditions of Building Contracts, with quantities, 2005
+- Management Contracting
+    - Engage a management contractor at the design stage
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221211225907.png" width="300" height="">
+    - Local practice
+        - Many owners will requires management contractor to sign works contracts, and ask each works contractor to provide a warranty to the owner
+    - Advantages
+        - Shortened period
+            - Award and commence different work packages at different times before the completion of design
+        - Flexibility
+            - Owner can change design of packages that have not yet commenced
+        - Integration of contractor's knowledge into deign stage
+    - Disadvantages
+        - Additional cost
+        - Uncertainty of total project cost
+        - Owner has to assume all risks for project shedule and cost
+        - More administration and communication required for the owner
+            - Enter into multiple works contracts
+- Design and Build (D&B)
+    - Engage a single party
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221211230720.png" width="250" height="">
+        - Tender
+            - Owner to provide the project/client's brief
+            - Tender to submit a design proposal and price
+    - Advantages
+        - One party responsible for design and construction
+        - Agreed project cost with greater certainty
+        - Reduce dispute between the designer and the builder
+        - Improve buildability
+        - Shorter period
+    - Disadvantage
+        - Employer's requirements have to be clearly defined
+        - Lose the system of checkes and balances
+        - Higher tendering cost for bidders
+        - Hard to compare bids
+        - Design quality
+- Design, Build and Operate (DBO)
+    - Contractor responsible for DBO
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221211231621.png" width=300" height="">
+        - More popular in government and non-profit making projects
+    - Advantages
+        - Consider life-cycle cost in design
+    - Disadvantages
+        - Higher tendering cost
+        - DBO contractor may defer maintenance
+        - Price difficult to negotiate for long time DBO contracts
+        - Owner's control on operation
+- Design. Build, Finance and Operate (DBFO)
+    - Contractor responable for DBFO
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221211232158.png" width="350" height="">
+        - Used in publid projecjts like tunnels and toll highways
+        - Project originator, usually the government, becomes a service buyer
         - Local practice
-            - Many owners will requires management contractor to sign works contracts, and ask each works contractor to provide a warranty to the owner
-        - Advantages
-            - Shortened period
-                - Award and commence different work packages at different times before the completion of design
-            - Flexibility
-                - Owner can change design of packages that have not yet commenced
-            - Integration of contractor's knowledge into deign stage
-        - Disadvantages
-            - Additional cost
-            - Uncertainty of total project cost
-            - Owner has to assume all risks for project shedule and cost
-            - More administration and communication required for the owner
-                - Enter into multiple works contracts
-    - Design and Build (D&B)
-        - Engage a single party
-            - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221211230720.png" width="250" height="">
-            - Tender
-                - Owner to provide the project/client's brief
-                - Tender to submit a design proposal and price
-        - Advantages
-            - One party responsible for design and construction
-            - Agreed project cost with greater certainty
-            - Reduce dispute between the designer and the builder
-            - Improve buildability
-            - Shorter period
-        - Disadvantage
-            - Employer's requirements have to be clearly defined
-            - Lose the system of checkes and balances
-            - Higher tendering cost for bidders
-            - Hard to compare bids
-            - Design quality
-    - Design, Build and Operate (DBO)
-        - Contractor responsible for DBO
-            - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221211231621.png" width=300" height="">
-            - More popular in government and non-profit making projects
-        - Advantages
-            - Consider life-cycle cost in design
-        - Disadvantages
-            - Higher tendering cost
-            - DBO contractor may defer maintenance
-            - Price difficult to negotiate for long time DBO contracts
-            - Owner's control on operation
-    - Design. Build, Finance and Operate (DBFO)
-        - Contractor responable for DBFO
-            - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221211232158.png" width="350" height="">
-            - Used in publid projecjts like tunnels and toll highways
-            - Project originator, usually the government, becomes a service buyer
-            - Local practice
-                - Build-operate-transfer (BOT)
-                - Gov enters into a franchise agreement with a private sector, usually a consortium, to finance, develop and operate a facility over a franchise period
-                - After the franchise period, the facility will be transferred at no cost to gov
-                - E.g. Western Harbour Tunnel
-        - Advantages
-            - Reduce project originator's funding
-            - Efficient way to privatise a public service
-        - Disadvantages
-            - More expensive
-        - Public-private partnership (PPP)
-            - Long-term contractual relationship to deliver the service by the public and private sectors jointly
-                - Gov to provide land and initial project finance
-                - Private sectors to provde service and skills
-                - Share of risks and revenue
-                - Forms can be D&B, BOT, DBO, DBFO
-            - Comparison
-                - Outsourcing: shorter-term service contract
-                - Privatisation: gov transfers the entity to the private sector
-            - E.g. HK Disneyland, AsiaWorld-Expo
+            - Build-operate-transfer (BOT)
+            - Gov enters into a franchise agreement with a private sector, usually a consortium, to finance, develop and operate a facility over a franchise period
+            - After the franchise period, the facility will be transferred at no cost to gov
+            - E.g. Western Harbour Tunnel
+    - Advantages
+        - Reduce project originator's funding
+        - Efficient way to privatise a public service
+    - Disadvantages
+        - More expensive
+    - Public-private partnership (PPP)
+        - Long-term contractual relationship to deliver the service by the public and private sectors jointly
+            - Gov to provide land and initial project finance
+            - Private sectors to provde service and skills
+            - Share of risks and revenue
+            - Forms can be D&B, BOT, DBO, DBFO
+        - Comparison
+            - Outsourcing: shorter-term service contract
+            - Privatisation: gov transfers the entity to the private sector
+        - E.g. HK Disneyland, AsiaWorld-Expo
 - Allocation of responsibilities and risks
     - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221211233435.png" width="600" height="">
 - Selection of project delivery options
@@ -142,7 +143,7 @@ description:
     - Legal / funding concerns
         - Public accountability
 
-## Payment Mechanisms
+### Payment Mechanisms
 
 - Principles of payment mechanisums
     - Fixed price
@@ -186,46 +187,47 @@ description:
 
 ## Preparing for tender
 
-- Tendering methods
-    - Open tendering
-        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221213000645.png" width="600" height="">
-        - Tenderers may need to pay a deposit
-            - Refundable upon submission of a bona fide tender
-            - Bona fide tender: a tender is prepared and submitted in good faith, without fraud
-        - Advantages
-            - Maximum competition
-            - No favouritism
-            - Prevent bidders from culluding
-            - Allow unknown contractors to tender
-            - Public accountability for gov projects
-        - Disadvantages
-            - High cost of tendering
-            - More time to evaluate the tenders
-            - Incompetent or unsuitable contractor may be chosen
-    - Selective tendering
-        - Most popular
-        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221213001603.png" width="600" height="">
-        - Tenders shortlisted based on company background, past performance and project requirements
-        - Prequalification to shortlist
-            - Procedures
-                - Invitation to prequalification
-                - Evaluation of qualification submissions
-                - Notification of results
-            - Differnet from an approved list applicable fto multiple contracts
-        - Single-stage & two-stage
-            - Single-stage: common
-            - Two-stage: engage contractor in the design stage
-                - First stage: appoint a preferred contractor on a pre-construction service agreement based on a pre-construction service agreement or a consultancy agreement
-                - Second stage: negotiate for a lump sum
-    - Single tendering
-        - Special circumstances
-            - Urgency, e.g. restoration of works after accidents
-            - Patented works or specialised service
-            - Lease term
-            - Extension contract
-        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221213003410.png" width="600" height="">
+### Tendering methods
 
-## Tendering procudures
+- Open tendering
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221213000645.png" width="600" height="">
+    - Tenderers may need to pay a deposit
+        - Refundable upon submission of a bona fide tender
+        - Bona fide tender: a tender is prepared and submitted in good faith, without fraud
+    - Advantages
+        - Maximum competition
+        - No favouritism
+        - Prevent bidders from culluding
+        - Allow unknown contractors to tender
+        - Public accountability for gov projects
+    - Disadvantages
+        - High cost of tendering
+        - More time to evaluate the tenders
+        - Incompetent or unsuitable contractor may be chosen
+- Selective tendering
+    - Most popular
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221213001603.png" width="600" height="">
+    - Tenders shortlisted based on company background, past performance and project requirements
+    - Prequalification to shortlist
+        - Procedures
+            - Invitation to prequalification
+            - Evaluation of qualification submissions
+            - Notification of results
+        - Differnet from an approved list applicable fto multiple contracts
+    - Single-stage & two-stage
+        - Single-stage: common
+        - Two-stage: engage contractor in the design stage
+            - First stage: appoint a preferred contractor on a pre-construction service agreement based on a pre-construction service agreement or a consultancy agreement
+            - Second stage: negotiate for a lump sum
+- Single tendering
+    - Special circumstances
+        - Urgency, e.g. restoration of works after accidents
+        - Patented works or specialised service
+        - Lease term
+        - Extension contract
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221213003410.png" width="600" height="">
+
+### Tendering procudures
 
 - Preparation of tender documents (QS)
 - Prepare tender list (QS)
@@ -302,7 +304,7 @@ description:
 - Tender performance review (Contractor)
     - To improve bidding strategy
 
-## Tender Documentation
+### Tender Documentation
 
 - Composition of tender documents
     - Instructions to Tenderes/Notes to Tenderers
@@ -394,7 +396,7 @@ description:
             - If lump sum contract without quantities, SOR instead of BQ prepared by QS
             - Errors not entitled to variations
 
-## Approximate Estimating
+### Approximate Estimating
 
 - Purpose
     - Feasibility studies of design alternatives
@@ -408,10 +410,55 @@ description:
         - Floor area method
             - Estimated cost = cost per CFA x CFA
             - CFA: measured overall to the outer face of external wall
+                - Canopies and external wall-mounted features such as projected planters are excluded
+            - Approximate CFA = GFA x conversion factor $\alpha$
+                - $\alpha$ = 1.05-1.10 for residential buildings
+            ; 1.10-1.20 for offices
     - Multiple-rate approximate estimating
         - Elemental cost plan
+            - Elements
+                - Foundation  and substructure
+                    - Foundations and diaphragm wall
+                    - Substructure and basement
+                - Superstructure
+                    - Structural frame and slabs
+                    - Roof
+                    - Stairs and ramps
+                    - External walls, wall finishes, windows etc
+                    - Internal walls and partitions
+                    - Doors
+                    - Ironmongery
+                - Finishes
+                    - Internal wall finishes
+                    - Floor finishes
+                    - Ceiling finishes
+                - Fittings and sundries
+                    - Metal work and sundries
+                    - Furniture and fitting
+                - Sanitary fittings
+                - Specialist engineering services
+                    - HVAC systems
+                    - Electrical and lighting installations
+                    - Emergency diesel generator
+                    - Fire services installations
+                    - Plumbing and drainage system
+                    - Building automation system
+                    - Communication, security and control systems
+                    - Lift and escalator installation
+                - Builder's work in connection with services
+                - Main contractor's profit and attendance on building services
+                - External works
+                - Preliminaries
+                - Contingencies
+            - Approaches
+                - By floor area
+                - By proportion (compared with past projects)
+                - By elemental unit quantity
         - Approximate quantities (detailed design cost plan)
+            - Estimated cost = composite rate x approximate quantity
         - Pre-tender estimate
+            - By pricing each BQ items
+            - Compared with prelimiary estimate
     - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221216184035.png" width="600" height="">
 - Cost adjustment
     - Project particular
@@ -423,3 +470,111 @@ description:
     - Cost trend analysis
         - Market price of principle construction resources
         - Tender price index
+
+## Measuring quantities
+
+### Principles and rules of taking-off
+
+- Standard Method of Measurement (SMM)
+- Dimension paper
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221218231919.png" width="600" height="">
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221218232452.png" width="600" height="">
+    - In order of length, breadth (width), depth (height)
+    - In metre to two decimal places
+- Measurement unit
+    - Linear: m
+    - Area: $m^2$
+    - Volume: $m^3$
+    - Weight: kg
+    - EnumeratedL nr / set
+    - Time: days / hours
+    - Itemised: item
+- Rules of taking-off
+    - Net measurement
+        - No adjustment for waste etc.
+        - Voids should be deducted unless waived by the minimum deduction rules in SMM
+        - Voids at the boundaries always deducted irrespective of size
+    - Use of hyphen
+        - '200 - 300mm' means 'exceed 200mm but not exceed 300mm'
+    - Signposting and waste calculation
+        - Waste calculations and explanatory notes entered into the description column
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221218233830.png" width="600" height="">
+    - Timesing
+        - Where dimensions are repeated
+    - Dotting-on
+        - Where two factors of multiplication are to be added
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221218234220.png" width="600" height="">
+    - Deductions and anding-on
+        - 'Ddt' means 'deduct'
+        - '&' for items correspond to the same bracketed dimensions
+    - Abbreviations for description
+- Use of schedules
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221218235135.png" width="600" height="">
+- Taking-off procedures
+    - Identify the subject of measurement
+        - BQ, material procurement, variation
+    - Compile drawings and documents
+    - Check discrepancies or missing information
+        - Query to Architect
+    - Read relevant SMM and preambles
+    - Plan take-off sequence
+    - Colour or mark on measured items on drawings
+    - Bulk check the dimensions
+
+### Measurement techniques
+
+- Girths and mean girth
+    - Calculation
+        - Overall first then deduct
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221218235747.png" width="500" height="">
+        - Measured from external face: deduct ext. corners (+ 4 x 2c)
+        - Measured from internal face: add ext. corners (- 4 x 2c)
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221219000104.png" width="500" height="">
+        - Set-back no effect
+        - Recess: add twice the depth of the recess (2a)
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221219000120.png" width="600" height="">
+        - An external corner can balance an internal corner
+        - Set-back / recess no effect to numbers of ext. corners
+        - Always 4 ext. corners
+    - Application
+        - Volume of concrete wall = mean girth x thickness x height
+        - Area of formwork to concrete wall = 2 x mean girth x height
+- Measurement of irregular areas
+    - Divide the irregular area into triangles and rectangles
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221219003545.png" width="500" height="">
+    - Simpson's rule
+        - Divide into equal spacing segments
+        - Use three points to form approximate boundary
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221219003801.png" width="250" height="">
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221219003929.png" width="500" height="">
+    - Trapezoidal rule
+        - Shaded area = (width of interval) x [sum of first and last ordinate /2 + sum of remaining ordinates]
+- Measurement of irregular volumes
+    - Divide the volume into regular volumes
+    - Simpson's rule
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221219010413.png" width="400" height="">
+    - Trapezoidal rule
+        - No restriction on the number of sections divided
+    - Grid method
+        - To calulate the volume of cut and fill on a sloping site
+        - Average existing level
+            - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221219011658.png" width="500" height="">
+            - Average existing level = 62.7 / 24
+        - Average depth of excavation = average existing level - formation level
+        - Volume of excavation = area x average depth of excavation
+
+### HKSMM
+
+- Version
+    - HKSMM4 2005
+    - HKSMM4R 2018
+- Tabulated rule
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221219012347.png" width="600" height="">
+- Description
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221219014422.png" width="600" height="">
+- Works not covered by SMM
+    - State in Preambles
+
+### Measurement of building elements
+
+#### Measurement of excavation
