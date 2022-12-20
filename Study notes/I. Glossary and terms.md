@@ -50,6 +50,14 @@ description:
 - 出餅仔 - 拉柱頭 - 批盪（泥水批蕩點綫面，乾后下一步驟）
 - wall sweep - 墙饰条
 - ingress - 入口
+- ram - 撞击
+- offset - 边角料
+- strutting and shoring - 支撑
+- piling rig - 打桩机
+- pitch - 沥青，投
+- raking pile - piles installed at an angle to the vertical
+- intermittent - 断断续续的
+- dolly - 移动
 
 ## EE
 
@@ -244,4 +252,3 @@ description:
 - reconciliation - 和解
 - inception - 开始
 - infancy - 婴儿期
-- ram - 撞击
