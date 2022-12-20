@@ -244,3 +244,4 @@ description:
 - reconciliation - 和解
 - inception - 开始
 - infancy - 婴儿期
+- ram - 撞击
