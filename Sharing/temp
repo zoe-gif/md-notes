@@ -1,5 +1,10 @@
 
-Discount factor = Discount Amount / (Original Contract Sum - Provisional Sum - Contingency)
+Discount factor = Discount Amount / (Original Contract Sum - Provisional Sum - PC Rate Sum - Prime Cost Sum - Contingency)
+
+VQ profit & overhead
+	- Contract rate or pro-rata rate not eligible
+		- Preliminaries not eligible based on Specification Preliminaries
+	- Star rate eligible
 
 -----
 
