@@ -578,3 +578,21 @@ description:
 ### Measurement of building elements
 
 #### Measurement of excavation
+
+- Site clearance
+
+- Excavation
+
+- Earthwork support
+
+- Disposal
+
+- Backfilling
+
+- Filling to make up levels
+
+- Hardcore or granular filling
+
+- Bliding to surfaces of hardcore or other filling materials
+
+- Surface treatment
