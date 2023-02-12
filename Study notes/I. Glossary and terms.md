@@ -58,6 +58,10 @@ description:
 - raking pile - piles installed at an angle to the vertical
 - intermittent - 断断续续的
 - dolly - 移动
+- grub - 挖掘
+- heap - 堆，累积
+- plank - 铺板
+- oversite - 现场
 
 ## EE
 
@@ -252,3 +256,6 @@ description:
 - reconciliation - 和解
 - inception - 开始
 - infancy - 婴儿期
+- vegatation - 植被
+- stump - 树桩
+- turf - 草皮

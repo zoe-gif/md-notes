@@ -11,7 +11,7 @@ tags: Measurement and Estimating
 description: 
 ---
 
-## Building the Project Team
+# Building the Project Team
 
 - QS role
     - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221205232608.png" width="500" height="">
@@ -27,9 +27,9 @@ description:
             - Shortlisted by the owner, chosen by the main con
             - Main con responsible for default
 
-## Deciding the Procurement Strategy
+# Deciding the Procurement Strategy
 
-### Project delivery method
+## Project delivery method
 
 - Designer-led (design-bid-build)
     - 'Traditional' method
@@ -143,7 +143,7 @@ description:
     - Legal / funding concerns
         - Public accountability
 
-### Payment Mechanisms
+## Payment Mechanisms
 
 - Principles of payment mechanisums
     - Fixed price
@@ -185,9 +185,9 @@ description:
         - Capabilities of project participants
         - Market condition
 
-## Preparing for tender
+# Preparing for tender
 
-### Tendering methods
+## Tendering methods
 
 - Open tendering
     - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221213000645.png" width="600" height="">
@@ -227,7 +227,7 @@ description:
         - Extension contract
     - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221213003410.png" width="600" height="">
 
-### Tendering procudures
+## Tendering procudures
 
 - Preparation of tender documents (QS)
 - Prepare tender list (QS)
@@ -304,7 +304,7 @@ description:
 - Tender performance review (Contractor)
     - To improve bidding strategy
 
-### Tender Documentation
+## Tender Documentation
 
 - Composition of tender documents
     - Instructions to Tenderes/Notes to Tenderers
@@ -396,7 +396,7 @@ description:
             - If lump sum contract without quantities, SOR instead of BQ prepared by QS
             - Errors not entitled to variations
 
-### Approximate Estimating
+## Approximate Estimating
 
 - Purpose
     - Feasibility studies of design alternatives
@@ -471,9 +471,9 @@ description:
         - Market price of principle construction resources
         - Tender price index
 
-## Measuring quantities
+# Measuring quantities
 
-### Principles and rules of taking-off
+## Principles and rules of taking-off
 
 - Standard Method of Measurement (SMM)
 - Dimension paper
@@ -521,7 +521,7 @@ description:
     - Colour or mark on measured items on drawings
     - Bulk check the dimensions
 
-### Measurement techniques
+## Measurement techniques
 
 - Girths and mean girth
     - Calculation
@@ -563,36 +563,103 @@ description:
         - Average depth of excavation = average existing level - formation level
         - Volume of excavation = area x average depth of excavation
 
-### HKSMM
+## HKSMM
 
 - Version
     - HKSMM4 2005
     - HKSMM4R 2018
 - Tabulated rule
     - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221219012347.png" width="600" height="">
+    - Deemed to be included
+        - Not measured in the taking-off, but have to allow the cost
 - Description
     - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221219014422.png" width="600" height="">
 - Works not covered by SMM
     - State in Preambles
 
-### Measurement of building elements
+## Measurement of building elements
 
-#### Measurement of excavation
+### Measurement of excavation
 
-- Site clearance
+#### Site clearance
 
-- Excavation
+~~~
+VI(a).2.1 Cutting down trees with girth > 0.6m
+~~~
 
-- Earthwork support
+- Unit: nos
+    - Measured at the height of 1.00m above ground
+    - Group by girth 0.60-0.90m, in stages of 0.30m
+- Coverage: grubbing of roots, disposal of materials, filling of voids
 
-- Disposal
+~~~
+VI(a).2.2 Cutting down trees which are not in an open area
+~~~
 
-- Backfilling
+- Measured separately
 
-- Filling to make up levels
+~~~
+VI(a).2.3 Removal of existing tree stumps
+~~~
 
-- Hardcore or granular filling
+- Where trees have been cut down by others
 
-- Bliding to surfaces of hardcore or other filling materials
+~~~
+VI(a).2.4 Site clearance of tall grass, shrubs, bushes and trees <= 0.6m girth
+~~~
 
-- Surface treatment
+- Unit: item
+- Description: approx. site area
+
+~~~ 
+VI(a).2.5 Cutting turf to be preserved
+~~~
+
+- Unit: m2
+- Description: average depth, method of storage and preservation and location of stacking
+
+~~~
+VI(a).2.7 Disposal of existing spoil heaps or rubbish dumps left by previous contractors
+~~~
+
+- Unit: item
+- Description:
+    - 'from site to a specified dumping area provided by the employer'
+    - 'from site to a tip provided by the contractor'
+- Coverage: mult-handling to and from temporary spoil heaps, loading and transportation of spoil
+
+#### Excavation
+
+- Working space allowance
+    - No working space if allowed where:
+        - no formwork is required for the concrete work below ground (e.g. blinding layer), and no work is required to be operated from ourside after concreting
+    - Allow 0.25m working space where:
+        - the formwork does not exceed 0.60m high (1)
+        - the bottom of the formwork does not exceed 0.60m below the starting level of the excavation (2)
+    - Allow 0.60m working space where:
+        - the formwork exceeds 0.60m high and the bottom of the formwork exceeds 0.60m below the starting level of the excavation (3)
+        - works are required to operate from the outside such as to apply damp proof covering externally (4)
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230212224155.png" width="500" height="">
+- Coverage
+    - excavating according to speficied profiles and stages
+    - grubbing up old roots
+    - removing disused cables, drain pipes, manhiles and the like
+    - sealing connections
+    - planking and strutting to sides of excavation
+    - temporary support to cables, drain pipes and the like during excavation
+    - excavating and backfilling extra working space that is necessary and beyond the working space rule
+- Surface excavation and oversite excavation to reduced level
+
+#### Earthwork support
+
+#### Disposal
+
+#### Backfilling
+
+#### Filling to make up levels
+
+#### Hardcore or granular filling
+
+#### Bliding to surfaces of hardcore or other filling materials
+
+#### Surface treatment
