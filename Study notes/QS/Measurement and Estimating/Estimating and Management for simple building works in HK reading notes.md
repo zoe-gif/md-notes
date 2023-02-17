@@ -708,10 +708,36 @@ VI(a).3.9 Excavate trenches for curbs and the like
     - backfilling and disposal included
 
 ~~~
-VI(a).3.10-3.11 Excavate tranches for service pipes, cables and the like
+VI(a).3.10-3.11 Excavate trenches for service pipes, cables and the like
 ~~~
 
-- 
+- Unit: m
+- Coverage: 
+    - trenches for pipes or cables laid on beds and without beds are each measured separately
+    - trenches for drain pipes and pipe ducts measured separately
+    - backfilling and disposal included
+- Description
+    - average depth in multiples or srages of 0.25m
+    - commencing level
+    - filling materials
+    - if trenches for a single pipe
+        - pipes or cables <= 55mm diameter
+        - pipes or cables > 55mm and <= 110mm diameter
+        - pipes or cables > 110mm diameter with the sizes stated
+    - if trenches for multiple pipes
+        - sizes, numbers and relative positions of the pipes or cables
+    
+~~~
+VI(a).4 Extra over any types of excavation - break up and removing breckwork, masonry work and concrete met with in excavation
+~~~
+
+- Each measured separately
+    - pavings, surface concrete and the like: m2; thickness stated
+    - brickwork or blockwork met with in excavation: m3
+    - stone mansonry walls, slab foundations and the like met with in excavation: m3
+    - unreinforced concrete and the like met with in excavation: m3
+    - reinforced concrete met with in excavations: m3
+- Coverage: any additional cost of disposal
 
 #### Earthwork support
 
