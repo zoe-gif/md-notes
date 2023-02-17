@@ -587,7 +587,7 @@ description:
 VI(a).2.1 Cutting down trees with girth > 0.6m
 ~~~
 
-- Unit: nos
+- Unit: no.
     - Measured at the height of 1.00m above ground
     - Group by girth 0.60-0.90m, in stages of 0.30m
 - Coverage: grubbing of roots, disposal of materials, filling of voids
@@ -632,7 +632,7 @@ VI(a).2.7 Disposal of existing spoil heaps or rubbish dumps left by previous con
 
 - Working space allowance
     - No working space if allowed where:
-        - no formwork is required for the concrete work below ground (e.g. blinding layer), and no work is required to be operated from ourside after concreting
+        - no formwork is required for the concrete work below ground (e.g. blinding layer), and no work is required to be operated from outside after concreting
     - Allow 0.25m working space where:
         - the formwork does not exceed 0.60m high (1)
         - the bottom of the formwork does not exceed 0.60m below the starting level of the excavation (2)
@@ -648,7 +648,70 @@ VI(a).2.7 Disposal of existing spoil heaps or rubbish dumps left by previous con
     - planking and strutting to sides of excavation
     - temporary support to cables, drain pipes and the like during excavation
     - excavating and backfilling extra working space that is necessary and beyond the working space rule
-- Surface excavation and oversite excavation to reduced level
+
+~~~
+VI(a).3.1 Surface excavation <= 0.20m average depth
+~~~
+
+- Unit: m2
+- Coverage: disposal of excavated soil measured separately
+
+~~~
+VI(a).3.2 Oversite excavation to reduced level
+~~~
+
+- Unit: m3
+    - From existing ground level to the desired reduced level
+- Description: average depth if thk <= 0.20m
+- Coverage: disposal of excavated material measured separately
+- <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230217212051.png" width="500" height="">
+
+~~~
+VI(a).3.4-3.7 Excavation for basements, trenches below basement level, foundations, column bases, ground beams and the like
+~~~
+
+- Unit: m3
+    - Measure in successive stages of 1.50m
+- Description: commencing level
+- Coverage: excavations for below are measured separately
+    - basements and similar (swimming pool, cellar)
+    - surface trenches
+    - trenches below basement level
+    - column bases
+    - isolated piers
+    - manholes
+- <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230217211156.png" width="300" height="">
+
+~~~
+VI(a).3.8 Excavation for post holes
+~~~
+
+- If post holes <= 0.30m3 
+    - Unit: no.
+    - Coverage: backfilling and disposal
+    - Description: filling materials
+- If post holes > 0.30m3
+    - Unit: m3
+        - Measure in successive stages of 1.50m
+
+~~~
+VI(a).3.9 Excavate trenches for curbs and the like
+~~~
+
+- Unit: m
+- Description
+    - average depth in multiples of 0.25m
+    - commencing level and size of curbs
+    - filling materials
+- Coverage
+    - curbs without beds and those on beds area each measured separately
+    - backfilling and disposal included
+
+~~~
+VI(a).3.10-3.11 Excavate tranches for service pipes, cables and the like
+~~~
+
+- 
 
 #### Earthwork support
 

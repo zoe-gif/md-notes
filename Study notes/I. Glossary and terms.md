@@ -62,6 +62,7 @@ description:
 - heap - 堆，累积
 - plank - 铺板
 - oversite - 现场
+- post hole - 柱孔
 
 ## EE
 
