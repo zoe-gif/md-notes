@@ -63,6 +63,9 @@ description:
 - plank - 铺板
 - oversite - 现场
 - post hole - 柱孔
+- planking - 铺板
+- heap - 堆
+- gravel - 碎石，沙砾
 
 ## EE
 

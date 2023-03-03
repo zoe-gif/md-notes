@@ -570,12 +570,17 @@ description:
     - HKSMM4R 2018
 - Tabulated rule
     - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221219012347.png" width="600" height="">
-    - Deemed to be included
-        - Not measured in the taking-off, but have to allow the cost
 - Description
     - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20221219014422.png" width="600" height="">
 - Works not covered by SMM
     - State in Preambles
+- Point to note
+    - Deemed to be included
+        - Not measured in the taking-off, but have to allow the cost
+    - Extra over items 
+        - Only the nett additional cost involved on top of the previous item that the extra over item has referred to
+        - Not priced a the full value of the labour and materials required
+
 
 ## Measurement of building elements
 
@@ -654,7 +659,7 @@ VI(a).3.1 Surface excavation <= 0.20m average depth
 ~~~
 
 - Unit: m2
-- Coverage: disposal of excavated soil measured separately
+- Exclusion: disposal of excavated soil measured separately
 
 ~~~
 VI(a).3.2 Oversite excavation to reduced level
@@ -663,7 +668,7 @@ VI(a).3.2 Oversite excavation to reduced level
 - Unit: m3
     - From existing ground level to the desired reduced level
 - Description: average depth if thk <= 0.20m
-- Coverage: disposal of excavated material measured separately
+- Exclusion: disposal of excavated material measured separately
 - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230217212051.png" width="500" height="">
 
 ~~~
@@ -673,7 +678,7 @@ VI(a).3.4-3.7 Excavation for basements, trenches below basement level, foundatio
 - Unit: m3
     - Measure in successive stages of 1.50m
 - Description: commencing level
-- Coverage: excavations for below are measured separately
+- Exclusion: excavations for below are measured separately
     - basements and similar (swimming pool, cellar)
     - surface trenches
     - trenches below basement level
@@ -703,19 +708,18 @@ VI(a).3.9 Excavate trenches for curbs and the like
     - average depth in multiples of 0.25m
     - commencing level and size of curbs
     - filling materials
-- Coverage
-    - curbs without beds and those on beds area each measured separately
-    - backfilling and disposal included
+- Coverage: backfilling and disposal included
+- Exclusion: curbs without beds and those on beds area each measured separately
 
 ~~~
 VI(a).3.10-3.11 Excavate trenches for service pipes, cables and the like
 ~~~
 
 - Unit: m
-- Coverage: 
+- Coverage: backfilling and disposal included
+- Exclusion:
     - trenches for pipes or cables laid on beds and without beds are each measured separately
     - trenches for drain pipes and pipe ducts measured separately
-    - backfilling and disposal included
 - Description
     - average depth in multiples or srages of 0.25m
     - commencing level
@@ -741,9 +745,64 @@ VI(a).4 Extra over any types of excavation - break up and removing breckwork, ma
 
 #### Earthwork support
 
+~~~
+VI(a).5.1 Temporary shoring and supports for sides of excavation into banks for retaining walls with face height > 1.50m
+~~~
+
+- <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230303224215.png" width="500" height="">
+- Unit: item
+- Description: 
+    - minimum and maximum face heights above the reduced level
+    - approximate overall length
+- Exclusion:
+    - soil supports to an excavation with face height <= 1.5m is deemed to be included in the excavation item
+
 #### Disposal
 
+~~~
+VI(a).6.1-6.2 Disposal of excavated material and spoil heaps left by the previous contractor
+~~~
+
+- Unit: m3
+- Coverage:
+    - multi-handling to and from temporary spoil heaps is deemed to be included
+    - all charges in connection with disposal including the dumping charges as stipulated under the construction waste disposal charging scheme are included
+- Exclusion:
+    - not applicable when VI(a).C.4 rule applies
+        - small-scale excavations is deemed to be included in the excavation items
+            - post holes <= 0.3 m3
+            - trech excavations for curbs, pipes and the like
+- Description:
+    - Destination of disposal and each measured separately
+        - deposited on site (location specified)
+        - to a dumping area away from the site provided by the employer (dumping area stated)
+        - to a dumping area away from the site provided by the contractor
+
 #### Backfilling
+
+~~~
+VI(a).7-9 Backfilling to excavation and filling
+~~~
+
+- Required after excavation
+    - fill to make up levels when the existing level is lower than the formation level
+    - fill with excavated material or imported filling material
+    - fill material is deposited and compacted as part of the permanent work
+    - bulking of soil
+        - soil dug out from an excavation is looser than before it was excavated
+- <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230303225830.png" width="500" height="">
+- Unit: m3
+    - Nett quantity - the volume of the hole being backfilled 
+    - Backfilling to excavation, filling to make up levels and filling into planters are measured separately
+    - Excavation = Backfill + Disposal
+- Description:
+    - Source of fill materials
+        - arisen from excavation
+        - obtained from materials on site
+        - obtained from specified off-site area
+        - provided by the contractor from its own source
+- Coverage:
+    - Works in connection with backfilling or filling such as additional labour and material for filling in layers, spreading, compacting, levelling, watering, placing temporary boards to edges etc. are deemed to be included
 
 #### Filling to make up levels
 
