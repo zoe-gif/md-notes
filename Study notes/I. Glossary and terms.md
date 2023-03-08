@@ -66,6 +66,11 @@ description:
 - planking - 铺板
 - heap - 堆
 - gravel - 碎石，沙砾
+- granular - 粒状
+- turf - 草皮
+- consolidate - 合并
+- herbicide - 除草剂
+- mulch - 护根
 
 ## EE
 

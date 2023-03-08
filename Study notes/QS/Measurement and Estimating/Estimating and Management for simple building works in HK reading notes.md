@@ -613,21 +613,21 @@ VI(a).2.3 Removal of existing tree stumps
 VI(a).2.4 Site clearance of tall grass, shrubs, bushes and trees <= 0.6m girth
 ~~~
 
-- Unit: item
+- Measurement: item
 - Description: approx. site area
 
 ~~~ 
 VI(a).2.5 Cutting turf to be preserved
 ~~~
 
-- Unit: m2
+- Measurement: m2
 - Description: average depth, method of storage and preservation and location of stacking
 
 ~~~
 VI(a).2.7 Disposal of existing spoil heaps or rubbish dumps left by previous contractors
 ~~~
 
-- Unit: item
+- Measurement: item
 - Description:
     - 'from site to a specified dumping area provided by the employer'
     - 'from site to a tip provided by the contractor'
@@ -658,14 +658,14 @@ VI(a).2.7 Disposal of existing spoil heaps or rubbish dumps left by previous con
 VI(a).3.1 Surface excavation <= 0.20m average depth
 ~~~
 
-- Unit: m2
+- Measurement: m2
 - Exclusion: disposal of excavated soil measured separately
 
 ~~~
 VI(a).3.2 Oversite excavation to reduced level
 ~~~
 
-- Unit: m3
+- Measurement: m3
     - From existing ground level to the desired reduced level
 - Description: average depth if thk <= 0.20m
 - Exclusion: disposal of excavated material measured separately
@@ -675,7 +675,7 @@ VI(a).3.2 Oversite excavation to reduced level
 VI(a).3.4-3.7 Excavation for basements, trenches below basement level, foundations, column bases, ground beams and the like
 ~~~
 
-- Unit: m3
+- Measurement: m3
     - Measure in successive stages of 1.50m
 - Description: commencing level
 - Exclusion: excavations for below are measured separately
@@ -692,18 +692,18 @@ VI(a).3.8 Excavation for post holes
 ~~~
 
 - If post holes <= 0.30m3 
-    - Unit: no.
+    - Measurement: no.
     - Coverage: backfilling and disposal
     - Description: filling materials
-- If post holes > 0.30m3
-    - Unit: m3
+- If Measurement holes > 0.30m3
+    - Measurement: m3
         - Measure in successive stages of 1.50m
 
 ~~~
 VI(a).3.9 Excavate trenches for curbs and the like
 ~~~
 
-- Unit: m
+- Measurement: m
 - Description
     - average depth in multiples of 0.25m
     - commencing level and size of curbs
@@ -715,7 +715,7 @@ VI(a).3.9 Excavate trenches for curbs and the like
 VI(a).3.10-3.11 Excavate trenches for service pipes, cables and the like
 ~~~
 
-- Unit: m
+- Measurement: m
 - Coverage: backfilling and disposal included
 - Exclusion:
     - trenches for pipes or cables laid on beds and without beds are each measured separately
@@ -750,7 +750,7 @@ VI(a).5.1 Temporary shoring and supports for sides of excavation into banks for 
 ~~~
 
 - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230303224215.png" width="500" height="">
-- Unit: item
+- Measurement: item
 - Description: 
     - minimum and maximum face heights above the reduced level
     - approximate overall length
@@ -763,7 +763,7 @@ VI(a).5.1 Temporary shoring and supports for sides of excavation into banks for 
 VI(a).6.1-6.2 Disposal of excavated material and spoil heaps left by the previous contractor
 ~~~
 
-- Unit: m3
+- Measurement: m3
 - Coverage:
     - multi-handling to and from temporary spoil heaps is deemed to be included
     - all charges in connection with disposal including the dumping charges as stipulated under the construction waste disposal charging scheme are included
@@ -784,17 +784,18 @@ VI(a).6.1-6.2 Disposal of excavated material and spoil heaps left by the previou
 VI(a).7-9 Backfilling to excavation and filling
 ~~~
 
-- Required after excavation
+- Backfilling required after excavation
     - fill to make up levels when the existing level is lower than the formation level
     - fill with excavated material or imported filling material
     - fill material is deposited and compacted as part of the permanent work
     - bulking of soil
         - soil dug out from an excavation is looser than before it was excavated
 - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230303225830.png" width="500" height="">
-- Unit: m3
+- <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230308224641.png" width="500" height="">
+- Measurement: m3
     - Nett quantity - the volume of the hole being backfilled 
     - Backfilling to excavation, filling to make up levels and filling into planters are measured separately
-    - Excavation = Backfill + Disposal
+    - Excavation = Backfill + Fill + Disposal
 - Description:
     - Source of fill materials
         - arisen from excavation
@@ -804,10 +805,160 @@ VI(a).7-9 Backfilling to excavation and filling
 - Coverage:
     - Works in connection with backfilling or filling such as additional labour and material for filling in layers, spreading, compacting, levelling, watering, placing temporary boards to edges etc. are deemed to be included
 
-#### Filling to make up levels
-
 #### Hardcore or granular filling
 
-#### Bliding to surfaces of hardcore or other filling materials
+~~~
+VI(a).10 Hardcore or granular filling
+~~~
 
-#### Surface treatment
+- Hardcore filling
+    - material: gravels and crushed stones
+    - to prevent the rising of underground water
+    - to provide a firm base for ground floor slab or construction traffice
+- Description: material
+- Measurement:
+    - If depth <= 0.30m:
+        - m2; state the thickness
+    - If depth > 0.30m:
+        - m3
+    - Measured separately by groups
+        - beds
+        - vertical bdes
+        - beds sloping > 15° from the horizontal
+        - filling to make up levels
+
+#### Blinding to hardcore surfaces
+
+~~~
+VI(a).12 Blinding to surfaces of hardcore or other filling materials
+~~~
+
+- Blinding layer
+    - material: weak concrete, sand, or quarry dust
+    - to prevent the wet concrete runnig down
+    - to provide a level base
+- Coverage
+    - Only blinding layer that uses fine-graded materials such as sand is measured according to this rule
+    - If weak concrete, measured under the concrete trade in m3
+- Measurement: m2
+- Description: material
+
+#### Preparation of ground or slope surfaces
+
+##### Surface treatments
+
+~~~
+VI(a).13.1-13.3 Formation of slops in fillings, to cuttings or trimming rock to produce fair face
+~~~
+
+- Measurement: m2
+    - finished surface area of the slope
+
+~~~
+VI(a).13.4 Preparation of existing ground or subsoil areas for application of top soil for turfing
+~~~
+
+- Measurement: m2
+- Description: method of preparation
+
+~~~
+VI(a).13.5 Consolidation of sub-grade for roads and pavings
+~~~
+
+- Measurement: m2
+- Description: method of compaction
+
+~~~
+VI(a).13.6 Herbicide, selective weed killer or insecticide treatments
+~~~
+
+- Measuremnet: m2
+
+##### Turfing and grass seeding
+
+~~~
+VI(a).14 Turfing and grass seeding
+~~~
+
+- Measurement: follow the Landscaping Section XXII(b)
+
+~~~
+XXII(b).1 Soiling for turing or grass seeding
+~~~
+
+- Measurement: m2
+- Description:
+    - average thickness after compaction
+    - type of soil
+    - method of preparation
+
+~~~
+XXII(b).2 Turfing
+~~~
+
+- Measurement: m2
+- Description:
+    - type of grass
+    - details of pre-turfing
+
+~~~
+XXII(b).3 Broadcast seeding for grassed areas
+~~~
+
+- Measurement: m2
+- Description:
+    - grass seed mix, rate of application
+    - details of pre-seeding fertilisers
+
+~~~
+XXII(b).4 Hydroseeding for grassed areas
+~~~
+
+- Measuement: m2
+- Description:
+    - details of seed mix, mulch and the like
+    - details of protective layer
+
+##### Chunam surfacing
+
+~~~
+VI(a).15 Chunam surfacing to slopes
+~~~
+
+- Chunam surfacing
+    - a slope protection method
+    - apply a mixture of lime-cement plaster on the slope surface
+
+~~~
+VI(a).15.1-15.2 Chunam surfacing
+~~~
+
+- Measurement: m2
+    - Group
+        - Sloping gradient <= 1/7
+        - Sloping gradient > 1/7
+- Description:
+    - Details of mix and thickness
+- Coverage:
+    - Scaffolding and hoisting of materials are deemde to be included
+
+~~~
+VI(a).15.3 Formation of weep holes
+~~~
+
+- Measurement: nos
+- Description: material, size, length
+- Coverage:
+    - Scaffolding and hoisting of materials are deemed to be included
+
+##### Sprayed concrete surfacing
+
+~~~
+VI(a).16 Sprayed concrete to surfaces of slopes
+~~~
+
+- Measurement: m2
+- Description: mix and thickness
+- Exclusion:
+    - Steel mesh reinforcement measured separately in Section VII(c).5 Fabric reinforcement
+
