@@ -595,7 +595,7 @@ VI(a).2.1 Cutting down trees with girth > 0.6m
 - Unit: no.
     - Measured at the height of 1.00m above ground
     - Group by girth 0.60-0.90m, in stages of 0.30m
-- Coverage: grubbing of roots, disposal of materials, filling of voids
+- Inclusion: grubbing of roots, disposal of materials, filling of voids
 
 ~~~
 VI(a).2.2 Cutting down trees which are not in an open area
@@ -631,7 +631,7 @@ VI(a).2.7 Disposal of existing spoil heaps or rubbish dumps left by previous con
 - Description:
     - 'from site to a specified dumping area provided by the employer'
     - 'from site to a tip provided by the contractor'
-- Coverage: mult-handling to and from temporary spoil heaps, loading and transportation of spoil
+- Inclusion: mult-handling to and from temporary spoil heaps, loading and transportation of spoil
 
 #### Excavation
 
@@ -645,7 +645,7 @@ VI(a).2.7 Disposal of existing spoil heaps or rubbish dumps left by previous con
         - the formwork exceeds 0.60m high and the bottom of the formwork exceeds 0.60m below the starting level of the excavation (3)
         - works are required to operate from the outside such as to apply damp proof covering externally (4)
     - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230212224155.png" width="500" height="">
-- Coverage
+- Inclusion
     - excavating according to speficied profiles and stages
     - grubbing up old roots
     - removing disused cables, drain pipes, manhiles and the like
@@ -693,7 +693,7 @@ VI(a).3.8 Excavation for post holes
 
 - If post holes <= 0.30m3 
     - Measurement: no.
-    - Coverage: backfilling and disposal
+    - Inclusion: backfilling and disposal
     - Description: filling materials
 - If Measurement holes > 0.30m3
     - Measurement: m3
@@ -708,7 +708,7 @@ VI(a).3.9 Excavate trenches for curbs and the like
     - average depth in multiples of 0.25m
     - commencing level and size of curbs
     - filling materials
-- Coverage: backfilling and disposal included
+- Inclusion: backfilling and disposal included
 - Exclusion: curbs without beds and those on beds area each measured separately
 
 ~~~
@@ -716,7 +716,7 @@ VI(a).3.10-3.11 Excavate trenches for service pipes, cables and the like
 ~~~
 
 - Measurement: m
-- Coverage: backfilling and disposal included
+- Inclusion: backfilling and disposal included
 - Exclusion:
     - trenches for pipes or cables laid on beds and without beds are each measured separately
     - trenches for drain pipes and pipe ducts measured separately
@@ -741,7 +741,7 @@ VI(a).4 Extra over any types of excavation - break up and removing breckwork, ma
     - stone mansonry walls, slab foundations and the like met with in excavation: m3
     - unreinforced concrete and the like met with in excavation: m3
     - reinforced concrete met with in excavations: m3
-- Coverage: any additional cost of disposal
+- Inclusion: any additional cost of disposal
 
 #### Earthwork support
 
@@ -764,7 +764,7 @@ VI(a).6.1-6.2 Disposal of excavated material and spoil heaps left by the previou
 ~~~
 
 - Measurement: m3
-- Coverage:
+- Inclusion:
     - multi-handling to and from temporary spoil heaps is deemed to be included
     - all charges in connection with disposal including the dumping charges as stipulated under the construction waste disposal charging scheme are included
 - Exclusion:
@@ -802,7 +802,7 @@ VI(a).7-9 Backfilling to excavation and filling
         - obtained from materials on site
         - obtained from specified off-site area
         - provided by the contractor from its own source
-- Coverage:
+- Inclusion:
     - Works in connection with backfilling or filling such as additional labour and material for filling in layers, spreading, compacting, levelling, watering, placing temporary boards to edges etc. are deemed to be included
 
 #### Hardcore or granular filling
@@ -837,9 +837,9 @@ VI(a).12 Blinding to surfaces of hardcore or other filling materials
     - material: weak concrete, sand, or quarry dust
     - to prevent the wet concrete runnig down
     - to provide a level base
-- Coverage
+- Inclusion
     - Only blinding layer that uses fine-graded materials such as sand is measured according to this rule
-    - If weak concrete, measured under the concrete trade in m3
+- Exclusion: weak concrete measured under the concrete trade in m3
 - Measurement: m2
 - Description: material
 
@@ -939,7 +939,7 @@ VI(a).15.1-15.2 Chunam surfacing
         - Sloping gradient > 1/7
 - Description:
     - Details of mix and thickness
-- Coverage:
+- Inclusion:
     - Scaffolding and hoisting of materials are deemde to be included
 
 ~~~
@@ -948,7 +948,7 @@ VI(a).15.3 Formation of weep holes
 
 - Measurement: nos
 - Description: material, size, length
-- Coverage:
+- Inclusion:
     - Scaffolding and hoisting of materials are deemed to be included
 
 ##### Sprayed concrete surfacing
@@ -962,3 +962,180 @@ VI(a).16 Sprayed concrete to surfaces of slopes
 - Exclusion:
     - Steel mesh reinforcement measured separately in Section VII(c).5 Fabric reinforcement
 
+### Measurement of concrete works
+
+#### Concrete
+
+- Concrete types
+    - Reinforced concrete
+    - Plain concrete
+    - Watertight reinforced concrete
+    - Concrete in casings to structural steelwork
+    - Precast concrete
+    - Prestressed in-situ concrete
+    - Lightweight concrete
+    - Gun applied reinforced concrete (m2)
+- Concrete components
+    - Blinding layer
+    - Small bases for fencing post, et.c
+    - Beds (including on-grade slabs)
+    - Water channels
+    - Foundations
+    - Column bases
+    - Pile caps
+    - Suspended slabs and roofs
+    - Horizontal
+    - Coffered and troughed slabs
+    - Transfer plates
+    - Beams
+    - Ground beams
+    - Transfer beams
+    - Walls
+    - Columns, pier etc.
+    - Steps and staircases
+    - Curbs
+    - Copings
+    - Projecting cills
+    - Strings
+
+##### Concrete in general
+
+~~~
+VII(a).1 Concrete
+~~~
+
+- Measurement: m3
+    - different concrete mixes measured separately
+    - hierarchy: slab > column > structural wall > beam > non-structural wall
+    - sequence: slab -> column -> beam -> wall -> stair -> other
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230309212131.png" width="300" height="">
+- Inclusion:
+    - concrete hoisting, placing in position, vibrationm, curing, protection and complying with temperature control requirements
+    - corming holes for pipes and the like <= 150mm diameter, and openings <= 0.5m2 sectional area
+    - forming construction joints and provision of approved waterstops (except those joints that are designed by the engineer)
+    - provision of test cubes and test certificates
+- No deduction:
+    - reinforcement or structural steel sections inside concrete members
+    - voids <= 0.10m3 when concrete work is measured in volume
+    - openings in walls, floors, roof slabs and the like <= 0.50m2
+
+##### Concrete in beams and slabs
+
+~~~
+VII(a).17 Suspended slabs
+~~~
+
+- Measurement: m3
+    - slab measured across walls, column and beams
+        - unless the concrete mix is different
+    - horizontal slab
+        - sloping <= 15° and sloping > 15° measured separately
+    - coffered and troughed slab
+        - if margin > 500mm wide, margin portion measured as ordinary slabs
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230309210929.png" width="300" height="">
+- Description: 
+    - thickness of slab
+        - if coffered and troughed slabs, overall thickness
+
+~~~
+VII(a).M.14 Beams
+~~~
+
+- Measurement: m3
+    - beam measured below slabs and between walls
+    - horizontal beam
+        - sloping <= 15° and sloping > 15° measured separately
+
+~~~
+VII(a).M.13 Shoulders
+~~~
+
+- Shoudler
+    - Shoulder of higher mix required if concrete grade for walls or columnns is higher than that for slabs and beams
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230309211444.png" width="400" height="">
+- Inclusion:
+    - additional formwork or mesh
+
+##### Concrete in walls and columns
+
+~~~
+VII(a).22-23 Walls and Columns
+~~~
+
+- Measurement: m3
+    - wall measured between columns or projections
+- Description: thickness
+- Exclusion: walls and retianing wall measured separetely
+- Distinction between walls and columns
+    - if the width of a column exceed four times its thickness, it is classified as a wall
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230309212440.png" width="500" height="">
+
+##### Concrete in stairs
+
+~~~
+VII(a).24 Concrete in stairs
+~~~
+
+- Measurement: m3
+    - all concrete in stairs, including steps, support beams, landings and the like area measured together in the item of stairs
+    - landings that form part of the main floor slabs area regarded as suspended floors
+        - intermediate landing measured in stair item
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230309212830.png" width="400" height="">
+
+##### Concrete in other components
+
+~~~
+VII(a).8-10 Foundation, isolated column bases and pile caps
+~~~
+
+- Measurement: m3
+    - small bases for fencing posts: nos with sizes stated
+
+~~~
+VII(a).4 Thickening to concrete beds under walls, partitions and the like and under channels
+~~~
+
+- Measurement: m
+- Description: (average) width, thickness
+- Inclusion: extra excavation, disposal, hardcore and formwork
+
+~~~
+VII(a).5-7 Surface water channels, stepped channels to slopes and channels formed in concrete beds
+~~~
+
+- <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230309213819.png" width="300" height="">
+- Measurement: m
+    - measured separately by types
+        - surface water channels
+        - stepped channels to slopes
+        - channels formed in concrete beds
+        - straight channels
+        - curved channels
+- Description:
+    - surface channel
+        - shape, width, thickness of sides and base and average depth
+        - excavation, disposal, formwork and rendering
+    - stepped chanel to slopes
+        - shape, width, thickness of sides and base and average depth
+        - height of steps, gradient of channel between steps
+        - excavation, disposal, formwork and rendering
+        - weep holes in steps
+    - channels formed in concrete beds
+        - shape, width and average depth
+        - formwork
+    
+##### Miscellaneous
+
+~~~
+VII(a).M.4 Treatment of the face of concrete beyond ordinary depositing, spreading and levelling
+~~~
+
+- e.g. treating surfaces of concrete floor by trowelling or power floating
+    - trowelling
+        - by brush or bamboo broom
+        - to produce a slip-resistant surface
+        - often for pavement surfaces
+    - power floating
+        - by a power float, a concrete finishing machine
+        - to smooth and level the surface of the concrete
+- Measurement: m2
