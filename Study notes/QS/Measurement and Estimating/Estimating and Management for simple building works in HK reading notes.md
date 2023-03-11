@@ -1009,6 +1009,7 @@ VII(a).1 Concrete
     - hierarchy: slab > column > structural wall > beam > non-structural wall
     - sequence: slab -> column -> beam -> wall -> stair -> other
     - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230309212131.png" width="300" height="">
+    - 35/20 concrete mix means 35MPa (grade strength) with 20mm nominal maximum aggregate size
 - Inclusion:
     - concrete hoisting, placing in position, vibrationm, curing, protection and complying with temperature control requirements
     - corming holes for pipes and the like <= 150mm diameter, and openings <= 0.5m2 sectional area
@@ -1141,3 +1142,45 @@ VII(a).M.4 Treatment of the face of concrete beyond ordinary depositing, spreadi
 - Measurement: m2
 
 #### Reinforcement
+
+- Rebar
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230311235232.png" width="500" height="">
+    - nominal diameters: 6mm to 50mm
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230312000837.png" width="400" height="">
+- Measurement: kg
+    - fabric reinforcement: m2
+    - coversion of bar length to weight
+    - allowance for concrete cover
+        - concrete cover
+            - distance from the exposed concrete surface to the nearest surface of the steel bar
+            - to prevent steel corrosion and to provide fire resistance
+    - allowance for lap lengths and anchorage lengths
+        - lap length
+            - to transfer the force from one bar to another
+        - anchorage length
+            - to transfer the force in the bar to the concrete
+    - bar length for different bending shapes
+        - formulae for different bending shapes: BS4466:1989 / BS8666:2005
+    - number of bars
+        - industrial practice: rounded up to the nearest whole unit
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230312001624.png" width="600" height="">
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230312001711.png" width="600" height="">
+
+##### Reinforcement in slabs
+
+- Top and bottom bars running in x and y directions
+- <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230311235355.png" width="400" height="">
+- Slab-on-grade (floating slab foundation)
+    - concrete slab as foundation
+    - require both rebar & fabric reinforcement
+
+##### Reinforcement in beams
+
+- Stirrups
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230311235642.png" width="500" height="">
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230312002143.png" width="500" height="">
+
+##### Reinfrocement in columns
+
+- Vertical bars
+    - 
