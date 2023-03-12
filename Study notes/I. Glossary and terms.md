@@ -72,6 +72,7 @@ description:
 - herbicide - 除草剂
 - mulch - 护根
 - coping - covering the exposed top of the roof or wall with a layer of stone, bricks, terracotta, or concrete
+- crank - 曲柄
 
 ## EE
 

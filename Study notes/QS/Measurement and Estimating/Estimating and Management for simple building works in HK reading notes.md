@@ -1183,4 +1183,49 @@ VII(a).M.4 Treatment of the face of concrete beyond ordinary depositing, spreadi
 ##### Reinfrocement in columns
 
 - Vertical bars
-    - 
+    - recommend to measure floor by floor
+    - cranked bars
+        - slight bending at the laps
+        - ususally with a slop of 1:10 (or 1:12 in ASD standard design), minimum length of 300mm
+        - measurement
+            - considered as straight
+            - if large bending angle such as cranked bars in slabs or beams: refer to shape code 41 of BS4466
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230312193354.png" width="400" height="">
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230312193441.png" width="500" height="">
+- Binders
+    - If adjoining beams have different depths, refer to depth of deeper beam
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230312194310.png" width="300" height="">
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230312194246.png" width="400" height="">
+
+##### Reinforcement in walls
+
+- Vertical bars
+    - measure floor by floor
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230312194728.png" width="400" height="">
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230312194932.png" width="500" height="">
+- Horizontal bars
+    - hooked bars or u-bars at wall intersections and corners
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230312200224.png" width="500" height="">
+    - links to restrain the vertical bars
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230312200512.png" width="500" height="">
+        - total link number = horizontal link number x vertical link number
+- Trimming bars for opening
+    - for openings exceeding maximum allowable size
+
+##### Miscellaneous
+
+- Fabric reinforcement
+    - For on-grade slabs, i.e. ground slabs built on top of the soil
+    - Measurement: nett area in m2
+        - No deduction for openings <= 1 m2
+    - Description: weight, extra material at laps that is not measured in the quantities
+- Coupler
+    - To conenct two reinforcing bars
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230312201458.png" width="200" height="">
+    - Measurement: nos with full description
+        - only measured couplers included in engineer's design
+    - Coverage: the threading ends of the bars unless the couplers to be provided by others and the threading ends will be measured in number
+
+#### Formwork
+
+- 
