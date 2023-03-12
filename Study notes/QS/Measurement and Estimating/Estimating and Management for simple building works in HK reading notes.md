@@ -1224,8 +1224,53 @@ VII(a).M.4 Treatment of the face of concrete beyond ordinary depositing, spreadi
     - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230312201458.png" width="200" height="">
     - Measurement: nos with full description
         - only measured couplers included in engineer's design
-    - Coverage: the threading ends of the bars unless the couplers to be provided by others and the threading ends will be measured in number
+    - Inclusion: the threading ends of the bars unless the couplers to be provided by others and the threading ends will be measured in number
 
 #### Formwork
 
-- 
+##### Formwork in general
+
+~~~
+VII(d).1 Formwork
+~~~
+
+- Measurement: m2
+    - Measured to the concrete surfaces of finished structure which require support during casting
+    - Types of formwork: measuered separately
+        - Standard formwork
+            - i.e. sawn formwork
+        - Formwork to produce a fair face finish or other formed finish
+        - Left-in formwork
+            - formwork not designed to remain in position but impossible to remove
+        - Permanent formwork
+            - formwork deisnged to remain in position
+            - to retain and support
+        - Permanent formwork to one face only
+        - Formwork to different members of the building
+            - Slabs: slab soffit, top formwork to slabs, soffits to coffered or troughed slabs (each measured separately)
+            - Stairs: landing soffits, soffits of stairs, risers and strings (each measured separately)
+            - Wall faces
+            - Sides and soffit of beams
+            - Forming openings: edges and breaks in slabs, edges and breaks in walls, soffits of openings in walls, boxings for openings (each measured separately)
+            - Sides of curbs
+            - Edges and soffits of copings, cills, cornice, eaves, overhangs and the like
+            - Small surfaces: cantilever ends, brackets, ends of steps and the like
+            - Complex shapes (for work curved in more than one direction)
+        - No deduction for openings <= 1.00m2
+- Inclusion: 
+    - Forming holes for pipes and the like <= 150mm dianeter
+    - Boxing for openigns <= 0.50m2 sectional area
+    - All necessary meterials and work for erection, supporting, easing, striking and removal, repropping and coating with release agents
+
+##### Formwork to slabs
+
+~~~
+VII(d).2-3 Soffits of slabs and landings
+~~~
+
+- Measurement: m2
+    - Measured separately:
+        - slab/landing thickness <= 200mm and > 200mm
+        - formwork to soffits of slabs and landings that are horizontal, sloping, curved and curved in more than one direction
+    - Formwork to soffit of slab = overall slab area - area of beam soffits - wall and column area - adjustment for other items (e.g. deduction for openings)
+- <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230312204858.png" width="400" height="">
