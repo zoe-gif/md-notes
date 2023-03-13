@@ -1270,7 +1270,154 @@ VII(d).2-3 Soffits of slabs and landings
 
 - Measurement: m2
     - Measured separately:
+        - sides and soffits of slabs measured separately
         - slab/landing thickness <= 200mm and > 200mm
         - formwork to soffits of slabs and landings that are horizontal, sloping, curved and curved in more than one direction
     - Formwork to soffit of slab = overall slab area - area of beam soffits - wall and column area - adjustment for other items (e.g. deduction for openings)
+    - Coffered slab
+        - UKSMM7: as if to a plain surface
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230313223917.png" width="300" height="">
 - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230312204858.png" width="400" height="">
+
+~~~
+VII(d).2.1.1.1-2 Formwork to soffits at different heights
+~~~
+
+- Measurement: m2
+    - Formwork to soffits with strutting height < 3.5m measured separately in stages of 1.5m
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230313224214.png" width="500" height="">
+- Inclusion:
+    - Strutting or propping 
+
+~~~
+VII(d).8 Top formwork
+~~~
+
+- When the slop of a slab is steep (> 15°)
+- <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230313224629.png" width="400" height="">
+- Measurement:
+    - m2 if width > 300mm
+    - m if width <= 300mm
+
+##### Formwork to beams
+
+~~~
+VII(d).7 Formwork to sides and soffits of beams
+~~~
+
+- Measurement: m2
+    - Side and soffits of beams measured together
+    - Deduction
+        - No dediction for secondary beam's formwork area that intersects with columns / walls / main beams
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230313225752.png" width="300" height="">
+
+##### Formwork to walls and columns
+
+~~~
+VII(d).5-6 Formwork to wall faces, columns and the like
+~~~
+
+- Measurement: m2
+    - Measured to each face of walls requiring support
+    - Hierarchy:
+        - formwork to sides of columns and walls measured up to soffits of slabs
+        - extermal wall
+            - formwork to interior sides measured up to the soffits of slabs
+            - formwork to the exterior sides measured across the slabs
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230313230457.png" width="500" height="">
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230313230533.png" width="500" height="">
+    - Calculation:
+        - formwork for wall = (centreline of wall x height) x 2 sides - intersections with walls, slabs and beams - adjustment (deductions for openings)
+
+##### Formwork to stairs
+
+~~~
+VII(d).3a&10 Formwork to soffits of stairs, risers and open strings of stairs
+~~~
+
+- Measurement:
+    - Including formwork to soffits of landings, soffits of stairs, risers, and open string
+    - No top formwork required for treads
+    - Sloping formwork to soffits of stairs: m2
+    - Formwork to risers and open strings
+        - width <= 300mm: m
+        - width > 300mm: m2
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230313231849.png" width="300" height="">
+    - Width of open string = t1 + t2
+
+##### Formwork to openings
+
+- No decution of formwork for openings <= >1.00m2
+- Inclusion: 
+    - boxing for openings <= 0.50m2 sectional area3
+    - holes <= 150mm diameter
+
+~~~
+VII(d).15 Forming holes for pipes, cables and the like, >150mm diamtera
+~~~
+
+- Measurement: item
+
+~~~
+VII(d).9 & VII(d).16 Forming openings > 0.50m2
+~~~
+
+- Opening > 0.50m2 and <= 1.00m2
+    - Boxing for openings applied
+    - Measurement: item
+    - Description:
+        - thickness of concrete
+        - size of opening in stages of 0.10m2
+- Opening > 1.00m2
+    - Formwork to edges and beaks of walls/slabs and soffits of openings applied
+    - Measurement
+        - width > 300mm: m2
+        - width <= 300mm: m
+- <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230313233007.png" width="400" height="">
+- <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230313233210.png" width="500" height="">
+
+#### Precast concrete
+
+~~~
+VII(e).1 General
+~~~
+
+- Measurement: nos
+    - units > 2.00m long
+- Inclusion:
+    - reinforcement in the unit
+    - specified surface finishes
+    - additional reinforcement not details but necessary for handling purpose
+    - necessary bedding and fixing
+- Description:
+    - cast-in accessories
+    - concrete composition
+
+~~~
+VII(e).2&5&6 Structural precast units
+~~~
+
+- Measurement: nos
+    - measured separately:
+        - slabs, facade panels, steps, winders, landings, spandrel steps, etc.
+    - steps and landings can be measured in nos / m
+- Description:
+    - dimension, bedding and fixing
+    - extreme size of spandrel steps, circular steps, winders and landings
+- <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230313233908.png" width="300" height="">
+- <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230313233916.png" width="300" height="">
+
+~~~
+VII(e).3&7&8
+~~~
+
+- Measurement:
+    - measured separately:
+        - cills, lintels, caps, channle covers, path edgings, road curbs, dropper curbs and the like
+        - straight units and curved units
+    - cills, lintels, caps: m
+    - channel covers, path edgings and road curbs: m
+    - dropper curbs: nos
+- Description:
+    - dimension, bedding and fixing
+- <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230313234151.png" width="200" height="">
