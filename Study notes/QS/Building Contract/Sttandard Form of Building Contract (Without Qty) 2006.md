@@ -51,4 +51,4 @@ description:
     - Contract Sum: the sum stated in Article 2, or such other sum that becomes payable in accordance with the Contract.
     - Contractor: the person named as the Contract in the Articles.
     - Contractor's All Risks Insurance of the Works: insurance which provides cover against physical loss of or damage to the Works, temporary works and materials and goods, as described in clause 22.
-    - Date for Possession of the Site: 
+    - Date for Possession of the Site: the date or dates for the possession of the whole or parts of the Site stated in the Appendix under 
