@@ -43,4 +43,4 @@ description:
     - Architect: the person named as the Architect in Article 3, or any successor appointed under Article 5.
     - Articles or Articles of Agreement: the Articles of Agreement to which the Conditions are annexed.
     - Commencement Date: the date stated in the Appendix for the commencement of the Works.
-    - Communication: 
+    - Communication: the giving, submitting or issuing of, without limitation, any agreement, approval, authorisation, certificate, confirmation, consent, decision, delegation, direction, dissent, determination, endorsement, 
