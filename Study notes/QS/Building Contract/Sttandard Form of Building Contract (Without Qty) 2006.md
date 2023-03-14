@@ -43,4 +43,12 @@ description:
     - Architect: the person named as the Architect in Article 3, or any successor appointed under Article 5.
     - Articles or Articles of Agreement: the Articles of Agreement to which the Conditions are annexed.
     - Commencement Date: the date stated in the Appendix for the commencement of the Works.
-    - Communication: the giving, submitting or issuing of, without limitation, any agreement, approval, authorisation, certificate, confirmation, consent, decision, delegation, direction, dissent, determination, endorsement, 
+    - Communication: the giving, submitting or issuing of, without limitation, any agreement, approval, authorisation, certificate, confirmation, consent, decision, delegation, direction, dissent, determination, endorsement, instruction, notice, notification, opinion, request, requirement or statement
+    - Completion Date: the date stated in the Appendix by which the Works or a Section are to be completed or such later date to be fixed by the Architect under clause 25.
+    - Conditions: the Conditions of Agreement and Schedule of Conditions of Building Contract for use in the Hong Kong Special Administrative Region, Private Edition - Without Quantities and any special Conditions.
+    - Contract: the Articles of Agreement, the Appendix, the Form of Tender submitted by the Contractor, the Emploer's letter of acceptance of the Contractor's tender and any correspondence between the parties expressed to form part of the Contract, the Special Conditions, if any, the Conditions, the Contract Drawings, the Specification and the Schedule of Quantities and Rates.
+    - Contract Drawings: the drawings referred to in the first and fourth recitals of the Articles and enumerated as such in the Specification.
+    - Contract Sum: the sum stated in Article 2, or such other sum that becomes payable in accordance with the Contract.
+    - Contractor: the person named as the Contract in the Articles.
+    - Contractor's All Risks Insurance of the Works: insurance which provides cover against physical loss of or damage to the Works, temporary works and materials and goods, as described in clause 22.
+    - Date for Possession of the Site: 
