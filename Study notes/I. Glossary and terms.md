@@ -76,6 +76,9 @@ description:
 - pilaster - 壁柱
 - dissent - 异议
 - endorsement - 支持
+- annex - 附属
+- ancillary to - 附属
+- peril - 危险
 
 ## EE
 

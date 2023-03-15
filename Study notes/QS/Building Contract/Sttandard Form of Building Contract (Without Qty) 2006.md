@@ -86,3 +86,17 @@ description:
     - Provisional Item: an item of work identified as provisional in the Contract to be carried out by the Contractor if instructed to do so by the Architect under clause 13.2.
     - Provisional Quantities: an estimated quantity of work identified as provisional in the Contract, where the actual quantity could not be accurately determined when the Contract was prepared, to be carried out by the Contractor if instructed to do so by the Architect under clause 13.2.
     - Provisional Sum: a sum provided in the Contract for work or for costs, which could not be entirely foreseen, defined or detailed when the Contract was prepared, to be paid to the Contractor if instructed by the Architect under clause 13.2 to carry out such work or incur such costs.
+    - Quantity Surveyor: the person named as the Quantity Surveyor in Article 4, or any successor appointed under Article 5.
+    - Relevant Date: the date upon which the Employer took possession of a Relevant Part under clause 18.
+    - Relevant Part: the part of the Works or part of a Section take possession of by the Employer inder clause 18 before Substantial Completion of the Works or that Section.
+    - Retention: the sum calculated in accordance with clause 32.4 and retained by the Employer from the gross valuation of the Contractor's work in progress included in an Interim Certificate.
+    - Retention Percentage: the percentage entered in the Appendix under the reference to clause 32.4, used to calculate the Retention in accordance with the rules set out in that clause.
+    - Schedule of Quantities and Rates: the schedule of quantities and rates referred to in the recitals of the Articles and inclause 1.7, prepared by the Contractor, setting out the build up of the Contract Sum and submitted with his tender, or a certified true copy of this schedule.
+    - Section: a part of the Works for which a separate Completion Date is stated in the Appendix where the Contract provides for sectional completion of the Works.
+    - Site: the land and other placs provided by the Employer for the purpose of carrying out the Works.
+    - Special Condition: a condition of contract expressly referred to as a Special Condition of Contract, which adds to or amends the Conditions and is annexed to the Conditions.
+    - special delivery: a communication which is either delivered by courier or sent by registered post or recorded delivery.
+    - Specialist Contractor: a person, not being a statutoty undertaker or utility company as refeerred to in clause 6.4(1), engaged by the Employer to carry out work directly connection with or ancillary to but not forming part of the Works, as described in clause 30.
+    - Specialist Works: work directly connected with or ancillary to but not forming part of the Works, to be carried out by a Specialist Contractor.
+    - Specification: the specification referred to in the first and fourth recitals of the Articles which describes, without limitation, the types, standards and quality of the materials and goods to be used, the standard and quality of workmanship required, the manner in which work processes are to be carried out, the performance requirements and other matters and things relatnig to the construction of the Works.
+    - Specified Perils: 
