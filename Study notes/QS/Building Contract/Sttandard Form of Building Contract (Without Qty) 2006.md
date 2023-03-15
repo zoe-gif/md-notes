@@ -99,4 +99,23 @@ description:
     - Specialist Contractor: a person, not being a statutoty undertaker or utility company as refeerred to in clause 6.4(1), engaged by the Employer to carry out work directly connection with or ancillary to but not forming part of the Works, as described in clause 30.
     - Specialist Works: work directly connected with or ancillary to but not forming part of the Works, to be carried out by a Specialist Contractor.
     - Specification: the specification referred to in the first and fourth recitals of the Articles which describes, without limitation, the types, standards and quality of the materials and goods to be used, the standard and quality of workmanship required, the manner in which work processes are to be carried out, the performance requirements and other matters and things relatnig to the construction of the Works.
-    - Specified Perils: 
+    - Specified Perils: fire, lightning, explosion, storm, tropical cyclone, flood, bursting or overflowingof water tanks, apparatus or pipes, earthquake, aircraft and other aerial devices or articles dropped from them.
+    - Standard Conditions of Nominated Sub-Contract: the Standard Form of Sub-Contract for use where the sub-contractor is nominated under the Standard Form of Building Contract.
+    - Standard Conditoins of Nominated Supply Contract: the Standard Form of Supply contract for use where the supplier is nominated under the Standard Form of Building Contract.
+    - sub-contractor: a person who enters into a sub-contract with the Contractor to carry out work forming part of the Works and includes a Domestic Sub-Contractor and a Nominated Sub-Contractor.
+    - Substantial Completion: the state of completion where the Works or a Section have been substantially completed to the Architect's satisfaction and have passed the required inspections and tests, as referred to in clauses 17.1 and 17.2.
+    - Subtantial Completion Certificate: a certificate issued by the Architect stating the date when in his opinion the Works or Section have reached Substantial Completion.
+    - subtantially completed: the state of completion where the Works or a Section may not be absolutely completed or entirely free from defects but have reached the stage where they can be taken over and used by the Employer for their intended purpose and where the unfinished items of work and the remaining defects then patent are only of a minor nature and extent and their completion or rectification will not unreasonably interfere with or interrupt the taking over of the Works or Section.
+    - supplier: a person who enters into a supply contract with the Contractor to supply materials or goods and includes as a Nominated Supplier.
+    - suspend: to cease operations for a period of time on an activity in which work has commenced.
+    - Tender Documents: the documents and drawings referred to in the first recital of the Articles, or a certified true copy of those documents and drawings.
+    - Valuation: the valuation made by the Quantity Surveyor, in accordance with the valuation rules under clause 13.4, of work carried out in response to an Architet's instruction requiring a Valuation, remeasurement of Provisional Quantities and Provisional Items or to expend Provisional Sums.
+    - Variation: a change instructed by the Architect to the design, quality or quantity of the Works including:
+        - (i) an alteration to the type, standard or quality of any of the materials or goods comprising the Works;
+        - (ii) the addition, substition or omission of work; and
+        - (iii) the removal from the Site of materials or goods and the demolition and removal of work except where provided for in the Contract or where the materials, goods or work are not in accordance with clause 8.1;
+        - or the imposition of an obligation or restriction instructed by the Architect regarding:
+        - (iv) access to the Sites or use of any parts of the Site;
+        - (v) limitation of working space;
+        - (vi) limitation of working hours; or
+        - (vii) the sequence of carrying out or completing work;

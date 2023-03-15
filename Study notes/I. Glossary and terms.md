@@ -79,6 +79,7 @@ description:
 - annex - 附属
 - ancillary to - 附属
 - peril - 危险
+- apparatus - 仪器 
 
 ## EE
 
