@@ -118,4 +118,131 @@ description:
         - (iv) access to the Sites or use of any parts of the Site;
         - (v) limitation of working space;
         - (vi) limitation of working hours; or
-        - (vii) the sequence of carrying out or completing work;
+        - (vii) the sequence of carrying out or completing work; 
+        - or the addition or alteration to or omission of such obligations or restrictions imposed by the Contract.
+    - Works: the work briefly described in the Articles of Agreement and shown upon, described by or referred to in the Contract including any change made to the work in accordance with the Contract.
+
+### 1.7 Tenders based on Schedule of Quantities and Rates
+
+- (1) The quality and quantity of the work included in the Contract Sum shall be deemed to be shwon upon the Contract Drawings anddescribed in the Specification.
+- (2) The Contractor shall be deemed to have estimated his own quantities of the Works and shall submit, with his tender, a Schedule of Quantities and Rates setting out a build-up of the Contract Sum.
+- The accuracy of the quantities in the Schedule of Quantities and Rates submitted by the Contractor shall be at the sole risk of the Contractor and the cost of any under or over estimation of quantities shall be deemed to have been allowed for in the rates of the item concerned.
+- The rates in the Schedule of Quantities and Rates shall be form part of the Contract and shall be used for valuing Variations and estimating interim payments.
+- Where any item which is required by the Contract has not been specifically priced in the Schedule of Quantities and Rates, the cost shall be deemed to have been included in the rates for other items.
+
+### 1.8 The role of the Engineer
+
+- (1) The Architect may, from time to time, delegate any of his duties and powers under the Contract to an Engineer.
+- (2) The delegation shall be in writing and copied to the Contractor. It shall specify the duties and powers that are delegatedd and shall remain in force until changed or terminated in writing by the Architect.
+- (3) Where in the context of the wording of a clause in the Conditions or where recognition of the Engineer's statutory responsibility requires it, the word 'Architect' in the Conditions shall be deemed to be read as 'Engineer'.
+
+### 1.9 Sectional completion of the Works
+
+- (1) Where sectional completion of the Works is provided for in the Contract, a reference to the Works shall be deemed to mean the Works or a Section.
+- (2) The phrase 'the whole of the Works' means the Works including all Sections.
+
+### 1.10 Communications
+
+- Unless otherwise stated, all notices,certificates and other communications under the Contract between the Employer, the Architect, the Quantity Surveyor and the Contractor shall be in writing.
+
+### 1.11 Notices of default or determination to be sent by special delivery
+
+-  All notices of default or determination under clauses 35, 36 and 37 shall be sent by special delivery.
+
+### 1.12 Parites to act reasonably and expeditiously
+
+- (1) The parties, the Architect and the Quantity Surveyor shall act reasonably and expeditiously in all matters under the Contract including, witout limitation, giving or withholding consent,  approval or agreement, valuing Variations and certifying.
+- (2) All requirements shall be reasonable requirements and, without limitation, the term "to the Architect's satisfaction' shall be construed as meaning to the Architect's reasonable satisfaction and the term "practicable" shall mean reasonably practicable.
+
+## 2. Contractor's obligations
+
+### 2.1 Contractor's obligations
+
+- (1) The Contractor shall in compliance with the Contract:
+    - (a) organize, manage, plan and supervise the carrying out of the Works;
+    - (b) co-ordinate the carrying out of the Works including the interface between his own wokr  and the work carried out by each Domestic Sub-Contractor, Nominated Sub-Contractor, Specialist Contractor, statutory undertaker and utility company;
+    - (c) assist in the coordination of their work by each Domestic Sub-Contractor, Nominated Sub-Contractor, Specialist Contractor, statutory undertaker and utility company with the work of each of the others'
+    - (d) design sufficient, safe andadquate temporary works to enable the Contractor to comply with his other obligations nder the Contract, except where the design of any temporary works is a statutory obligation of any person other than the Contractor or any person for whom the Contractor is responsible;
+    - (e) carry out any work involved in the development of the Architect's design that may be specified in the Contract;
+    - (f) prepare all shop drawings and co-ordination drawings required by the Contract;
+    - (g) carry out the maintenance of mechanical and electrical equipment where required to do so by the Contract for the period of time so specified;
+    - (h) take responsibility for the care of the Works, except for loss or damage arising from the Excepted Risks, from the Commencement Date until 14 days after Substaintial Completion of the Works or 14 days after the determination of the employment of the Contractor, whether valid or not, whichever is earlier, except that the Contractor's responsibility for the care of the Works shall terminate in relation to a Section or Relevant Part 14 days after the Employer takes possession of that Section or Relevant Part; and
+    - (i) carry out the construction of and complete the Works using materials, goods and workmanship of the types, standards and quality specified in the Contract.
+- (2) Where the Contract requires the Contractor to prepare details, to carry out the design or the development of the Architect's design, unless the requirement of fitness for puroise is specifically stated, the design or the development of the Architect's design shall be carried out with reasonable skill and care and the Contractor shall be responsbile to the Employer for such work.
+
+### 2.2 Contractor' sresponsibility
+
+- The Contractor shall remain wholly responsible for carrying out and completing the Works in accordance with the Contract whether or not the Architect or the Architect's representative, if appointed:
+    - (a) visits the Works or a place where materials or goods are being manufactured or stored, work is being prepared, or design is being carried out;
+    - (b) inspects or tests any materials or goods;
+    - (c) exercises his powers under clause 8; or
+    - (d) includes the value of any materials, goods or work in an Interim Certificate.
+
+### 2.3 Contractor's skill and care
+
+- The Contractor shall exercise in the performance of his obligations under the Contract all the skill, care and diligence to be expected of a competent contractor experienced in carrying out work of a similar scope, nature and size to the Works.
+
+### 2.4 Contractor to inform Architect if he finds ambiguities in documents
+
+- (1) The Comtractor shall immediately inform the Architect if the Contractor finds an ambiguity or discrepancy in or divergence between the following documents:
+    - (a) the Contract Drawings;
+    - (b) the Specification;
+    - (c) the descriptive schedules and other similar documents referred to in clause 5.3(c;
+    - (d) the Nominated Sub-Contract documents and the Nominated Supply Contract documents referred to in clause 5.4 and 5.5; and
+    - (e) the further drawinngs, details, descriptive schedules and similar documents referred to in clauses 5.6 provided from time to time during the carrying out of the Works.
+- (2) If the Architect agrees with the Contractor, he shall issue an instruction to resolve the ambiguity, discrepancy or divergence as soon as preacticable after receipt of the notice from the Contractor and the instruction shall, if considered appropriate by the Architect, require a Variation.
+
+## Master programme
+
+### 3.1 master programme to be submitted
+
+- (1) The Contractor shall submit to the Architect within the time stated in the Appendix;
+    - (a) copies of a master programme prepared for his own purposes for organising, managing, planning, supervising and co-ordinating the carrying out of the Works and completing them by the Completion Date;
+    - (b) a methos statement describing the methods of construction and the resources that he intends to use to carry out the Works;
+    - (c) a list of the names and details of the site management and supervisory team personnel, referred to in clause 10, with job descriptions and details of their durations on the Site; and
+    - (d) a list of the plant, equipment and temporary works which he intends to supply, use or construct, as the case may be.
+- (2) The master programme shall:
+    - (a) show the activities and the sequence in which the Contractor proposes to carry out the Works;
+    - (b) show the periods of time estimated for each activity; and
+    - (c) make allowance for the carrying out of Specialist Works, insofar as a general description of these works is given in the Contract, and work by statutory undertakers and utility companies as referred to in clause 6.4(1).
+- (3) The Contractor shall submit 6 copies of any other programme that may be required by the Contract at the time or times so specified.
+- (4) Where any other part of the Contract sets out requirements in respect of the submissions to be made by the Contractor under clause 3.1, the submissions shall be made in accordance with those requirements.
+
+### 3.2 Programmes to be updated
+
+- (1) The Contractor shall regularly update the master programme and any other programme used in carrying out the Works to reflect the current status of the progress of the Works, and shall submit 6 copies of the updated programme to the Architect at the intervals stated in the Contract (or, if this is not stated, at 3 month intervals) and in any event within 28 days of:
+    - (a) an Architect's decision to fix a new Completion Date under clause 25.3;
+    - (b) the Employer taking possession of a Section or a Relevant Part of the Works;
+    - (c) the determination of the employment and re-nomination of a Nominated Sub-Contractor; or
+    - (d) the termination of a supply contract and re-nomination of a Nominated Supplier;
+- (2) The programme shall be revised to indicate the modifications that the Contractor believes are necessary to achieve completion of the Works by the Completion Date if the Contractor decides to take action in response to the Architect's notice under clause 25.5.
+- (3) Programme updated shall be based upon the logic, activities and durations shown in the previous programme. Any change to the programme structure apart from activity status that may be necessary shall be clearly indicated and explained to the Architect.
+
+### 3.3 Programme and other documents not to be documents forming the Contract
+
+- Neither the programme, the method statement nor other document submitted under clause 3 shall be documents forming the Contract and no comment made by the Architect on any of these documents shall impose an obligation on the Employer.
+
+## 4. Architect's instructions
+
+### 4.1 Architect may issue instructions up to the issue of the Final Certificate
+
+- The Architect may issue instructions that he is empowered to issue under the Conditions at any time up to the issue of the Final Certificate including during the time that the Contractor may be carrying our work after the Date of Substantial Completion of the Works, but he shall not instruct a Variation after the issue of the Defects Rectification Certificate for the Works, a Section or a Relevant Part as the case may be.
+
+### 4.2 Architect to issue instructions in writing
+
+- (1) The Architect must issue all instructions in writing in accordance with clause 1.9. All oral instructions given must be confirmed in writing within 5 days of giving the oral instruction. If the Architect gives an oral instruction that the Contractor believes requires a Vairation it shall have no immediate effect, the Contractor shall confirm the oral instruction requiring a Variation in writing to the Architect within 7 days of being issued and if not dissented to in writing by the Architect within 7 days from his receipt of the Contractor's confirmation the Variation shall take effect on the expiry of the latter 7 days.
+- (2) Where an Architect's oral instruction requiring a Variation has been confirmed in writing by the Contractor under clause 4.2(1) by the Contractor under clause 4.2(1) and not dissented to by the Architect, the Architect shall issue the4 written instruction for a Variation for record purposes as soon as practicable after the Contractor's confirmation.
+
+### 4.3 Compliance with Architect's instructions
+
+- (1) Subject to clauses 4.2(1) and 4.3(1), the Contractor shall comply with all instructions that the Architect is empowered by the Conditions to issue as soon as practicable. If there is a disagreement between the Architect and the Contractor as to whether an instruction involves a Variation, he Contractor shall comply with the instruction and may, if he is not satisfied, require the disagreement to tbe resolved under clause 41.
+- (2) If the cContractor disagrees that the Architect is empowered by the Conditions to issue an instruction he may within 7 days of receipt of that instruction require the disagreement to be resolved under clause 41.
+- (3) If the Contractor does not begin to comply with an instruction within 7 days after receipt of a written notice form the Architect requiring compliance with that instruction in accordance with clause 4.3(1) and the Architect issues a certificate to that effect by special delivery, the Employer may, without prejudice to his other rights and remedies, engage other persons to carry out that instruction. All additional costs incurred by the Employer in connection with the employment of the other persons to carry out that instruction may be recovered fromt he Contractor under clause 40 or as a debt.
+- (4) The Contractor shall provide reasonable access to the persons engaged by the Employer under clause 4.3(3) and shall permit them to carry out their work without hindrance.
+
+### Contractor to carry out preventative work
+
+- (1) In the event of an emergency caused by an event arising out of or in connection with the Works that threatens the safety of the Works or any person or property, the Contractor shall immediately:
+    - (a) carry out all  necessasry preventative work without waiting for an Architect's instruction; and
+    - (b) immediately inform the Architect of the emergency and of the action taken or preventative work being carried out.
+- (2) The Architect shall issue an instruction confirming a Variation for preventative work carried out initially without an Architect's instruction, provided that the work was not reqiored to be carried out in fulfillment of a Contractor's obligation or because of a breach of contract or other default by the Contractor or any person for whom the Contractor is responsible.

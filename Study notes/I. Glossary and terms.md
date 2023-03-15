@@ -80,6 +80,9 @@ description:
 - ancillary to - 附属
 - peril - 危险
 - apparatus - 仪器 
+- expeditiously - 迅速
+- construe - 解释
+- divergence - 差异
 
 ## EE
 
@@ -277,3 +280,4 @@ description:
 - vegatation - 植被
 - stump - 树桩
 - turf - 草皮
+- hindrance - 阻碍
