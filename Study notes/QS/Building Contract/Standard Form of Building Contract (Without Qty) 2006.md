@@ -246,3 +246,22 @@ description:
     - (a) carry out all  necessasry preventative work without waiting for an Architect's instruction; and
     - (b) immediately inform the Architect of the emergency and of the action taken or preventative work being carried out.
 - (2) The Architect shall issue an instruction confirming a Variation for preventative work carried out initially without an Architect's instruction, provided that the work was not reqiored to be carried out in fulfillment of a Contractor's obligation or because of a breach of contract or other default by the Contractor or any person for whom the Contractor is responsible.
+
+## 5. Documents forming the Contract and other documents
+
+### 5.1 The documents forming the Contract
+
+- (1) The documents forming the Contract shall be:
+    - (a) the Articles of Agreement and the Appendix;
+    - (b) the Form of Tender submitted by the Contractor together with the Employer's letter of acceptance of the Contractor's tender and any correspondence between the parties expressed to form part of the Contract;
+    - (c) the Special Conditions if any;
+    - (d) the Conditions;
+    - (e) the Contract Drawings;
+    - (f) the Specification; and
+    - (g) the Schedule of Quantities and Rates.
+- (2) The porder of precedence of the documents forming the Contract shall be as listed in parargraphs (a) to (g).
+
+### 5.2 Architect and Quantity Surveyor to keep documents available
+
+- The Architect shall provide two copies, certified onbehalf of the Employer as a true copy, of each of the documents forming the Contract and two certified true copies of  each of the documents forming the Nominated Sub-Contracts and the Nominated Supply Contracts as referred to in clauses 5.4 and 5.5, and the Architect and the Quantity Surveyor shall both keep one of each of these copies available at all reasonable times for the purposes of the Contract.
+
