@@ -265,3 +265,53 @@ description:
 
 - The Architect shall provide two copies, certified onbehalf of the Employer as a true copy, of each of the documents forming the Contract and two certified true copies of  each of the documents forming the Nominated Sub-Contracts and the Nominated Supply Contracts as referred to in clauses 5.4 and 5.5, and the Architect and the Quantity Surveyor shall both keep one of each of these copies available at all reasonable times for the purposes of the Contract.
 
+### 5.3 Copies of documents for Contractor
+
+- As soon as practicable after the acceptance of the Contractor's tender the Architect shall provide the Contractor, without charge, with:
+    - (a) 1 copy, certified on behalf of the Employer as a true copy, of each of the documents forming the Contract;
+    - (b) 3 further copies of the Contract Drawings and the Specification; and
+    - (c) 3 copies of any descriptive schedules or other similar documents prepared by or under the direction of the Architect before the acceptance of the Contract's tender and necessary for use in carrying out the Works.
+
+### 5.4 Nominated Sub-Contract documents
+
+- The Architect shall provide the Contractor, without charge, with 3 further copies of the Nominated Sub-Contract, the sub-contract drawings, the sub-contract specification, the sub-contract schedule  of quantities and ratesm as the case may be, descriptive schedules and other similar documents as soon as practicable after the award of each Nominated Sub-Contract.
+
+### 5.5 Nominated Supply Contract documents
+
+- The Architect shall provide the Contractor, without charge, with 3 further copies of the Nominated Supply Contract, the supply contract drawings, the sub-contract specification, the sub-contract schedule  of quantities and ratesm as the case may be, descriptive schedules and other similar documents as soon as practicable after the award of each Nominated Supply Contract.
+
+### 5.6 Further drawings, details, descriptive schedules and similar documents
+
+- (1) The Architect shall provide the Contractor, without charge, and from time to time during the carrying out of the Works, with 3 copies of all further drawings, details, descriptive schedules or similar documents (referred to in clause 5 as "the supplementary documentation") that, in the Architect's opinion, are reasonably necessary for use in carrying out the Works or to explain or amplify the Contract Drawings, the Nominated Sub-Contract drawings and the Nominated Supply Contract drawings.
+- (2) If in the Contractor's opinion he requires more supplementary documentation than that provided by the Architect under clause 5.6(1) he shall submit a written request to the Architect specifying what further supplementary documentation he requires.
+- (3) It shall be at the sole discretion of the Architect to decide which, if any, of the supplementary documentation requested by the Contract the Architect will provide.
+
+### 5.7 Documents to be provided to Contractor on time
+
+- (1) The supplementary documentation referred to in clause 5.6 shall be pprovided when, having regard to the rogress of the Works and the Contractor's procurement, fabrication and other lead in times, it is reasonably necessary for the Contractor to receive it.
+- (2) The Contractor shall inform the Architect sufficiently in advance of the time that he requires the supplementary documentation to enable the Architect to fulfill his obligations under clause 5.7(1).
+
+### 5.8 Electronic copies of drawings
+
+- If, within 14 days after the acceptance of teh Contractor's tender, the Contractor requests the Architect in writing to do so, the Architect shall provide the Contractor, without charge, with electronic copies of all of the drawings required to be provided under clauses 5.3, 5.4, 5.5 and 5.6 that have been produced electronically in lieu of the hard copies referred to in those clauses.
+
+### 5.9 Documents on Site
+
+- The Contractor shall keep on the Site so as to be available to the Architect and the Quantity Surveyor at all reasonable times 1 copy of:
+    - (a) the Contract Drawings;
+    - (b) The Specification;
+    - (c) the Schedule of Quantities and Rates;
+    - (d) the programmes and other documents referred to in caluse 3;
+    - (e) the descriptive schedules or other similar documents referred to in clause 5.3 prepared by the Architect before the acceptance of the Contractor's tender;
+    - (f) the Nominated Sub-Contract documents and Nominated Supply Contract documents referred to in clause 5.4 and 5.5.
+    - (g) the supplymentary documentation referred to in clause 5.6 provided by teh Architect from time to time during the carrying out of the Works; and
+    - (h) all other documents that the Contractor is required to keep on Site in fulfilment of his statutory obligations.
+
+### 5.10 Return of drawings
+
+- The Contractor shall return to the Architect all drawings, specifications, details, descriptive schedules and other similar documents provided under clause 5, if required by the Architect to do so, either upon the issue of the Final Certificate or the final conclusion of any proceedings to which the Contractor is a party, whichever is later and teh Contractor may take copies for his own records.
+
+### 5.11 Submission of manuals and assignment of warranties
+
+- (1) The Contractor shall submit to the Architect all the operation and mainenance manuals received by teh Contractor.
+- (2)
