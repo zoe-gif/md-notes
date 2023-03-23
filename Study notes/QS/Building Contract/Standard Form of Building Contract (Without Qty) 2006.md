@@ -314,4 +314,11 @@ description:
 ### 5.11 Submission of manuals and assignment of warranties
 
 - (1) The Contractor shall submit to the Architect all the operation and mainenance manuals received by teh Contractor.
-- (2)
+- (2) The Contractor shall assign to the Employer (so far as he is lawfully able to do so) the benefits of all suppliers' and sub-contractors' warranties, guarantees or other ancillary agreements for materials, goods or work insofar as they are required by the Contract, Nominated Sub-Contracts or Nominated Supply Contracts, other than the direct warranties to the Employer required under teh Nominated Sub-Contracts and Nominated Supply Contracts, within 60 days after the issue of the Substantial Completion Certificate for the whole of the Works.
+- (3) xxxxxxxxxxxxxxx
+
+### 5.12
+
+- (1) xxxxxxxxxxxxxxxxx
+- (2) Where the drawings referred to under clauses 5.3, 5.4, 5.5 have been issued electronically, the Contractor shall, if so required by the Architect, provide the as-built drawings electronically.
+
