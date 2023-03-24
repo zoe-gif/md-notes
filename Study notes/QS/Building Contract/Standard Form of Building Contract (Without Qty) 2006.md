@@ -240,7 +240,7 @@ description:
 - (3) If the Contractor does not begin to comply with an instruction within 7 days after receipt of a written notice form the Architect requiring compliance with that instruction in accordance with clause 4.3(1) and the Architect issues a certificate to that effect by special delivery, the Employer may, without prejudice to his other rights and remedies, engage other persons to carry out that instruction. All additional costs incurred by the Employer in connection with the employment of the other persons to carry out that instruction may be recovered fromt he Contractor under clause 40 or as a debt.
 - (4) The Contractor shall provide reasonable access to the persons engaged by the Employer under clause 4.3(3) and shall permit them to carry out their work without hindrance.
 
-### Contractor to carry out preventative work
+### 4.4 Contractor to carry out preventative work
 
 - (1) In the event of an emergency caused by an event arising out of or in connection with the Works that threatens the safety of the Works or any person or property, the Contractor shall immediately:
     - (a) carry out all  necessasry preventative work without waiting for an Architect's instruction; and
@@ -315,10 +315,47 @@ description:
 
 - (1) The Contractor shall submit to the Architect all the operation and mainenance manuals received by teh Contractor.
 - (2) The Contractor shall assign to the Employer (so far as he is lawfully able to do so) the benefits of all suppliers' and sub-contractors' warranties, guarantees or other ancillary agreements for materials, goods or work insofar as they are required by the Contract, Nominated Sub-Contracts or Nominated Supply Contracts, other than the direct warranties to the Employer required under teh Nominated Sub-Contracts and Nominated Supply Contracts, within 60 days after the issue of the Substantial Completion Certificate for the whole of the Works.
-- (3) xxxxxxxxxxxxxxx
+- (3) Where te Contractor assigns the benefit of a suppliers' or sub-contractors' warranty, guarantee or other ancillary agreement for materials, goods or work to the Employer, the Employer shall exhaust all remedies under the warranty, guarantee or ancillary agreement before enforcing the terms of the Contract against the Contractor in respect of any matter for which a cause of action exists against the sub-contractor or supplier under the warranty, guarantee or other ancillary agreement.
 
-### 5.12
+### 5.12 Submission o f as-built drawings
 
-- (1) xxxxxxxxxxxxxxxxx
+- (1) The Contractor shall submit to the Architect 2 copies of a complete set of the as-built drawings that are required by the Contract, Nominated Sub-Contracts or Nominated Supply Contracts within 60 days of the issue of the Substantial Completion Certificate for the whole of the Works.
 - (2) Where the drawings referred to under clauses 5.3, 5.4, 5.5 have been issued electronically, the Contractor shall, if so required by the Architect, provide the as-built drawings electronically.
+
+### 5.13 Limits to use of documents
+
+- (1) The Contractor shall not use any of the documents referred to in clause 5 for any purpose other thant eh Works and any proceedings relating to the Contract.
+- (2) Neither the Employer, the Architect nor the Quantity Surveyor shall divulge any of the rates or prices in the Schedule of Quantities and Rates or use them except for the purpose of the Contract and any proceedings relating to the Contract.
+
+### 5.14 Issue of Architect's certificates
+
+- The Architect shall issue all certificates to the Employer and shall, at the same time, issue a copy of each certificate to the Contractor.
+
+### 5.15 Copy of notice to be given to Employer
+
+- Whenever the Architect issues a notice to the Contractor by special delivery, he shall issue a copy of the notice to the Employer at the same time.
+
+## 6. Statutory obligations
+
+### 6.1 Statutory Requirements
+
+- The Contractor shall comply with and give the notices required by any Ordiannce, regulation, rule, order or by-law applicable to the Works ('the Statutory Requirements') which are to be complied with by the Contractor.
+
+### 6.2 Compliance with the Statutory Requirements
+
+- (1) The Contractor shall immediately notice the Architect if the Contractor find that carrying out the Works in compliance with the Contract or with an Architect's instruction requiring a Variation will infringe the Statutory Requirements.
+- (2) If the Architect agrees with the Contractor, he shall issue an instruction to resolve the infringement as soon as practicable after receipt of the notice and the instruction shall, if appropriate, require a Variation.
+
+### 6.3 Fees or charges
+
+- (1) The Contractor shall pay all fees or charges legally demandable under the Statutory Requirements.
+- (2) The net amount of those fees or charges paid by the Contractor shall be added to the Contract Sum unless they:
+    - (a) are fees or charges that the Contractor is liable to pay under the Statutory Requirements, and the liability was known prior to the date for submission of tenders and has not been increased;
+    - (b) are required to be allowed for in the Contract;
+    - (c) are provided for by a Provisional Sum; or
+    - (d) arise out of a default, delay or failure by the Contractor or a sub-contractor to comply with the Statutory Requirements or the Contract.
+
+### 6.4 Statutory undertakers and utility companies
+
+- (1) Statutory undertakers or utility companies carrying out work in pursuance of their 
 

@@ -281,3 +281,4 @@ description:
 - stump - 树桩
 - turf - 草皮
 - hindrance - 阻碍
+- divulge - 泄露
