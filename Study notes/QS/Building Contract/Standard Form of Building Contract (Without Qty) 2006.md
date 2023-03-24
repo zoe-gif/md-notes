@@ -357,5 +357,5 @@ description:
 
 ### 6.4 Statutory undertakers and utility companies
 
-- (1) Statutory undertakers or utility companies carrying out work in pursuance of their 
+- (1) Statutory undertakers or utility companies carrying out work in pursuance of their statutory obligations and not having a contractual relationship with the Employer, the Contractor or any person for whom the Contractor is responsible shall be classified as statutory undertakers or utility companies and not Nominated Sub-Contractors or persons engaged by the Employer under clause 30 and the fees or charges xxxx
 
