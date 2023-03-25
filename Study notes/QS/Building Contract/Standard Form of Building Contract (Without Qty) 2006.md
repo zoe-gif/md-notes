@@ -357,5 +357,76 @@ description:
 
 ### 6.4 Statutory undertakers and utility companies
 
-- (1) Statutory undertakers or utility companies carrying out work in pursuance of their statutory obligations and not having a contractual relationship with the Employer, the Contractor or any person for whom the Contractor is responsible shall be classified as statutory undertakers or utility companies and not Nominated Sub-Contractors or persons engaged by the Employer under clause 30 and the fees or charges xxxx
+- (1) Statutory undertakers or utility companies carrying out work in pursuance of their statutory obligations and not having a contractual relationship with the Employer, the Contractor or any person for whom the Contractor is responsible shall be classified as statutory undertakers or utility companies and not Nominated Sub-Contractors or persons engaged by the Employer under clause 30 and the fees or charges for their work shall be regarded as fees and charges legally demandable under the Statutory Requirements and processed in accordance with clause 6.3.
+- (2) The Contractor shall allow those persons reasonable access to the Site, permit them to carry out their work and provide them with the facilities referred to in clause 31.
+- (3) Statutory undertakers or utility companies engaged under contracts with the Employer to carry out work directly connected with or ancillary to but not forming part of the Works shall be classified as Specialist Contractors as referred to in clause 30.1.
+- (4) Statutory undertakers or utility companies engaged under contracts with the Contractor or a Nominated Sub-Contractor to carry out work forming part of the Works shall be classified as sub-contractors or sub-sub-contractors as the case may be.
+
+## 7. Setting out the Works
+
+- Setting out and levels
+    - (1) The Architect shall provide the Contractor with accuratelly dimensioned setting out drawings containing the information and levels necessary for him to set out the Works.
+    - (2) The Contractor shall be responsible for accurately setting out the Works and shall correct any error arising from inaccurate setting out at his own cost unless the Architect accepts the error without correction subject to a reasonable reduction in the Contract Sum having regard to the Employer's loss of value of the Works and any expenses that he may incur arising from the inaccurate setting out.
+
+## 8. Materials, goods, workmanship and work
+
+### 8.1 Types, standards and quality
+
+- (1) The Contractor must provide all materials and goods of the types, standards and quality described in the Contract to the Architect's satisfaction that the Contractor has met these requirements.
+- (2) Where the Contractor is responsible for the selection of the materials and goods in accordance with a performance specification or otherwise, the materials and goods must be fit for the purpose stated in the Contract.
+- (3) If any of the specified materials or goods are not procurable, then the Contractor shall submit alternative proposals for mateirals or goods of similar type and standard and of comparable quality and price to the Architect for his approval; and
+    - (a) if the proposed alterantive meterials or goods are of similar type and standard and of comparable quality and price to those specified, and the Architect approves them, the substition of the alternative materials or goods for those specified shall be made with no adjustment to the Contract Sum; or
+    - (b) if the proposed alteranative materials or goods are not of similar type and standard or compararble quality or price to those specified, and the Architect approves them, he shall instruct a Varation to adjust the type, standard, quality or price.
+- (4) The Contractor shall provide the Architect, upon his request, with vouchers, test certificates or other evidence to satisfyt the Architect that the materials and goods comply with the Contract.
+- (5) The Contractor's workmanship must be of the standard and quality described in the Contract to the Architect's satisfaction.
+- (6) All work must be carried out in a proper and workmanlike manner in accordance with the Contract or, in the absence of any specific performance requirements, to the Architect's satisfaction.
+
+### 8.2 Inspection and tests
+
+- (1) The Contractor shall carry out or, if so required by the Contract, arrange for a third party to carry out, the tests specified in the Contract in compliance with the specified testing procedures.
+- (2) In addition to the tests specified in the Contract, the Architect may instruct the Contractor to open up for inspection any work covered up and to carry out, or arrange for a third party to carry out, tests of materials and goods (whether or not already incorporated in the Works) and work which has been carried out.
+- (3) The cost of the testing, the opening up for inspection and any consquential making goods shall be added to the Contract Sum unless:
+    - (a) the inspection or test is provided for in the Contract;
+    - (b) the inspection or test shows that the materials, goods, workmanship or work are not in accordance with clause 8;
+    - (c) the inspection or test was considered necessary by the Architect because, as a result of the failure of a previous inspection or test, further investigation of similar mateirals, goods or work was required to establish to his satisfaction their compliance with clause 8; or
+    - (d) the work was carried out without the inspection notice required by the Contract.
+
+### 8.3 Materials, goods, workmanship or work not in accordance with Contract
+
+- The Architect may, if any materials, goods, workmanship or work are not in accordance with the Contract, instruct:
+    - (a) the removel from the Site and replacement of materials and goods that are not in accordance with clause 8;
+    - (b) the repair or demolition, removel and reconstruction of work which, in respect of materials, goods or workmanship, is not in accordance with clause 8;
+    - (c) the acceptance, without replacement or reconstruction, of some or all of the materials, goods or work as is reasonably necessary in consequence of them not being in accordance with clause 8, subject to a reasonable reduction in the Contract Sum having regard to the reduction in the value of mateirals, goods or work; and
+    - (d) a Variation for alternative remedial work to some or all of the materials, goods or work as is reasonably necessary in consequance of them not being in accordance with clause 8, with no extension of time or addition to the Contract Sum.
+
+### 8.4 Rectifying defects
+
+- The Architect may instruct the Contractor to rectify defects which appear before the commencement of the Defects Liability Period.
+
+### 8.5 Dismissal from the Works
+
+- The Architect may instruct the Contractor to dismiss any individual from the Works for incompetence, misconduct or other similar reasons.
+
+## 9. Intellectual property rights
+
+### 9.1 Intellectual property in design of the Works
+
+- The Contractor shall pay the cost of any royalty, license fee or other sum legally demandable for the use of intellectual property in connection with the design of the permanent Works other than works under a Nominated Sub-Contract or materials and goods supplied under a Nominated Supply Contract, and the cost shall be added to the Contract Sum.
+
+### 9.2 Intellectual property in materials and goods
+
+- The Contractor shall pay the cost of any royalty, license fee or other sum legally demandable for the use of intellectual property in connection with the incorporation of materials and goods into the permanent Works other than materials and goods supplied under a Nominated Sub-Contract or a Nominated Supply Contract. The cost shall be added to the Contract Sum unless the Contractor was responsible for the selection of the materials and goods in accordance with a performance specification or otherwise in which case the cost shall be deemed to be included in the Contract Sum.
+
+### 9.3 Intellectual property in plant and equipment
+
+- (1) The payment of all rpyalties, license fees or other sums legally demandable for the use of intellectual property in respect of plant, equipment, machinery, methods or anything whatsoever used in carrying out the Works shall be deemed to be included in the Contract Sum.
+- (2) The Contract shall indemnify the Employer from and against all claims, proceedings, damages, costs and expense arising from the Contractor or any sub-contractor or suppluer infringing or being held to have infringed any of the intellectual property rights referred to in clause 9.3(1).
+
+### 9.4 Payment of royalties included in Valuation
+
+- If the Contractor uses any intellectual property in compliance with an Architect's instruction requiring a Variation, any royalty, license fee or other sum legally chargeable which the Contractor pays in connection with that instruction shall be included in the Valuation of the Variation.
+
+## 10. Contractor's site management team
+
+### 10.1 Contractor's site management team
 
