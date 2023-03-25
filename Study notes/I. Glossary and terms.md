@@ -281,4 +281,8 @@ description:
 - stump - 树桩
 - turf - 草皮
 - hindrance - 阻碍
+- taper - 锥体
+- rebated - 折
+- groove - 槽
+- chamfer - 倒角
 - divulge - 泄露

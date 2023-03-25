@@ -1421,3 +1421,102 @@ VII(e).3&7&8
 - Description:
     - dimension, bedding and fixing
 - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230313234151.png" width="200" height="">
+
+### Measurement of brickwork and blockwork
+
+- Classes of brick/block walls measued separately
+    - Different thickness, kind, quality, bonds (e.g. English, Flemish, Stretcher), mix of mortar (e.g. cement and sand or cement, lime and sand), and types of pointing (e.g. flush/recessed/weathered)
+    - Vertical walls
+    - Tapering walls with one face battering
+    - Tapering walls with both faces battering
+    - Walls built battering (sloping walls with parallel sides)
+    - Dwarf walls
+    - Hollow walls (refers to cavity walls)
+    - Brickwork in backing to masonry
+    - Brickwork in filling in openings
+    - Curved works
+    - Glass block walls
+- <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230315231915.png" width="300" height="">
+
+#### Brick walls in general
+
+- Standard brick
+    - 215mm x 102.5mm x 65mm
+    - two widths (W) and one mortar joint (m) = length (L)
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230315232018.png" width="500" height="">
+- Measurement: m2
+    - classified by hald of a brick
+    - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230315232155.png" width="500" height="">
+    - measured separately:
+        - brickwork and block walling circular on plan
+        - m2, measure centreline
+- Description: type, quality and size of brick
+- Inclusion:
+    - forming square and rebated reveals
+    - cutting chases, grooves, holes and similar including any grouting and making good
+        - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230315232519.png" width="300" height="">
+    - cutting splayed, chamfers and similar
+    - leaving pockets in the work to receive built-in items including subsequently blocking uP
+- Deduction:
+    - nett sizes of openings
+    - no deduction for openings <= 0.50m2
+    - no deduction for lintels, cill and the like
+
+#### Brick walls and block walls
+
+~~~
+VIII(a).2-5 Brick walls, isolated piers an dwarf walls
+~~~
+
+- Measurement: m2
+- Description: 
+    - kind and size of bricks, bond, mortor mix and type of pointing
+    - if brick wall <= one and a half bricks thick & is a multiple of half a brick thick:
+        - thickness (x brick thick)
+    - if brick wall > one and a half bricks thick & is a multiple of half a brick thick:
+        - various thicknesses grouped together
+        - reduced to one brick thick and measured as reduced brickwork
+            - e.g. a two brick thick wall of 3m2 measured as 6m2 reduced one brick wall
+    - if brick wall is not a multiple of half a brick thick:
+        - thickness and different thickness measured separately
+        - description includes for all cutting
+    
+~~~
+VIII(a).12 Block walls
+~~~
+
+- Measurement: m2
+    - measure separately:
+        - general block walling and partitions
+        - block wall in isolated positions in pipe ducts and the like
+        - concrete block wall
+        - hollow block wall
+        - patent block wall
+- Description:
+    - kind and size of bricks, bond, mortar mix and type of pointing
+- Inclusion:
+    - filling in hollow bloacks at ends and intersections
+
+~~~
+VIII(a).13 Glass block walls and panels
+
+- Measurement: m2
+- Description:
+    - kind and size of blocks, bond, mortar mix or joining compound and type of pointing
+
+~~~
+VIII(a).6 Fair face brickwork
+~~~
+
+- Fair face brickwork
+    - brick material left on view with no further finishing
+- Measuremnet: m2; as extra over brickwork
+    - measure separately:
+        - general faces
+        - built overhand
+            - the work needs to be carried out over another wall/obstruction
+            - <img src="https://raw.githubusercontent.com/zoe-gif/images/master/20230315234808.png" width="200" height="">
+        - battering faces
+        - curved faces
+- Description: 
+    - bond, mortar mix and type of pointing of the fair face work
