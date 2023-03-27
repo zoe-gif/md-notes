@@ -430,3 +430,4 @@ description:
 
 ### 10.1 Contractor's site management team
 
+- (1) The Contractor shall maintain the site management and supervisory team (referred to in clause 10 as 'the team') listed in clause 3.1(1)
