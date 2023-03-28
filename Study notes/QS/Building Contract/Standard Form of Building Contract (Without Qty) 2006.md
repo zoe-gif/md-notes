@@ -440,4 +440,20 @@ description:
 - (3) The Architect may instruct the Contractor to replace thhe construction manager or a member of the team for incompetence or misconduct.
 - (4) The Contractor shall not remove or replace the construction manager or any member of the team unleass requested by or agreed to by the Architect.
 
-## 11. 
+## 11. Access for the Architect to the Works
+
+- Contractor to give access
+    - The Contractor shall give the Architect and any person authorised by the Architect access, at all reasonable times, to the Works or any place where materials or goods are being manufactured or stored, work is being prepared or design is being carrid out, and shall ensure that all his sub-contractors and suppliers do the same.
+
+## 12. Architect's representative
+
+### 12.1 Architect's representative
+
+- The Architect and/or the Employer may appoint an architect, engineer, clerk of works or other person as the Architect's representative to be resident on the Site and acting under the direction of the Architect.
+- The Architect's representatives' duties shall be to:
+    - (a) watch and inspect the Works;
+    - (b) inspect and test materials and goods;
+    - (c) check that the  types, standards and quality of the materials and goods, the standard and quality of the Contractor's workmanship and the quality of his work are in accordance with the requirements ofthe Contract;
+    - (d) check, amend as necessary, and where appropriate sign the records submitted to him by the Contractor for approval; and
+    - (e) carry out the duties and exercise the powers delegated to him by the Architect under clause 12.2,
+- and the Contractor shall give the Architect's representative every reasonable facility for the performance of these duties.
