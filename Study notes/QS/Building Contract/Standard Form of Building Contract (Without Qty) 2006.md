@@ -499,4 +499,8 @@ description:
 
 - (1) Where the Valuation relates to the carrying out of:
     - (a) additinal or subsituted work which can be properly valued by measurement;
-    - (b) work 
+    - (b) work which is the subject of Provisional Quantities or Provisional Items; or
+    - (c) work involved in the expenditure of Provisional Sums,
+    - thw work shall be measured and shall be valued in accordance with the following rules:
+        - (i) where the work is the same as or similar in character to and is carried out under the same or similar conditions to work priced in the Schedules of Quantities and Rates, and the Variation does not substantially change the quantity of that work, the rates in the Schedule of Quantities and Rates for that work shall determine the Valuation;
+        - (ii) where the work is the same as or similar in character to work priced in the Schedule xxxxxxxxxxx
