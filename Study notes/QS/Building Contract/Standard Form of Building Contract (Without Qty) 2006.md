@@ -430,4 +430,14 @@ description:
 
 ### 10.1 Contractor's site management team
 
-- (1) The Contractor shall maintain the site management and supervisory team (referred to in clause 10 as 'the team') listed in clause 3.1(1)
+- (1) The Contractor shall maintain the site management and supervisory team (referred to in clause 10 as 'the team') listed in clause 3.1(1) on the Site for as long as is necessary for the satisfactory fulfillment of his obligations under the Contract.
+- (2) The team shall be of sufficient strength with personnel of appropriate qualifications, seniority and experience, having regard to the size, complexity and nature of the Works, to properly organise, manage, plan, supervise and co-ordinate the carrying out the Works.
+
+### 10.2 Construction manager
+
+- (1) The tram shall be headed by an experience and competent construction manager approved by the Architect.
+- (2) An instruction issued by the Architect to the construction manager shall be deemed to have been issued to the Contractor.
+- (3) The Architect may instruct the Contractor to replace thhe construction manager or a member of the team for incompetence or misconduct.
+- (4) The Contractor shall not remove or replace the construction manager or any member of the team unleass requested by or agreed to by the Architect.
+
+## 11. 
