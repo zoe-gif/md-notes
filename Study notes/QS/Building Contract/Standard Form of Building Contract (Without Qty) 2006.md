@@ -457,3 +457,36 @@ description:
     - (d) check, amend as necessary, and where appropriate sign the records submitted to him by the Contractor for approval; and
     - (e) carry out the duties and exercise the powers delegated to him by the Architect under clause 12.2,
 - and the Contractor shall give the Architect's representative every reasonable facility for the performance of these duties.
+
+### 12.2 Delegation of duties and powers
+
+- (1) The Architect may, from time to time, delegate any of his duties and powers under the Contract to the Architect's representative as defined under clasue 12.1.
+- (2) The delegation shall be in writing and shall be copied to the Contractor. It shall specify the duties and powers that are delegated and remain in force until changed or terminated in writing by the Architect.
+
+### 12.3 Instruction to bind parties
+
+- (1) The Architect's representative sall issue all instructions in writing and an instruction from the Architect's representative shall bind the parties if:
+    - (a) the Architect has the power to give itl and
+    - (b) it is within the twems of the delegation.
+- (2) The Contractor may, within 7 days of receiving an instruction from the Architect's representative, submit an objection to the Architect who shall confirm, reverse or vary that instruction within a further 7 days, falling which the instruction shall have no effect.
+
+## 13. Variations, Provisional Quantities, Provisional Items and Provisional Sums
+
+### 13.1 Architect's authority to issue instructions requiring a Variation
+
+- (1) The Architect may issue an instruction requiring a Variation provided that:
+    - (a) the Contractor has the right of reasonable objection to a Variation which imposes or changes an obligation or restriction on the Contractor regarding access to the Site, use of any part of the Site or limitation of working space or working hours and the Architect shall, upon receipt of the Contractor's obligation, either confirm or withdraw the instruction, and if the isntruction is confirmed, the Contractor may refer the matter to arbitration under clause 41;
+    - (b) the Contractor's written consent is given to an instruction either nominating a sub-contractor to carry out work included in the Contract which is to be carried out by the Contractor or omitting work in order for it to be carried out by others; and
+    - (c) the instruction or accumulation of instruction shal not fundamentally change the scope or nature of the Works.
+- (2) The instruction requiring a Variation shall describe the change required to the design, quality or quantity of the Works or the imposition of or change to any obligation or restriction on the Contractor and where appropriate the Architect shall issue revised drawings and/or schedules.
+- (3) The Contractor has no right to carry out work involving a Variation without a written instruction from the Architect or comfirmation of an oral instruction from the Contractor except in the event of an emergency as provided for in Clause 4.4.
+
+### 13.2 Instructions for Provisional Quantities, Provisional Items and Provisional Sums
+
+- The Architect shall issue an instruction for:
+    - (a) the carrying out of work or the provision of goods covered by Provisional Quantities or Provisional Items in the Contract, Nominated Sub-Contracts or Nominated Supply Contracts; and
+    - (b) the expenditure of Provisional Sums included in the Contract, Nominated Sub-Contracts or Nominated Supply Contracts.
+
+### 13.3 Valuation of Contractor's work
+
+- 
