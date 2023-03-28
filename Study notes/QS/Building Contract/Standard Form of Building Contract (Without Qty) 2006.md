@@ -489,4 +489,14 @@ description:
 
 ### 13.3 Valuation of Contractor's work
 
-- 
+- The Quantity Surveyor shall measure and value work carried out by the Contractor in response to an Architect's instruction under:
+    - (a) clause 13.1 requiring a Variation;
+    - (b) clause 13.2(a) for the remeasurement of Provisional Quantities and Provisional Items; and
+    - (c) clause 13.2(b) to expand a Provisional Sum,
+- and the Valuation shall be made in accordance with the rules set out in clause 13.4.
+
+### 13.4 Valuation reules
+
+- (1) Where the Valuation relates to the carrying out of:
+    - (a) additinal or subsituted work which can be properly valued by measurement;
+    - (b) work 
