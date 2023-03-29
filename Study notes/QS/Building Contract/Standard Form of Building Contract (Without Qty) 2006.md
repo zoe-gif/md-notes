@@ -521,4 +521,13 @@ description:
         - (b) if in the Quantity Surveyor's opinion the Contractor has reasonably incurred expense which has become wholly or partly unnecessaary as a result of the omission of the work, a fair adjustment shall be made to the Valuation in respect of that expense.
     - (4) Where the Valuation does not related to additional or substituted work or the omission of work but relates only to other matters not involving measured work sch as the inposition of or change to an obligation or restriction and the rules in clauses 13.4(1), 13.4(2) or 13.4(3) cannot reasonably be applied, a fair valuation shall be made.
     - (5) An appropriate allowance shall be made in a Valuation under clause 13.4 for any percentage or lump sum adjustment made to the Schedule of Quantities and Rates.
-    - (6) If compliance with a Variation instructed under clause 13.1 or a deemed Variation under vlause 14.3 substantially changes the conditions under which other work is carried out, and results in the rates in the Schedule xxxxxxxxxxxx
+    - (6) If compliance with a Variation instructed under clause 13.1 or a deemed Variation under vlause 14.3 substantially changes the conditions under which other work is carried out, and results in the rates in the Schedule of Quantities and Rates for this work becoming unreasonable or inapplicable, then new rates shall be determined based upon the rates in the Schedule of Quantities and Rate adjusted by a fair allowance for the difference in the conditions.
+    - (7) In addition to the Variation by daywork under clause 13.4(2) of work which cannot be properly measured and valued under clause 13.4(1), the Architect may instruct the Contractor, with the Contractor's agreement, to carry out any other work, including work which can be properly measured and valued under clause 13.4(1), to be valued on a daywork basis in accordance with clause 13.4(2).
+    - (8) If the Architect instructs a Variation for additional work after Substantial Completion, clause 13.4(1) shall not appply and a fair valuation shall be made.
+    - (9) No allowance is to be made under clause 13.4 for direct loss and/or expense due to delay to the progress of the Works, disruption, or any other cause for which the Contractor can be reimbursed by payment under any other provision of the Conditions.
+
+### 13.5 Adjustment of Contract Sum
+
+- Effect shall be given to a Valuation under clause 13.3 by adjustment of the Contract Sum.
+
+### 13.6 
