@@ -503,4 +503,20 @@ description:
     - (c) work involved in the expenditure of Provisional Sums,
     - thw work shall be measured and shall be valued in accordance with the following rules:
         - (i) where the work is the same as or similar in character to and is carried out under the same or similar conditions to work priced in the Schedules of Quantities and Rates, and the Variation does not substantially change the quantity of that work, the rates in the Schedule of Quantities and Rates for that work shall determine the Valuation;
-        - (ii) where the work is the same as or similar in character to work priced in the Schedule xxxxxxxxxxx
+        - (ii) where the work is the same as or similar in character to work priced in the Schedule of Quantities and Rates but is not carried out under the same or similar conditions, or the Variation substantially changes the quantity of that work, the rates in the Schedule of Quantities and Rates for that work shall determine the Valuation but with a fair adjustment for the difference in conditions or quantity;
+        - (iii) where the work is not the same as or similar in character to any work priced in the Schedule of Quantities and Rates the work shall be valued at fair rates; and
+        - (iv) the work 'conditions' in clause 13.4(4) shall mean physical conditions and not financial conditions.
+    - (2) Where the Valuation relates to work which cannot be properly measured and valued under clause 13.(4) the work may, with the prior consent of the Architect, be carried out as daywoork and provided that the Contractor:
+        - (a) gives at least 7 days' notice to the Architect before carrying out the work, or where the work is required urgently, as much prior notice as practicable; and
+        - (b) submits vouchers specifying the time spentdaily carrying out the work, the workmen's names, the materials and goods and the plant and equipment employed to the Architect for vertification within 14 days of the work being carried out,
+    - the work shall be valued at prime cost comprising labour; materials, goods, plant and equipment plus overheads and profit; and:
+        - (c) priced at the daywork rates in the Contract; or
+        - (d) where there are no daywork rates in the Contract, priced at:
+            - (i) the labour rates contained in the record of Average Daily Wages of Workers Engaged in Government Builidng and Construction Projects published by the Census and Statistics Department of the Government of the Hong Kong Special Administrative Region current at the date when the work is carried out;
+            - (ii) the net cost of materials and goods plus the cost of packing, carriage and delivery;
+            - (iii) the cost of hiring plant and equipment specifically provided for the work together with the cost of transportation, fuel, maintenance and insurance; and
+            - (iv) he percentages for overheads and profit  on the prime cost of the labour, materials, goods, plant and equipment that are included in the Contract or, where no such percentages are included in the Contract, at 15 percent.
+    - (3) Where the Valuation relates to the omission of work included or deemed to have been included in the Schedules of Quantities and Rate:
+        - (a) the rates of the work in the Schedule of Quantities and Rates shall determine the Valuation of the work omitted; and
+        - (b) if in the Quantity Surveyor's opinion the Contractor has reasonably incurred expense which has become wholly or partly unnecessaary as a result of the omission of the work, a fair adjustment shall be made to the Valuation in respect of that expense.
+    - (4) Where the Valuation does not related to additional or substituted work or the omission of work but relates only to other matters not 
