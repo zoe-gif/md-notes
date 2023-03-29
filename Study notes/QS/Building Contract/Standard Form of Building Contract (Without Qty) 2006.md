@@ -530,4 +530,16 @@ description:
 
 - Effect shall be given to a Valuation under clause 13.3 by adjustment of the Contract Sum.
 
-### 13.6 
+### 13.6 Contractor's right to be present during measurement on Site
+
+- Where it is necessary to measure work on the Site for a Valuation, the Quantity Surveyor shall give the Contractor an opportunity to be present and to take his ownn measurements.
+
+### 13.7 Variation necessitated by fault of Contractor
+
+- If and to the extent that an instruction requiring a Valuation arose as a result of a breach of contract or other default by the Contractor or any person for whom the Contractor is responsible the Quantity Surveyor shall take the effect of the breach or default into account in the Valuation of the Variation.
+
+### 13.8 Valuation of Nominated Sub-Contractor's work or Nominated Supplier's materials and goods
+
+- The Valuation of work carried out by a Nominated Sub-Contractor or materials and goods supplied by a Nominated Supplier in response to an Architect's instruction:
+    - (a) for a variation to the sub-contract works or to the materials and goods to be supplied under a supply contract;
+    - (b) under clause 13.2(a) for the remeasurement of Provisional Quantities and Provisional Items in the sub-contract xxxxxxx

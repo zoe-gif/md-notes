@@ -286,3 +286,4 @@ description:
 - rebated - 折
 - groove - 槽
 - chamfer - 倒角
+- nessesitate - 必要
