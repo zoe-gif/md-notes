@@ -519,4 +519,6 @@ description:
     - (3) Where the Valuation relates to the omission of work included or deemed to have been included in the Schedules of Quantities and Rate:
         - (a) the rates of the work in the Schedule of Quantities and Rates shall determine the Valuation of the work omitted; and
         - (b) if in the Quantity Surveyor's opinion the Contractor has reasonably incurred expense which has become wholly or partly unnecessaary as a result of the omission of the work, a fair adjustment shall be made to the Valuation in respect of that expense.
-    - (4) Where the Valuation does not related to additional or substituted work or the omission of work but relates only to other matters not 
+    - (4) Where the Valuation does not related to additional or substituted work or the omission of work but relates only to other matters not involving measured work sch as the inposition of or change to an obligation or restriction and the rules in clauses 13.4(1), 13.4(2) or 13.4(3) cannot reasonably be applied, a fair valuation shall be made.
+    - (5) An appropriate allowance shall be made in a Valuation under clause 13.4 for any percentage or lump sum adjustment made to the Schedule of Quantities and Rates.
+    - (6) If compliance with a Variation instructed under clause 13.1 or a deemed Variation under vlause 14.3 substantially changes the conditions under which other work is carried out, and results in the rates in the Schedule
