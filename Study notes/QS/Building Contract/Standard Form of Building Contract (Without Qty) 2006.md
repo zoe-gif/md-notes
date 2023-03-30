@@ -542,4 +542,14 @@ description:
 
 - The Valuation of work carried out by a Nominated Sub-Contractor or materials and goods supplied by a Nominated Supplier in response to an Architect's instruction:
     - (a) for a variation to the sub-contract works or to the materials and goods to be supplied under a supply contract;
-    - (b) under clause 13.2(a) for the remeasurement of Provisional Quantities and Provisional Items in the sub-contract xxxxxxx
+    - (b) under clause 13.2(a) for the remeasurement of Provisional Quantities and Provisional Items in the sub-contract; and
+    - (c) under clause 13.2(b) to expend Provisional Sums included in te sub-contract or supply contract;
+- shall be made in accordance with the Nominated Sub-Contract or Nominated Supply Contract.
+
+## 14. [Not used]
+
+## 15. Contract Sum
+
+- Adjustment of Contract Sum
+    - (1) The Contract Sum stated in Article 2 shall only be adjusted in accordance with the Contract and as soon as the amount of the adjustment is calculated in whole or in part, the amount so calculated shall be taken into account in the next Interim Certificate following the calculation.
+    - (2) The parties are deemed to have accepted any error whether of arithmetic or not in the calculation of the Contract Sum stated in Article 2.
