@@ -553,3 +553,16 @@ description:
 - Adjustment of Contract Sum
     - (1) The Contract Sum stated in Article 2 shall only be adjusted in accordance with the Contract and as soon as the amount of the adjustment is calculated in whole or in part, the amount so calculated shall be taken into account in the next Interim Certificate following the calculation.
     - (2) The parties are deemed to have accepted any error whether of arithmetic or not in the calculation of the Contract Sum stated in Article 2.
+
+## 16. Materials and goods on or off-site
+
+- Property in materials and goods
+    - (1) Materials and goods delivered to or adjacent to the Site or stored off-site shall become the property of the Employer once their value has been included in an Interim Certificate and paid for by the Employer.
+    - (2) Materials and goods delivered to or adjacent to the Site shall not be removed without the consent of the Architect. If they have become the property of the Employer, the Contractor shall remain responsible for loss or damage to them except to the extent that the loos or damage is due to an act or neglect of the Employer or any person for whom the Employer is responsible.
+    - (3) The Contractor shall indemnify the Employer against loss or damage to materials and goods stored off-site that have become the property of the Employer, shall be responsible for the cost of their storage, handling and insurance and shall not remove them from where they are being stored except for use upon the Works.
+
+## 17. Substantial Completion and defects liability
+
+### 17.1 Substantial Completion Certificate for the Works
+
+- 
