@@ -565,4 +565,25 @@ description:
 
 ### 17.1 Substantial Completion Certificate for the Works
 
-- 
+- The Architect shall issue the Substantial Completion Certificate for the Works when he is satisfied that the Works have been substantially completed and have passed the inspections and tests that are required by the Contract to be carried out and completed before Substantial Completion and all uncompleted items of work shall be completed as soon as practicable after issue of the Substantial Completion Certificate, or as instructed by the Architect, and in any case before the expiry of the Defects Liability Period. The Architect shall also issue a list of all the uncompleted items of work together with the Substantial Completion Certificate.
+
+### 17.2 Separate Defects Liability Period for each Section and Relevant Part
+
+- (1) If sectional completion of the Works is provided for in the Contract or the Employer takes possession of a Relevant Part each Section or Relevant Part shall have its own separate Defects Liability Period.
+- (2) The Architect shall issue a Substantial Completion Certificate upon Substantial Completion of each Section or Relevant Part except for the last one. Upon Substantial Completion of the last Section or Relevant Part, the Architect shall issue the Substantial Completion Certificate for the Works and Substantial Completion of the whole of the Works shall be deemed to have taken place on the date stated in that certificate.
+- (3) The requirepments for the issue of a Substantial Completion Certificate under clause 17.2(2) shall be the same as those uncer clause 17.1.
+
+### 17.3 Rectifying defects
+
+- (1) The Contractor shall rectify all defects, shrinkages or other faults which are identified during the Defects Liability Period of the Works, a Section or a Relevant Part stated in the Appendix, and area caused either by materials, goods or workmanship which are not in accordance with the Contract, by nature causes or as a result of a Specified Peril occurring during the construction period prior to Substantial Completion.
+- (2) The Architect shall list the defects to be rectified in schedules of defects which she shall issue to the Contractor as Architect's instructions from time to time during the Defects Liability Period. The final schedule of defects shall be issued out not later than 14 days after the expiry of the Defects Liability Period.
+- (3) The Contractor shall rectify the defects specified in the schedules of defects to the Architect's satisfaction within a reasonable time after receipt of those schedules.
+- (4) If the Contractor does not comply with the Architect's instruction to rectify the defects listed in a schedule of defects within a reasonable time, the provisions of clauses 4.3(3) and 4.3(4) shall apply.
+- (5) The Architect may instruct the Contractor not to rectify some or all of the defects specified in the schedules of defects, in which case a reasonable reduction to the Contract Sum shall be made for the defects not rectified.
+
+### 17.4 Defects Rectification Certificate for the Works
+
+- The Architect shall issue the Defects Rectification Certificate for the Works when:
+    - (a) the Defects Liability Period for the Works has expired;
+    - (b) the Contractor has stisfactorily completed all the uncompleted items of work on the list issued with the Substantial Completion Ceritifcate; and
+    - (c) all defects required to be rectified under clause 17.3 have been satisfcatorily rectified.
