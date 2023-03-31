@@ -622,3 +622,6 @@ description:
 
 - The Architect shall issue a Defects Rectification Certificate for the Relevant Part upon the completion of rectifying defects to that part under clause 17.5.
 
+### 18.4 Liquidated abd ascertaubed damages
+
+- Where the Employer required the Contractor to pay or allow liquidated 
