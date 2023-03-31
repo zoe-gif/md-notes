@@ -599,4 +599,26 @@ description:
 
 ### 17.7 Other rights and remedies
 
-- The iseue of a 
+- The issue of a Defects Rectification Certificate for the whole of the Works shall discharge the Contractor from any further obligation to carry out the work of rectifying defects on the Site (except for the fulfillment of his obligations under a warranty) but it shall not prejudice the Employer's other rights and remedies under the Contract or at law regarding defective work or other breaches of contract.
+
+## 18. Partial possession by Employer
+
+### 18.1 Partial possession
+
+- (1) The Employer may, with the Contractor's consent, take possession of apart of the Works or where sectional completion is provided for in the Contract a part of a Section before Substantial Completion, and that part of Works or part of a Section shall be referred to as a Relevant Part.
+- (2) If the Employer takes possession of a Relevant Part, the Architect shall issue a certificate to that effect:
+    - (a) identifying the Relevant Part being taken into possession;
+    - (b) giving the Relevant Date when the Employer took possession of the Relevant Part; and
+    - (c) stating his assessment of the estimated amount contained in the Contract Sum in respect of the Relevant Part.
+
+### 18.2 Substantial Completion
+
+- Substantial Completion of the Relevant Part shall be deemed to have occurred on the Relevant Date and the following shalltake effect:
+    - (a) the commencement of the Defects Liability Period for that Relevant Part and the rectification of defects under clause 17;
+    - (b) the exemption from liability for damage by a Specified Peril under clause 17.6; and
+    - (c) the release of one-half of the Retention relating to that Relevant Part under clause 32.5.
+
+### 18.3 Completion of rectifying defects
+
+- The Architect shall issue a Defects Rectification Certificate for the Relevant Part upon the completion of rectifying defects to that part under clause 17.5.
+
