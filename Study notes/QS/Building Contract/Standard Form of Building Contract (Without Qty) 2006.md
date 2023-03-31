@@ -587,3 +587,16 @@ description:
     - (a) the Defects Liability Period for the Works has expired;
     - (b) the Contractor has stisfactorily completed all the uncompleted items of work on the list issued with the Substantial Completion Ceritifcate; and
     - (c) all defects required to be rectified under clause 17.3 have been satisfcatorily rectified.
+
+### 17.5 Separate certificate for each Section or Relevant Part
+
+- (1) Where sectional completion of the Works is provided for in the Contract or the Employer takes possession of a Relevant Part, the Architect shall issue a separate Defects Rectification Certificate in accordance with clause 17.4 for each Section or Relevant Part except for the last Section or Relevant Part.
+- (2) Upon the completion of rectifying defects to the last Section or Relevant Part in accordance with clasue 17.4, the Architect shall issue a Defects Rectification Certificate for the Works and the completion of rectifying defects for the whole of the Works shall be deemed to have take place on the date stated in the certificate.
+
+### 17.6 Damage by a Specified Peril
+
+- The Contractor is not required to rectify at his own cost any damage caused by a pscified Peril occurring after Substantial Completion.
+
+### 17.7 Other rights and remedies
+
+- The iseue of a 
