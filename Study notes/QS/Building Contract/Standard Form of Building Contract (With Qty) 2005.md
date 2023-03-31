@@ -10,7 +10,7 @@ categories:
 tags: Building Contract
 description: 
 ---
-
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 # The General Conditions
 
 ## 1. Interpretation and definitions
