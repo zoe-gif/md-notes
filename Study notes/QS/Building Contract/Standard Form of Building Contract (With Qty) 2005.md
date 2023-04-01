@@ -1,16 +1,3 @@
-14/3/2023
-
----
-title: Standard Form of Building Contract (With Quantities) 2005
-date: 31/3/2023
-update: 31/3/2023
-categories:
-- Study notes
-- QS
-tags: Building Contract
-description: 
----
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 # The General Conditions
 
 ## 1. Interpretation and definitions

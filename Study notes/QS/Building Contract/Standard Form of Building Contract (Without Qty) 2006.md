@@ -1,16 +1,3 @@
-14/3/2023
-
----
-title: Standard Form of Building Contract (Without Quantities) 2006
-date: 14/3/2023
-update: 14/3/2023
-categories:
-- Study notes
-- QS
-tags: Building Contract
-description: 
----
-
 # The General Conditions
 
 ## 1. Interpretation and definitions
