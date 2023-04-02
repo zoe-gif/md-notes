@@ -174,7 +174,7 @@
 - (1) The Comtractor shall immediately inform the Architect if the Contractor finds an ambiguity or discrepancy in or divergence between the following documents:
     - (a) the Contract Drawings;
     - (b) the Specification;
-    - (c) the descriptive schedules and other similar documents referred to in clause 5.3(c;
+    - (c) the descriptive schedules and other similar documents referred to in clause 5.3(c);
     - (d) the Nominated Sub-Contract documents and the Nominated Supply Contract documents referred to in clause 5.4 and 5.5; and
     - (e) the further drawinngs, details, descriptive schedules and similar documents referred to in clauses 5.6 provided from time to time during the carrying out of the Works.
 - (2) If the Architect agrees with the Contractor, he shall issue an instruction to resolve the ambiguity, discrepancy or divergence as soon as preacticable after receipt of the notice from the Contractor and the instruction shall, if considered appropriate by the Architect, require a Variation.
