@@ -72,14 +72,13 @@
     - postpone: to defer the commencement of opeartions on an activity.
     - Prime Cost Sum: a sum either provided in the Contract or arising as described in clause 29.1 for work to be carried our by a Nominated Sub-Contractor or for mateirals or goods to be obtained form a Nominated Supplier.
     - Provisional Item: an item of work identified as provisional in the Contract to be carried out by the Contractor if instructed to do so by the Architect under clause 13.2.
-    - Provisional Quantities: an estimated quantity of work identified as provisional in the Contract, where the actual quantity could not be accurately determined when the Contract was prepared, to be carried out by the Contractor if instructed to do so by the Architect under clause 13.2.
-    - Provisional Sum: a sum provided in the Contract for work or for costs, which could not be entirely foreseen, defined or detailed when the Contract was prepared, to be paid to the Contractor if instructed by the Architect under clause 13.2 to carry out such work or incur such costs.
+    - Provisional Quantities: an estimated quantity of work identified as provisional in the Contract Bills, where the actual quantity could not be accurately determined when the bills of quantities were prepared, to be carried out by the Contractor if instructed to do so by the Architect under clause 13.2.
+    - Provisional Sum: a sum provided in the Contract for work or for costs, which could not be entirely foreseen, defined or detailed when the bills of quantities were prepared, to be paid to the Contractor if instructed by the Architect under clause 13.2 to carry out such work or incur such costs.
     - Quantity Surveyor: the person named as the Quantity Surveyor in Article 4, or any successor appointed under Article 5.
     - Relevant Date: the date upon which the Employer took possession of a Relevant Part under clause 18.
     - Relevant Part: the part of the Works or part of a Section take possession of by the Employer inder clause 18 before Substantial Completion of the Works or that Section.
     - Retention: the sum calculated in accordance with clause 32.4 and retained by the Employer from the gross valuation of the Contractor's work in progress included in an Interim Certificate.
     - Retention Percentage: the percentage entered in the Appendix under the reference to clause 32.4, used to calculate the Retention in accordance with the rules set out in that clause.
-    - Schedule of Quantities and Rates: the schedule of quantities and rates referred to in the recitals of the Articles and inclause 1.7, prepared by the Contractor, setting out the build up of the Contract Sum and submitted with his tender, or a certified true copy of this schedule.
     - Section: a part of the Works for which a separate Completion Date is stated in the Appendix where the Contract provides for sectional completion of the Works.
     - Site: the land and other placs provided by the Employer for the purpose of carrying out the Works.
     - Special Condition: a condition of contract expressly referred to as a Special Condition of Contract, which adds to or amends the Conditions and is annexed to the Conditions.
@@ -110,34 +109,26 @@
         - or the addition or alteration to or omission of such obligations or restrictions imposed by the Contract.
     - Works: the work briefly described in the Articles of Agreement and shown upon, described by or referred to in the Contract including any change made to the work in accordance with the Contract.
 
-### 1.7 Tenders based on Schedule of Quantities and Rates
-
-- (1) The quality and quantity of the work included in the Contract Sum shall be deemed to be shwon upon the Contract Drawings anddescribed in the Specification.
-- (2) The Contractor shall be deemed to have estimated his own quantities of the Works and shall submit, with his tender, a Schedule of Quantities and Rates setting out a build-up of the Contract Sum.
-- The accuracy of the quantities in the Schedule of Quantities and Rates submitted by the Contractor shall be at the sole risk of the Contractor and the cost of any under or over estimation of quantities shall be deemed to have been allowed for in the rates of the item concerned.
-- The rates in the Schedule of Quantities and Rates shall be form part of the Contract and shall be used for valuing Variations and estimating interim payments.
-- Where any item which is required by the Contract has not been specifically priced in the Schedule of Quantities and Rates, the cost shall be deemed to have been included in the rates for other items.
-
-### 1.8 The role of the Engineer
+### 1.7 The role of the Engineer
 
 - (1) The Architect may, from time to time, delegate any of his duties and powers under the Contract to an Engineer.
 - (2) The delegation shall be in writing and copied to the Contractor. It shall specify the duties and powers that are delegatedd and shall remain in force until changed or terminated in writing by the Architect.
 - (3) Where in the context of the wording of a clause in the Conditions or where recognition of the Engineer's statutory responsibility requires it, the word 'Architect' in the Conditions shall be deemed to be read as 'Engineer'.
 
-### 1.9 Sectional completion of the Works
+### 1.8 Sectional completion of the Works
 
 - (1) Where sectional completion of the Works is provided for in the Contract, a reference to the Works shall be deemed to mean the Works or a Section.
 - (2) The phrase 'the whole of the Works' means the Works including all Sections.
 
-### 1.10 Communications
+### 1.9 Communications
 
 - Unless otherwise stated, all notices,certificates and other communications under the Contract between the Employer, the Architect, the Quantity Surveyor and the Contractor shall be in writing.
 
-### 1.11 Notices of default or determination to be sent by special delivery
+### 1.10 Notices of default or determination to be sent by special delivery
 
 -  All notices of default or determination under clauses 35, 36 and 37 shall be sent by special delivery.
 
-### 1.12 Parites to act reasonably and expeditiously
+### 1.11 Parites to act reasonably and expeditiously
 
 - (1) The parties, the Architect and the Quantity Surveyor shall act reasonably and expeditiously in all matters under the Contract including, witout limitation, giving or withholding consent,  approval or agreement, valuing Variations and certifying.
 - (2) All requirements shall be reasonable requirements and, without limitation, the term "to the Architect's satisfaction' shall be construed as meaning to the Architect's reasonable satisfaction and the term "practicable" shall mean reasonably practicable.
