@@ -149,7 +149,7 @@
     - (i) carry out the construction of and complete the Works using materials, goods and workmanship of the types, standards and quality specified in the Contract.
 - (2) Where the Contract requires the Contractor to prepare details, to carry out the design or the development of the Architect's design, unless the requirement of fitness for puroise is specifically stated, the design or the development of the Architect's design shall be carried out with reasonable skill and care and the Contractor shall be responsbile to the Employer for such work.
 
-### 2.2 Contractor' sresponsibility
+### 2.2 Contractor's responsibility
 
 - The Contractor shall remain wholly responsible for carrying out and completing the Works in accordance with the Contract whether or not the Architect or the Architect's representative, if appointed:
     - (a) visits the Works or a place where materials or goods are being manufactured or stored, work is being prepared, or design is being carried out;
@@ -166,18 +166,19 @@
 - (1) The Comtractor shall immediately inform the Architect if the Contractor finds an ambiguity or discrepancy in or divergence between the following documents:
     - (a) the Contract Drawings;
     - (b) the Specification;
-    - (c) the descriptive schedules and other similar documents referred to in clause 5.3(c);
-    - (d) the Nominated Sub-Contract documents and the Nominated Supply Contract documents referred to in clause 5.4 and 5.5; and
-    - (e) the further drawinngs, details, descriptive schedules and similar documents referred to in clauses 5.6 provided from time to time during the carrying out of the Works.
+    - (c) the Contract Bills;
+    - (d) the descriptive schedules and other similar documents referred to in clause 5.3(d);
+    - (e) the Nominated Sub-Contract documents and the Nominated Supply Contract documents referred to in clause 5.4 and 5.5; and
+    - (f) the further drawinngs, details, descriptive schedules and similar documents referred to in clauses 5.6 provided from time to time during the carrying out of the Works.
 - (2) If the Architect agrees with the Contractor, he shall issue an instruction to resolve the ambiguity, discrepancy or divergence as soon as preacticable after receipt of the notice from the Contractor and the instruction shall, if considered appropriate by the Architect, require a Variation.
 
 ## Master programme
 
-### 3.1 master programme to be submitted
+### 3.1 Master programme to be submitted
 
 - (1) The Contractor shall submit to the Architect within the time stated in the Appendix;
-    - (a) copies of a master programme prepared for his own purposes for organising, managing, planning, supervising and co-ordinating the carrying out of the Works and completing them by the Completion Date;
-    - (b) a methos statement describing the methods of construction and the resources that he intends to use to carry out the Works;
+    - (a) 6 copies of a master programme prepared for his own purposes for organising, managing, planning, supervising and co-ordinating the carrying out of the Works and completing them by the Completion Date;
+    - (b) a method statement describing the methods of construction and the resources that he intends to use to carry out the Works;
     - (c) a list of the names and details of the site management and supervisory team personnel, referred to in clause 10, with job descriptions and details of their durations on the Site; and
     - (d) a list of the plant, equipment and temporary works which he intends to supply, use or construct, as the case may be.
 - (2) The master programme shall:
@@ -235,10 +236,10 @@
     - (b) the Form of Tender submitted by the Contractor together with the Employer's letter of acceptance of the Contractor's tender and any correspondence between the parties expressed to form part of the Contract;
     - (c) the Special Conditions if any;
     - (d) the Conditions;
-    - (e) the Contract Drawings;
-    - (f) the Specification; and
-    - (g) the Schedule of Quantities and Rates.
-- (2) The porder of precedence of the documents forming the Contract shall be as listed in parargraphs (a) to (g).
+    - (e) the Contract Drawings; the Specification; and the Contract Bills.
+- (2) The porder of precedence of the documents forming the Contract shall be as listed in parargraphs (a) to (e) above and:
+    - (a) for the purpose of adjusting the Contract Sum, the Contract Bills shall take precedence over the Contract Drawings and the Specification; but
+    - (b) for all other purposes including carrying out the construction of and completing the Works, the Contract Drawings and the Specification shall take precedence over the Contract Bills.
 
 ### 5.2 Architect and Quantity Surveyor to keep documents available
 
@@ -253,11 +254,11 @@
 
 ### 5.4 Nominated Sub-Contract documents
 
-- The Architect shall provide the Contractor, without charge, with 3 further copies of the Nominated Sub-Contract, the sub-contract drawings, the sub-contract specification, the sub-contract schedule  of quantities and ratesm as the case may be, descriptive schedules and other similar documents as soon as practicable after the award of each Nominated Sub-Contract.
+- The Architect shall provide the Contractor, without charge, with 3 further copies of the Nominated Sub-Contract, the sub-contract drawings, the sub-contract specification, the sub-contract bills of quantities or shedules of quantities and rates, as the case may be, descriptive schedules and other similar documents as soon as practicable after the award of each Nominated Sub-Contract.
 
 ### 5.5 Nominated Supply Contract documents
 
-- The Architect shall provide the Contractor, without charge, with 3 further copies of the Nominated Supply Contract, the supply contract drawings, the sub-contract specification, the sub-contract schedule  of quantities and ratesm as the case may be, descriptive schedules and other similar documents as soon as practicable after the award of each Nominated Supply Contract.
+- The Architect shall provide the Contractor, without charge, with 3 further copies of the Nominated Supply Contract, the supply contract drawings, the supply contract specification, the supply contract bills of quantities or schedule of quantities and rates, as the case may be, descriptive schedules and other similar documents as soon as practicable after the award of each Nominated Supply Contract.
 
 ### 5.6 Further drawings, details, descriptive schedules and similar documents
 
@@ -279,7 +280,7 @@
 - The Contractor shall keep on the Site so as to be available to the Architect and the Quantity Surveyor at all reasonable times 1 copy of:
     - (a) the Contract Drawings;
     - (b) The Specification;
-    - (c) the Schedule of Quantities and Rates;
+    - (c) the unpriced bills of quantities;
     - (d) the programmes and other documents referred to in caluse 3;
     - (e) the descriptive schedules or other similar documents referred to in clause 5.3 prepared by the Architect before the acceptance of the Contractor's tender;
     - (f) the Nominated Sub-Contract documents and Nominated Supply Contract documents referred to in clause 5.4 and 5.5.
@@ -296,15 +297,15 @@
 - (2) The Contractor shall assign to the Employer (so far as he is lawfully able to do so) the benefits of all suppliers' and sub-contractors' warranties, guarantees or other ancillary agreements for materials, goods or work insofar as they are required by the Contract, Nominated Sub-Contracts or Nominated Supply Contracts, other than the direct warranties to the Employer required under teh Nominated Sub-Contracts and Nominated Supply Contracts, within 60 days after the issue of the Substantial Completion Certificate for the whole of the Works.
 - (3) Where te Contractor assigns the benefit of a suppliers' or sub-contractors' warranty, guarantee or other ancillary agreement for materials, goods or work to the Employer, the Employer shall exhaust all remedies under the warranty, guarantee or ancillary agreement before enforcing the terms of the Contract against the Contractor in respect of any matter for which a cause of action exists against the sub-contractor or supplier under the warranty, guarantee or other ancillary agreement.
 
-### 5.12 Submission o f as-built drawings
+### 5.12 Submission of as-built drawings
 
 - (1) The Contractor shall submit to the Architect 2 copies of a complete set of the as-built drawings that are required by the Contract, Nominated Sub-Contracts or Nominated Supply Contracts within 60 days of the issue of the Substantial Completion Certificate for the whole of the Works.
-- (2) Where the drawings referred to under clauses 5.3, 5.4, 5.5 have been issued electronically, the Contractor shall, if so required by the Architect, provide the as-built drawings electronically.
+- (2) Where the drawings referred to under clauses 5.3, 5.4, 5.5 and 5.6 have been issued electronically, the Contractor shall, if so required by the Architect, provide the as-built drawings electronically.
 
 ### 5.13 Limits to use of documents
 
 - (1) The Contractor shall not use any of the documents referred to in clause 5 for any purpose other thant eh Works and any proceedings relating to the Contract.
-- (2) Neither the Employer, the Architect nor the Quantity Surveyor shall divulge any of the rates or prices in the Schedule of Quantities and Rates or use them except for the purpose of the Contract and any proceedings relating to the Contract.
+- (2) Neither the Employer, the Architect nor the Quantity Surveyor shall divulge any of the rates or prices in the Contract Bills or use them except for the purpose of the Contract and any proceedings relating to the Contract.
 
 ### 5.14 Issue of Architect's certificates
 
@@ -463,8 +464,8 @@
 ### 13.2 Instructions for Provisional Quantities, Provisional Items and Provisional Sums
 
 - The Architect shall issue an instruction for:
-    - (a) the carrying out of work or the provision of goods covered by Provisional Quantities or Provisional Items in the Contract, Nominated Sub-Contracts or Nominated Supply Contracts; and
-    - (b) the expenditure of Provisional Sums included in the Contract, Nominated Sub-Contracts or Nominated Supply Contracts.
+    - (a) the carrying out of work or the provision of goods covered by Provisional Quantities or Provisional Items in the Contract Bills, Nominated Sub-Contracts or Nominated Supply Contracts; and
+    - (b) the expenditure of Provisional Sums included in the Contract Bills, Nominated Sub-Contracts or Nominated Supply Contracts.
 
 ### 13.3 Valuation of Contractor's work
 
@@ -474,33 +475,33 @@
     - (c) clause 13.2(b) to expand a Provisional Sum,
 - and the Valuation shall be made in accordance with the rules set out in clause 13.4.
 
-### 13.4 Valuation reules
+### 13.4 Valuation rules
 
 - (1) Where the Valuation relates to the carrying out of:
     - (a) additinal or subsituted work which can be properly valued by measurement;
     - (b) work which is the subject of Provisional Quantities or Provisional Items; or
     - (c) work involved in the expenditure of Provisional Sums,
     - thw work shall be measured and shall be valued in accordance with the following rules:
-        - (i) where the work is the same as or similar in character to and is carried out under the same or similar conditions to work priced in the Schedules of Quantities and Rates, and the Variation does not substantially change the quantity of that work, the rates in the Schedule of Quantities and Rates for that work shall determine the Valuation;
-        - (ii) where the work is the same as or similar in character to work priced in the Schedule of Quantities and Rates but is not carried out under the same or similar conditions, or the Variation substantially changes the quantity of that work, the rates in the Schedule of Quantities and Rates for that work shall determine the Valuation but with a fair adjustment for the difference in conditions or quantity;
-        - (iii) where the work is not the same as or similar in character to any work priced in the Schedule of Quantities and Rates the work shall be valued at fair rates; and
+        - (i) where the work is the same as or similar in character to and is carried out under the same or similar conditions to work priced in the Contract Bills, and the Variation does not substantially change the quantity of that work, the rates in the Contract Bills for that work shall determine the Valuation;
+        - (ii) where the work is the same as or similar in character to work priced in the Contract Bills but is not carried out under the same or similar conditions, or the Variation substantially changes the quantity of that work, the rates in the Contract Bills for that work shall determine the Valuation but with a fair adjustment for the difference in conditions or quantity;
+        - (iii) where the work is not the same as or similar in character to any work priced in the Contract Bills the work shall be valued at fair rates; and
         - (iv) the work 'conditions' in clause 13.4(4) shall mean physical conditions and not financial conditions.
     - (2) Where the Valuation relates to work which cannot be properly measured and valued under clause 13.(4) the work may, with the prior consent of the Architect, be carried out as daywoork and provided that the Contractor:
         - (a) gives at least 7 days' notice to the Architect before carrying out the work, or where the work is required urgently, as much prior notice as practicable; and
         - (b) submits vouchers specifying the time spentdaily carrying out the work, the workmen's names, the materials and goods and the plant and equipment employed to the Architect for vertification within 14 days of the work being carried out,
     - the work shall be valued at prime cost comprising labour; materials, goods, plant and equipment plus overheads and profit; and:
-        - (c) priced at the daywork rates in the Contract; or
-        - (d) where there are no daywork rates in the Contract, priced at:
+        - (c) priced at the daywork rates in the Contract Bills; or
+        - (d) where there are no daywork rates in the Contract Bills, priced at:
             - (i) the labour rates contained in the record of Average Daily Wages of Workers Engaged in Government Builidng and Construction Projects published by the Census and Statistics Department of the Government of the Hong Kong Special Administrative Region current at the date when the work is carried out;
             - (ii) the net cost of materials and goods plus the cost of packing, carriage and delivery;
             - (iii) the cost of hiring plant and equipment specifically provided for the work together with the cost of transportation, fuel, maintenance and insurance; and
             - (iv) he percentages for overheads and profit  on the prime cost of the labour, materials, goods, plant and equipment that are included in the Contract or, where no such percentages are included in the Contract, at 15 percent.
-    - (3) Where the Valuation relates to the omission of work included or deemed to have been included in the Schedules of Quantities and Rate:
-        - (a) the rates of the work in the Schedule of Quantities and Rates shall determine the Valuation of the work omitted; and
+    - (3) Where the Valuation relates to the omission of work included or deemed to have been included in the Contract Bills:
+        - (a) the rates of the work in the Contract Bills shall determine the Valuation of the work omitted; and
         - (b) if in the Quantity Surveyor's opinion the Contractor has reasonably incurred expense which has become wholly or partly unnecessaary as a result of the omission of the work, a fair adjustment shall be made to the Valuation in respect of that expense.
     - (4) Where the Valuation does not related to additional or substituted work or the omission of work but relates only to other matters not involving measured work sch as the inposition of or change to an obligation or restriction and the rules in clauses 13.4(1), 13.4(2) or 13.4(3) cannot reasonably be applied, a fair valuation shall be made.
-    - (5) An appropriate allowance shall be made in a Valuation under clause 13.4 for any percentage or lump sum adjustment made to the Schedule of Quantities and Rates.
-    - (6) If compliance with a Variation instructed under clause 13.1 or a deemed Variation under vlause 14.3 substantially changes the conditions under which other work is carried out, and results in the rates in the Schedule of Quantities and Rates for this work becoming unreasonable or inapplicable, then new rates shall be determined based upon the rates in the Schedule of Quantities and Rate adjusted by a fair allowance for the difference in the conditions.
+    - (5) An appropriate allowance shall be made in a Valuation under clause 13.4 for any percentage or lump sum adjustment made to the Contract Bills.
+    - (6) If compliance with a Variation instructed under clause 13.1 or a deemed Variation under vlause 14.3 substantially changes the conditions under which other work is carried out, and results in the rates in the Contract Bills for this work becoming unreasonable or inapplicable, then new rates shall be determined based upon the rates in the Contract Bills adjusted by a fair allowance for the difference in the conditions.
     - (7) In addition to the Variation by daywork under clause 13.4(2) of work which cannot be properly measured and valued under clause 13.4(1), the Architect may instruct the Contractor, with the Contractor's agreement, to carry out any other work, including work which can be properly measured and valued under clause 13.4(1), to be valued on a daywork basis in accordance with clause 13.4(2).
     - (8) If the Architect instructs a Variation for additional work after Substantial Completion, clause 13.4(1) shall not appply and a fair valuation shall be made.
     - (9) No allowance is to be made under clause 13.4 for direct loss and/or expense due to delay to the progress of the Works, disruption, or any other cause for which the Contractor can be reimbursed by payment under any other provision of the Conditions.
@@ -525,7 +526,22 @@
     - (c) under clause 13.2(b) to expend Provisional Sums included in te sub-contract or supply contract;
 - shall be made in accordance with the Nominated Sub-Contract or Nominated Supply Contract.
 
-## 14. [Not used]
+## 14. Contract Bills
+
+### 14.1 Quality and quantity of work included in Contract Sum
+
+- The quality and quantity of the work included in the Contract Sum stated in Article 2 shall be deemed to be that which is set out in the Contract Bill which shall be read in conjuction with the Specification to amplify and supplement the descriptions in the Contract Bills.
+
+### 14.2 Standard Method of Measurement of Building Works
+
+- (1) The Contract Bills, except where expressly stated to the contrary in those bills, have been prepared in accordance with the procedures set out in the Hong Kong Standard Method of Measurement of Building Works current at the time the Tender Documents were issued.
+- (2) A depature from the Standard Method of Measurement of Building Works in measuring any work shall be specifically stated in the 'preliminaries' or 'preambles' sections of the Contract Bills and the same method as used to measure that work shall be used for the measurement of any similar work that may be required to be measured and valued under clause 13.
+
+### 14.3 Errors in Contract Bills
+
+- (1) An error in description or in quantity or the omission of an item from the Contract Bills shall not vitiate the Contract nor release the Contractor from any of his obligations or liabilities.
+- (2) The error in quantity or omission referred to in clause 14.3(1) shall be corrected and shall, for the sole purpose of adjusting the Contract Sum, be deemed to be a Variation required by the Architect and valued in accordance with the Valuation rules under clause 13.4.
+- (3) An error in description of an item shall be corrected, and if in the Quantity Surveyor's opinion the rate for that item in the Contract Bills is no longer fair by reason of that correction, he shall fix a new rate that is fair to both parties.
 
 ## 15. Contract Sum
 
@@ -544,7 +560,7 @@
 
 ### 17.1 Substantial Completion Certificate for the Works
 
-- The Architect shall issue the Substantial Completion Certificate for the Works when he is satisfied that the Works have been substantially completed and have passed the inspections and tests that are required by the Contract to be carried out and completed before Substantial Completion and all uncompleted items of work shall be completed as soon as practicable after issue of the Substantial Completion Certificate, or as instructed by the Architect, and in any case before the expiry of the Defects Liability Period. The Architect shall also issue a list of all the uncompleted items of work together with the Substantial Completion Certificate.
+- The Architect shall issue the Substantial Completion Certificate for the Works when he is satisfied that the Works have been substantially completed and have passed the inspections and tests that are required by the Contract to be carried out and completed before Substantial Completion and all unfinished items of work shall be completed as soon as practicable after the issue of the Substantial Completion Certificate, or as instructed by the Architect, and in any case before the expiry of the Defects Liability Period. 
 
 ### 17.2 Separate Defects Liability Period for each Section and Relevant Part
 
@@ -601,6 +617,6 @@
 
 - The Architect shall issue a Defects Rectification Certificate for the Relevant Part upon the completion of rectifying defects to that part under clause 17.5.
 
-### 18.4 Liquidated abd ascertaubed damages
+### 18.4 Liquidated and ascertaubed damages
 
 - Where the Employer required the Contractor to pay or allow liquidated 

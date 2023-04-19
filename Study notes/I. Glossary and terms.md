@@ -287,3 +287,5 @@ description:
 - groove - 槽
 - chamfer - 倒角
 - nessesitate - 必要
+- amplify - 放大
+- vitiate - 败坏
