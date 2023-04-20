@@ -619,4 +619,63 @@
 
 ### 18.4 Liquidated and ascertaubed damages
 
-- Where the Employer required the Contractor to pay or allow liquidated 
+- Where the Employer required the Contractor to pay or allow liquidated and ascertained damages under clause 24 for the Works or a Section and the Employer has taken possession of a Relevant Part under clause 18.1 then:
+    - (a) where sectional completion is not comtemplated under the Contract, the rate of liquidated and ascertained damages in respect of the Works shall be reduced, during the period when the Works remains incomplete after the Relevant Date, by the same proportion as the estimated amount contained in the Contract Sum for the Relevant Part bears to the Contract Sum; or
+    - (b) where sectional completion is comtemplated under the Contract, the rate of liquidated and ascertained damages in respect of the relevant Section shall be reduced, during the period when the Section remains incomplete after the Relevant Date by the same portion as the estimated amount contained in the Contract Sum for the Relevant Part bears to the estimated amount contained in the Contract Sum for the Section.
+
+### 18.5 Damage by a Specified Peril
+
+- The Contractor is not required to rectify at his own cost any damage to the Relevant Part caused by a Specified Peril occuring after the Relevant Date.
+
+## 19. Assignment and sub-letting
+
+### 19.1 Assignment
+
+- (1) Except where provided otherwise in clause 19.1, neither party shall, without the written consent of the other, assigned or transfer any of his rights or obligations under the Contract.
+- (2) The Contractor must fulfill his organization, management, planning, supervision and co-ordination obligations through the site management and supervisory team referred to in clause 10 and he shall neither assign nor make arrangements for the vicarious performance of those functions.
+- (3) The Employer may assign or transder the whole or any part of the benefit of the Contract after Substantial Completion of the Works, a Section or a Relevant Part without the Contractor's consent. Any assignment shall be notified promptly to the Contractor.
+- (4) Subject to giving prior notice to the Employer, the Contractor may assign the whole or any part of the benefit of the Contract for the purpose of obtaining financing for the carrying out of the Works provided that the assignment does not adversely affect the Contractor's fulfilment of his obligations under the Contract.
+
+### 19.2 Sub-letting
+
+- The Contractor shall be permitted, unless prohibited by the Contract, to sub-let parts of the Works provided that:
+    - (a) he does not sub-let the whole of the Works or incrementally sub-let parts of the Works to the same person to indirectly attain sub-letting of the whole, or substantially the whole of the Works and retains his management role as described in clause 19.1(2) at all times;
+    - (b) the terms of the agreement to sub-let are, so far as is reasonable. consistent with the terms of the Contract;
+    - (c) he submits a plan of his sub-contracting arrangement giving the names of his key sub-contractors with their scope of works and such other particulars as may be required by the Architect;
+    - (d) he does not sub-let any part of the Works to a sub-contractor against whom the Architect has made an objection giving his reasons;
+    - (e) he removes from the Works any sub-contractor he is instructed by the Architect to remove; and
+    - (f) the sub-letting of a part of the Works to a Domestic Sub-Contractor does not relieve the Contractor from any liability or obligation under the Contract and he remains responsible for carrying out and completing the Works in all respects in accordance with the Contract and for the acts, defaults, omissions and neglect of a Domestic Sub-Contractor as fully as if they were his own acts, defaults, omissions or neglect.
+
+## 20. Injury to persons and property and indemnity to Employer
+
+### 20.1 Contractor to indemnify Employer
+
+- The Contractor shall be liable for and shall indemnify the Employer against any damage, expense, liability or loss in respect of any claim or proceedings for:
+    - (a) bodily injury to, disease contracted by or the death of any person arising out of, or in the course of, or by reason of the carrying out of the Works and whether arising on or off the Site, except to the extenet that the injury, disease or death of that person is due to any act or neglect of the Employer or any person for whom the Employer is responsible; and
+    - (b) injury or damage to real or personal property arising out of, or in the course of, or by reason of the carrying out of the Works and whether arising on or off the Site, to the extent that the injury or damage is due to a breach of contract or other default of the Contractor or any person for whom the Contractor is responsible.
+
+## 21. Insurance against injury to persons or property
+
+### 21.1 Employee's Compensation Insurance
+
+- (1) The Contractor shall effect and maintain employee' compensation insurance in compliance with the provisions od the Employees Compensation Ordinance in the joint names of the Contractor, his sub-contractors and their respective sub-contractors of all tiers against all liabilities arising in respect of bodily injury to, disease contracted by or death of the Contractor's or any sub-contractor's of all tiers employees arising out of and in the course of their employement on the Works or in connection with the Contract.
+- (2) The insurance cover shall be against the liabilities referred to in clause 21.1(1) sustained during the period from the Commencement Date until the Defects Rectification Certificate for the whole of the Works has been issued and the Contractor has finally left the Site.
+- (3) As soon as the Contractor becomes aware of any workman or other person employed on the Works or in connection with the Contract suffering any bodily injury, contracting a disease or dying, he shall notify the Commissioner for Labour, with a copy of the notice to the Architect and the insurers.
+
+### 21.2 Third party liability insurance
+
+- (1) The party responsible for effecting Contractors' All Risks Insurance of the Works under either clause 22A, 22B or 22C shall, unless otherwise stated in the Contract, effect insurances in the joint names of the Employer, the Contractor, his sub-contractors and their respective sub-contractors of all tiers against all liabilities of the insured under the Contract or otherwise in respect of:
+    - (a) bodily injury to, disease contracted by or the death of any person arising out of or in the course of or by reason of the carrying out of the Works and whether arising on or off the Site; and
+    - (b) injury or damages to real or personal property other than the Works insofar as the injury or damage arises out of, or in the course of, or by reason of the carrying out of the Works and whether arising on or off the Site, incluidng injury or damage caused by any act or neglect of the Employer or any person for whom the Employer is responsible or by collapse, subsidence, heave, vibration, weakening or removal of support or lowering of ground water due to any cause other than:
+        - (i) ionizing radiation or contamination by radioactivity from any nuclear fuel or from any nuclear waste from the combustion of nuclear fule, radioactive toxic explosive or other hazadous properties of any explosive nuclear assembly or nuclear component thereof;
+        - (ii) pressure waves caused by aircraft or other aerial devises travelling at sonic or supersonic speeds,
+        - (iii) non-negotiable exclusions imposed by the insurance market.
+- (2) The insurance cover shall be against the liabilities referred to in clause 21.2(1) sustained during the period from the Commencement Date until the Defects Rectification Certificate for the whole of the Works has been issued and the Contractor has finally left the Site.
+- (3) The insurance shall include:
+    - (a) a cross liability clause to the effect that the insurances shall cover the Employer, the Contractor, his sub-contractos and their sub-contractors of all tiers as separate insured, and
+    - (b) a waiver of any right of subrogation which the insurers may have against any of the insured.
+- (4) The third party liability insurances against injury or death to any person and injury or damages to real or personal property under clause 21.2(1) shall each be effected with the limit of indemnity stated in the Appendix for any one occurence or series of occurrences arising out of one event but unlimited in the aggregate amount for the period of the insurance.
+
+### 21.3 Insurers and terms to be approved
+
+- (1) The insurances under clause 21 shall be placed with insurers acceptable to both

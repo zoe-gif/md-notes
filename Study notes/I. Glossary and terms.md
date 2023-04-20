@@ -289,3 +289,9 @@ description:
 - nessesitate - 必要
 - amplify - 放大
 - vitiate - 败坏
+- comtemplated - 考虑的
+- vicarious - 替代的
+- subsidence - 沉降
+- heave - 起伏
+- subrogation - 代位权
+- aggregate - 总计的
