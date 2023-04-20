@@ -678,4 +678,40 @@
 
 ### 21.3 Insurers and terms to be approved
 
-- (1) The insurances under clause 21 shall be placed with insurers acceptable to both parties and approved in writing by the party not responsible 
+- (1) The insurances under clause 21 shall be placed with insurers acceptable to both parties and approved in writing by the party not responsible for effecting the insurances.
+- (2) The cover shall be in terms approved by the Architect but in any case cannot be beyond the best terms currently available.
+
+### 21.4 Policies to be produced
+
+- The party responsible for effecting the insurances under clause 21.2 shall provide evidence of cover to the other party prior to the Comnmencement Date and shall produce the policies of insurance and the premium receipts for inspection and approval by the other party as soon as practicle afterwards.
+
+### 21.5 Event of failure to insure
+
+- If either party defaults in effecting or in maintaining the insurance cover required by clause 21, the other party may effect and maintain this insurance and the premium shall be recoverable from the defaulting party as a debt.
+
+### 21.6 No prejudice to Contractor's Indemnity
+
+- The effecting and maintaining of insurances by either the Employer or the Contractor under clause 21 is without prejudice to the Contractor's obligation to indemnify the Employer under clause 20.
+
+## 22. Insurance of the Works
+
+### 22.1 Alterantive clauses for Contractor's All Risks Insurance of the Works
+
+- Either clause 22A, 22B or 22C shall apply according to which of those clauses is specified in the Appendix and both parties shall comply with all the conditions in the insurance policy effected by either party.
+
+### 22.2 Basic requirements for Contractor's All Risks Insurance of the Works
+
+- The basic requirements for Contractor's All Risks Insurance of the Works are, unless otherwise set out in the Specification or Contract Bills or as agreed between the parties, to provide insurance cover against any physical loss of or damage to the Works, existing constructions on the Site, temporary works or materials or goods that are the property of the insured or for which the insured is responsible while on the Site, being fabricated or stored off-Site or in transit by road, rail, air or marine craft within Hong Kong or its territorial waters including:
+    - (a) costs and expenses in respect of shoring and propping up, testing, dismantling or demolishing part of the Works, existing constructions on the Site or remporary works, removing and disposing of debris and damaged materials or goods and protecting the Works, existing constructions on the Site, temporary works and materials or goods;
+    - (b) professional fees at the percentage stated in the Appendix;
+    - (c) all necessary extra costs of express freight or airfreight; and
+    - (d) all necessary extra overtime labour costs,
+    - incurred in the repair, reinstatement, redesign and supervision following damage to the Works, existing constructions on the Site, temporary works or materials or goods from any cause excluding:
+    - (e) the cost of repairing or replacing property which is defective solely due to natural wear and tear resulting from oridinary use or deterioration, rusting or corrosion;
+    - (f) loss or destruction of or damage to cash, banknotes, treasury notes, cheques, stamps, deeds, bonds, bills of exchange, promissory notes or securities;
+    - (g) loss or damage solely due to the total suspension of carrying out the Works where the insured failed to take reasonable precautions
+    - (h) loss of any property by disappearance or by shortage where the loss is revealed only by the making of an inventory or periodic stocktaking and is not traceable to an identifiable event;
+    - (i) loss or damage to materials, goods or work directly resulting from its own defect in materials, goods or workmanship or fault, defect, error or omission in design, plan or specification but not excluding resultant damage to any other materials, goods or work which are lost or damaged as a consequence of those defective materials, goods or work;
+    - (j) loss or damage to property during the period between 14 days after Substantial Completion and the date of issue of the Defects Rectification Certificate other than loss or damage arising from a cause occurring prior to the commencement of that period, or caused in the course of remedying defects or the testing and commisioning of building services or other installations;
+    - (k) loss or damage to plant, equipment and temporary buildings and their contents owned or hired by the Contractor or any person for whom the Contractor is responsible;
+    - (l) ionizing radiation or con

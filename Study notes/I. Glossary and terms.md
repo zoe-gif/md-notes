@@ -295,3 +295,4 @@ description:
 - heave - 起伏
 - subrogation - 代位权
 - aggregate - 总计的
+- reinstatement - 复原
