@@ -502,7 +502,7 @@
             - (i) the labour rates contained in the record of Average Daily Wages of Workers Engaged in Government Builidng and Construction Projects published by the Census and Statistics Department of the Government of the Hong Kong Special Administrative Region current at the date when the work is carried out;
             - (ii) the net cost of materials and goods plus the cost of packing, carriage and delivery;
             - (iii) the cost of hiring plant and equipment specifically provided for the work together with the cost of transportation, fuel, maintenance and insurance; and
-            - (iv) he percentages for overheads and profit  on the prime cost of the labour, materials, goods, plant and equipment that are included in the Contract or, where no such percentages are included in the Contract, at 15 percent.
+            - (iv) the percentages for overheads and profit  on the prime cost of the labour, materials, goods, plant and equipment that are included in the Contract or, where no such percentages are included in the Contract, at 15 percent.
     - (3) Where the Valuation relates to the omission of work included or deemed to have been included in the Schedules of Quantities and Rate:
         - (a) the rates of the work in the Schedule of Quantities and Rates shall determine the Valuation of the work omitted; and
         - (b) if in the Quantity Surveyor's opinion the Contractor has reasonably incurred expense which has become wholly or partly unnecessaary as a result of the omission of the work, a fair adjustment shall be made to the Valuation in respect of that expense.
