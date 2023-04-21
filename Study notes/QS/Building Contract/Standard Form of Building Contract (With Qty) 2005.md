@@ -590,7 +590,7 @@
 
 ### 17.6 Damage by a Specified Peril
 
-- The Contractor is not required to rectify at his own cost any damage caused by a pscified Peril occurring after Substantial Completion.
+- The Contractor is not required to rectify at his own cost any damage caused by a specified Peril occurring after Substantial Completion.
 
 ### 17.7 Other rights and remedies
 
@@ -714,4 +714,66 @@
     - (i) loss or damage to materials, goods or work directly resulting from its own defect in materials, goods or workmanship or fault, defect, error or omission in design, plan or specification but not excluding resultant damage to any other materials, goods or work which are lost or damaged as a consequence of those defective materials, goods or work;
     - (j) loss or damage to property during the period between 14 days after Substantial Completion and the date of issue of the Defects Rectification Certificate other than loss or damage arising from a cause occurring prior to the commencement of that period, or caused in the course of remedying defects or the testing and commisioning of building services or other installations;
     - (k) loss or damage to plant, equipment and temporary buildings and their contents owned or hired by the Contractor or any person for whom the Contractor is responsible;
-    - (l) ionizing radiation or con
+    - (l) ionizing radiation or contamination by radioactivity from any nuclear fuel or from any nuclear waste from the combustion of nuclear fuel, radioactive toxic explosive or other hazardous properties of any explosive nuclear assembly or nuclear component thereof;
+    - (m) pressure waves caused by aircraft or other aerial devices travelling at sonic or supersonic speeds; and
+    - (n) non-negotiatble exclusions imposed by the insurance market.
+
+### 22.3 Specific requirements for Contractor' All Risks Insurance of the Works
+
+- The specific terms and conditions required for the Contractors' All Risks Insurance of the Works if required to be different from the basic terms shall be as set out in the Specification or the Contract Bills or shall be as agreed between the parties but in any case the terms cannot be beyond the best terms currently available.
+
+### 22.4 Insurance of the Works to be in joint names and period of insurances
+
+- (1) The Contractor's All Risks Insurance of the Works shall be effected and maintained in the joint names of the Employer, the Contractor, his sub-contractors and their respective sub-contractors of all tiers and supplier. The insurance cover shall run from the Commencement Date until 14 days after the issue of the Substantial Completion Certificate for the Works or 14 days after the determination of the employment of the Contractor, whether valid or not, whichever is earlier.
+- (2) If the Contractor provides for sectional completion of the Works or the Employer has taken possession of a Relevant Part, the obligation of the party responsible for effecting the Contractor's All Risks Insurance of the Works shall terminate in relation to any Section or Relevant Part 14 days after Substantial Completion of that Section or Relevant Part.
+- (3) The insurance shall include:
+    - (a) a cross liability clause to the effect that the insurances shall cover the Employer, the Contractor, his sub-contractors and their sub-contractors of all tiers and suppliers as separate insured, and
+    - (b) a waiver of any right of subrogation which the insurers may have against any of the insured.
+
+### 25.5 Parties' obligations if loss or damage occurs
+
+- In the event of loss or damage to work, materials or goods caused by a peril covered by the Contractor's All Risks Insurance of the Works the Contractor shall:
+    - (a) notify the Architect of the extent, nature and location of the loss or damage immediately upon discovering it;
+    - (b) follow all of the requirements in the insurance policy, prepare and submit the insurance claim and negotiate with the insurers to achieve a fair settlement; and
+    - (c) restore lost or damaged work, remove and dispose of any debris, repair or replace materials or goods which have been stolen, lost, destroyed or damaged, and proceed with carrying out the Works with due dilligence and in accordance with the Contract immediately after any inspection required by the insurers has been carried out.
+
+### 22.6 Contractor's payment not more than insurance proceeds
+
+- The Contractor shall not be entitled to any payment in respect of the replacement, repair or restoration of the loss or damage and the removal and disposal of debris other than the amount received under the Contractor's All Risks Insurance of the Works unless and to the extent that the loss or damage was caused or contributed to by a breach of contract or other default by the Employer or any person for whom the Employer is responsible.
+
+### 22.7 Insurance without prejudice to Contractor's obligations
+
+- The effecting and maintaining of Contractor's All Risks Insurance of the Works by either party is without prejudice to the Contractor's obligation for the care of the Works under clause 2.1.
+
+## 22A Insurance of the Works by the Contractor
+
+### 22A.1 Contractor to effect Contractor's All Risks Insurance of the Works
+
+- The Contractor shall effect and maintain Contractor's All Risks Insurance of the Works for the full reinstatement value of the Works and all other costs set out in clauses 22.2 and 22.3.
+
+### 22A.2 Insurer to be approved and remedy if Contractor fails to insure
+
+- (1) The Contractor's All Risks Insurance of the Works shall be effected with insurers approved by the Architect. The Contractor shall deposit with the Architect evidence of cover prior to the commencement of the Works and produce the premium receipt and any relevant endorsements as soon as practicable afterwards, followed by a copy of the insurance policy as soon as it becomes available.
+- (2) If the Contractor defaults in effecting or in maintaining the Contractor's All Risks Insurance of the Works, the Employer may effect and maintain it himself and recover the cost of the insurance premium from the Contractor in accordance with clause 40 or as a debt.
+
+### 22A.3 Use of annual policy maintained by Contractor
+
+- (1) If the Contractor maintains an annual policy of insurance which provides cover no less than that required under clause 22A.1, an endorsement attached to the annual policy naming the Works, the Employer, the Contractor, his sub-contractors and their respective sub-contractors of all tiers and supplier shall be a discharge of the Contractor's obligations under clause 22A.1.
+- (2) The Contractor shall produce the annual policy of insurance, premium receipt and the endorsement for inspection by the Architect prior to the commencement of the Works and the annual premium receipt within 14 days after each renewal date.
+
+## 22B Insurance of the Works by the Employer
+
+### 22B.1 The Employer to effect Contractor's All Risks Insurance of the Works
+
+- The Employer shall effect and maintain Contractor's All Risks Insurance of the Works for the full reinstatemet value of the Works and all other costs set out in clauses 22.2 and 22.3.
+
+### Remedy if Employer fails to insure
+
+- (1) The Employer shall provide evidence to the Contractor that the Contractor's All Risks Insurance of the Works under clause 22B.1 has been effected and is being maintained prior to the commencement of the Works and produce the premium receipt abd any relevant endorsements as soon as practicable afterwards, followed by a copy of the insurance policy as soon as it becomes available.
+- (2) If the Employer defaults in effecting or in maintaining the Contractor's All Risks Insurance of the Works, the Contractor may effect and maintain it himself and the cost of the insurance premium shall be added to the Contract Sum.
+
+## 22C. Insurance of existing building and insurance of the Works by the Employer
+
+### 22C.1 Employer to effect insurance against Specified Perils to the existing building
+
+- Where the Works are to be carried out to and/or within an existing building, the Employer shall effect and maintain a policy of insurance against the Specified Perils for the full cost of reinstatement, repair or replacement of loss or damage to that existing building which is to be extended or within which the Works are to be carried out together with its contents and all cother costs set out in clauses 22.2 and 22.3. The insurance cover shall run from the Date for Possession of the Site stated in the Appendix until 14 days after the determination of the employment of the Contracto, whether valid or not, whichever is earlier.

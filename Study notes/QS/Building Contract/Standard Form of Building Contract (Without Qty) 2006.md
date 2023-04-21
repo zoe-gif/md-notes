@@ -582,7 +582,7 @@
 
 ### 17.6 Damage by a Specified Peril
 
-- The Contractor is not required to rectify at his own cost any damage caused by a pscified Peril occurring after Substantial Completion.
+- The Contractor is not required to rectify at his own cost any damage caused by a specified Peril occurring after Substantial Completion.
 
 ### 17.7 Other rights and remedies
 
