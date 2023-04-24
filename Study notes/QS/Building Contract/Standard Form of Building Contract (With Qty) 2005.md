@@ -787,3 +787,5 @@
 - (1) The Employer shall provide evidence to the Contractor that the insurances under clauses 22C.1 and 22C.2 have been effected and are being maintained prior to the commencement of the Works and produce the premium receipts and any relevant endorsements as soon as praticable afterwards, followed by a copy of each of the insurance policies as soon as they become available.
 - (2) If the Employer defaults in effecting or in maintaining the insurances under clauses 22C.1 and/or 22C.2, the Contractor may effect and maintain them himself and the cost of the insurance premiums shall be added to the Contract Sum.
 - (3) The Contractor shall be given the right of entry and inspection to carry out a survey and make an inventory of the exising building and its contents if the clause 22C.1 insurance is to be effected and maintained by the Contractor under clause 22C.3(2).
+
+## 23. Possession, commencement and completion
