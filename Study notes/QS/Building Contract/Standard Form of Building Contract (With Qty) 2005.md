@@ -777,3 +777,13 @@
 ### 22C.1 Employer to effect insurance against Specified Perils to the existing building
 
 - Where the Works are to be carried out to and/or within an existing building, the Employer shall effect and maintain a policy of insurance against the Specified Perils for the full cost of reinstatement, repair or replacement of loss or damage to that existing building which is to be extended or within which the Works are to be carried out together with its contents and all cother costs set out in clauses 22.2 and 22.3. The insurance cover shall run from the Date for Possession of the Site stated in the Appendix until 14 days after the determination of the employment of the Contracto, whether valid or not, whichever is earlier.
+
+### 22C.2 Employer to effect Contractor's All Risks Insurance of the Works
+
+- The Employer shall effect and maintain Contractor's All Risks Insurance of the Works for the full reinstatement value of the Works in and/or to the existing building and all other costs set out in clause 22.2 and 22.3.
+
+### 22C.3 Remedy if Employer fails to insure
+
+- (1) The Employer shall provide evidence to the Contractor that the insurances under clauses 22C.1 and 22C.2 have been effected and are being maintained prior to the commencement of the Works and produce the premium receipts and any relevant endorsements as soon as praticable afterwards, followed by a copy of each of the insurance policies as soon as they become available.
+- (2) If the Employer defaults in effecting or in maintaining the insurances under clauses 22C.1 and/or 22C.2, the Contractor may effect and maintain them himself and the cost of the insurance premiums shall be added to the Contract Sum.
+- (3) The Contractor shall be given the right of entry and inspection to carry out a survey and make an inventory of the exising building and its contents if the clause 22C.1 insurance is to be effected and maintained by the Contractor under clause 22C.3(2).
