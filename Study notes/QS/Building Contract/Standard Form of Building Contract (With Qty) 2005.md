@@ -798,3 +798,10 @@
 ### 23.2 Commencement and completion
 
 - The Contractor shall commence the Works on the Commencement Date stated in the Apppendix or when instructed to do so by the Architect, proceed regularly and diligently with the Works and complete the Works, and, where sectional completion is provided for in the Contract, any Section on or before the Completion Date of the Works or that Section stated in the Appendix.
+
+### 23.3 Postponement or suspension
+
+- The Architect may issue instructions regarding:
+    - (a) the postponement of the Date for Possession of the Site or a part of the Site;
+    - (b) the postponement of the Commencement Date of the whole or part of the Works; or
+    
