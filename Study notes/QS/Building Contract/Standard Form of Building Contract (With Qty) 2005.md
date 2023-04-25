@@ -789,3 +789,12 @@
 - (3) The Contractor shall be given the right of entry and inspection to carry out a survey and make an inventory of the exising building and its contents if the clause 22C.1 insurance is to be effected and maintained by the Contractor under clause 22C.3(2).
 
 ## 23. Possession, commencement and completion
+
+### 23.1 Possession of Site
+
+- (1) The Employer shall give possession of the Site to the Contractor on or before the Date for Possession of the Site stated in the Appendix.
+- (2) Where the Contract provides for the Employer to give possession of the Site to the Contractor in two or more parts on the dates stated in the Appendix, the Employer shall give possession of the Site to the Contractor in parts on or before those dates.
+
+### 23.2 Commencement and completion
+
+- The Contractor shall commence the Works on the Commencement Date stated in the Apppendix or when instructed to do so by the Architect, proceed regularly and diligently with the Works and complete the Works, and, where sectional completion is provided for in the Contract, any Section on or before the Completion Date of the Works or that Section stated in the Appendix.
