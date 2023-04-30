@@ -181,10 +181,10 @@ description:
                     m \bar x + b &= \bar y
                     \end{cases}$
 
-                - $(\bar x, \bar y)$ & $(\frac{\bar {x^2}}{\bar x}, \frac {\bar {xy}}{\bar x})$ on least square regression line $\hat y = mx + b$
+                - $(\bar x, \bar y)$ & $(\frac{\bar {x^2}}{\bar x}, \frac {\bar {xy} }{\bar x})$ on least square regression line $\hat y = mx + b$
 
                 - $\begin{cases}
-                    m &= \dfrac{\bar x \bar y - \bar {xy}} {{\bar x}^2 - \bar{x^2}} \\
+                    m &= \dfrac{\bar x \bar y - \bar {xy} } { {\bar x}^2 - \bar{x^2} } \\
                     b &= \bar y - m \bar x
                     \end{cases}$
 - Coefficient of determination R-squared
